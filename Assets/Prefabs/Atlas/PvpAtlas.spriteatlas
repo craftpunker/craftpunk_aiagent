@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PvpAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: dcbe9e82512cbdd4b97ac42acfa8bfae, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - dac4c910148590f46ba4846ee58849d1: 21300000
+    - 8b71ce50a56c02a42880f8aa91d6d6f7: 21300000
+    - 62b7ed60ca5a93248977ade73ecd0534: 21300000
+    - da305180ab98c7b4e9325f44b5483cfc: 21300000
+    - 58e03380c0eaa7349a928b10f38657c4: 21300000
+    - e69300c06aece3e49a0f34a96ca1a973: 21300000
+    - 05d53f715fc086b46b8d2bef5364ca36: 21300000
+    - 487150814c85fdc4bbc798d84b2fea5d: 21300000
+    - 162693f1920c18a4c8316b0e7b30426a: 21300000
+    - 9bdfd602240f5bd4d90ffee0687dd993: 21300000
+    - 17c7027294f60014898f116aeb8f57ad: 21300000
+    - 3b7945d2685c1ed4b9481782edf156c4: 21300000
+    - 249d9e03433173940977bb92c59eecc6: 21300000
+    - 189c5873d7754e0489a799d9a6398c37: 21300000
+    - 88b89104489fd4340a2f36d238ac3405: 21300000
+    - 8657f024d9b871a44a91bb8e24237940: 21300000
+    - 007b2344cdf16aa4e9fff3ede6748899: 21300000
+    - c6661794a6c13494aa9e7e95ce8ce297: 21300000
+    - c120cc1502eb5c840add44b8178f2ef1: 21300000
+    - a8d63cd53a5d22f47b43f227177730d6: 21300000
+    - fd90b1569595bf34a86f563414e5a348: 21300000
+    - ad5f3866126d3ed42a10b9a06ccaf7f7: 21300000
+    - d5dec927de81e744cb561a9caad87a33: 21300000
+    - f9ecbc27c20950e47846eb2f36202a24: 21300000
+    - 661dac878deaada48a5f5b8f0e9e403a: 21300000
+    - 8768b1c702f2bfc4994ec57097213c87: 21300000
+    - 3afea72828315d74ba7cf862c6302657: 21300000
+    - 24ae3938ced975e429901f264728965d: 21300000
+    - 0e00d6987b212e644b4b75ee8ada0666: 21300000
+    - cf71bcc8149c92e47ae0555119ec5669: 21300000
+    - f6cb98091f033704f88dcd56d04f0165: 21300000
+    - 59dcfd091d6e1db4795124771c2ea05a: 21300000
+    - 192c5ca96dc6a2b41bcdde1008aa19ea: 21300000
+    - fca8482a145bbc64999e0d8ba51836bd: 21300000
+    - f9ad3e2a7365e6f4aaf66a743139b911: 21300000
+    - 5b03225a44fd4d6479f61023dd594505: 21300000
+    - a30bfcfafe2203a4c948cac5f32f307d: 21300000
+    - a4862a6b97f6e274582001f4c5b800bf: 21300000
+    - adafd9db614d3fd438755db633f72ee2: 21300000
+    - 06614e1ca9679f345b8a37b8b2d4e636: 21300000
+    - 234e836caa022ad4989320f3363d2c85: 21300000
+    - b0121f6ceb4bcba4ab7d8781401076a9: 21300000
+    - c639d69c34bcc5f4abc2a326e2f23eb2: 21300000
+    - 9e05f32d1124f434fb14bf1b3718ef36: 21300000
+    - 322d938daa5214a4f8c059c1ad515186: 21300000
+    - ffd92dfd523860c4db15b7a33cbf52ab: 21300000
+    - 03a5befd6f73cc7489bcf9bb3016f7c2: 21300000
+    - ce96f80e9d1082341a04bc9490a84350: 21300000
+    - 7e755c1e398379846ab9532ce34b0780: 21300000
+    - a6ba613e31f44bd47ac43c77d1f9629d: 21300000
+    - f81050ae3cef60d4d82d3cece443314b: 21300000
+    - a33c7b4f006ff5e4fb6a3ebcf5652855: 21300000
+    - fbc4ed7fbea986049b93ad272e1e7ad1: 21300000
+    - 9d5b758f9dd46274d8a719709f77f106: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: dac4c910148590f46ba4846ee58849d1, type: 3}
+  - {fileID: 21300000, guid: 8b71ce50a56c02a42880f8aa91d6d6f7, type: 3}
+  - {fileID: 21300000, guid: 62b7ed60ca5a93248977ade73ecd0534, type: 3}
+  - {fileID: 21300000, guid: da305180ab98c7b4e9325f44b5483cfc, type: 3}
+  - {fileID: 21300000, guid: 58e03380c0eaa7349a928b10f38657c4, type: 3}
+  - {fileID: 21300000, guid: e69300c06aece3e49a0f34a96ca1a973, type: 3}
+  - {fileID: 21300000, guid: 05d53f715fc086b46b8d2bef5364ca36, type: 3}
+  - {fileID: 21300000, guid: 487150814c85fdc4bbc798d84b2fea5d, type: 3}
+  - {fileID: 21300000, guid: 162693f1920c18a4c8316b0e7b30426a, type: 3}
+  - {fileID: 21300000, guid: 9bdfd602240f5bd4d90ffee0687dd993, type: 3}
+  - {fileID: 21300000, guid: 17c7027294f60014898f116aeb8f57ad, type: 3}
+  - {fileID: 21300000, guid: 3b7945d2685c1ed4b9481782edf156c4, type: 3}
+  - {fileID: 21300000, guid: 249d9e03433173940977bb92c59eecc6, type: 3}
+  - {fileID: 21300000, guid: 189c5873d7754e0489a799d9a6398c37, type: 3}
+  - {fileID: 21300000, guid: 88b89104489fd4340a2f36d238ac3405, type: 3}
+  - {fileID: 21300000, guid: 8657f024d9b871a44a91bb8e24237940, type: 3}
+  - {fileID: 21300000, guid: 007b2344cdf16aa4e9fff3ede6748899, type: 3}
+  - {fileID: 21300000, guid: c6661794a6c13494aa9e7e95ce8ce297, type: 3}
+  - {fileID: 21300000, guid: c120cc1502eb5c840add44b8178f2ef1, type: 3}
+  - {fileID: 21300000, guid: a8d63cd53a5d22f47b43f227177730d6, type: 3}
+  - {fileID: 21300000, guid: fd90b1569595bf34a86f563414e5a348, type: 3}
+  - {fileID: 21300000, guid: ad5f3866126d3ed42a10b9a06ccaf7f7, type: 3}
+  - {fileID: 21300000, guid: d5dec927de81e744cb561a9caad87a33, type: 3}
+  - {fileID: 21300000, guid: f9ecbc27c20950e47846eb2f36202a24, type: 3}
+  - {fileID: 21300000, guid: 661dac878deaada48a5f5b8f0e9e403a, type: 3}
+  - {fileID: 21300000, guid: 8768b1c702f2bfc4994ec57097213c87, type: 3}
+  - {fileID: 21300000, guid: 3afea72828315d74ba7cf862c6302657, type: 3}
+  - {fileID: 21300000, guid: 24ae3938ced975e429901f264728965d, type: 3}
+  - {fileID: 21300000, guid: 0e00d6987b212e644b4b75ee8ada0666, type: 3}
+  - {fileID: 21300000, guid: cf71bcc8149c92e47ae0555119ec5669, type: 3}
+  - {fileID: 21300000, guid: f6cb98091f033704f88dcd56d04f0165, type: 3}
+  - {fileID: 21300000, guid: 59dcfd091d6e1db4795124771c2ea05a, type: 3}
+  - {fileID: 21300000, guid: 192c5ca96dc6a2b41bcdde1008aa19ea, type: 3}
+  - {fileID: 21300000, guid: fca8482a145bbc64999e0d8ba51836bd, type: 3}
+  - {fileID: 21300000, guid: f9ad3e2a7365e6f4aaf66a743139b911, type: 3}
+  - {fileID: 21300000, guid: 5b03225a44fd4d6479f61023dd594505, type: 3}
+  - {fileID: 21300000, guid: a30bfcfafe2203a4c948cac5f32f307d, type: 3}
+  - {fileID: 21300000, guid: a4862a6b97f6e274582001f4c5b800bf, type: 3}
+  - {fileID: 21300000, guid: adafd9db614d3fd438755db633f72ee2, type: 3}
+  - {fileID: 21300000, guid: 06614e1ca9679f345b8a37b8b2d4e636, type: 3}
+  - {fileID: 21300000, guid: 234e836caa022ad4989320f3363d2c85, type: 3}
+  - {fileID: 21300000, guid: b0121f6ceb4bcba4ab7d8781401076a9, type: 3}
+  - {fileID: 21300000, guid: c639d69c34bcc5f4abc2a326e2f23eb2, type: 3}
+  - {fileID: 21300000, guid: 9e05f32d1124f434fb14bf1b3718ef36, type: 3}
+  - {fileID: 21300000, guid: 322d938daa5214a4f8c059c1ad515186, type: 3}
+  - {fileID: 21300000, guid: ffd92dfd523860c4db15b7a33cbf52ab, type: 3}
+  - {fileID: 21300000, guid: 03a5befd6f73cc7489bcf9bb3016f7c2, type: 3}
+  - {fileID: 21300000, guid: ce96f80e9d1082341a04bc9490a84350, type: 3}
+  - {fileID: 21300000, guid: 7e755c1e398379846ab9532ce34b0780, type: 3}
+  - {fileID: 21300000, guid: a6ba613e31f44bd47ac43c77d1f9629d, type: 3}
+  - {fileID: 21300000, guid: f81050ae3cef60d4d82d3cece443314b, type: 3}
+  - {fileID: 21300000, guid: a33c7b4f006ff5e4fb6a3ebcf5652855, type: 3}
+  - {fileID: 21300000, guid: fbc4ed7fbea986049b93ad272e1e7ad1, type: 3}
+  - {fileID: 21300000, guid: 9d5b758f9dd46274d8a719709f77f106, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ui_PVP_attack
+  - Ui_bojin
+  - Ui_PVP_ranking_title
+  - Ui_qingtong
+  - Ui_PVP_select_scene
+  - Ui_PVP_infor_bg
+  - Ui_PVP_s_time
+  - Ui_PVP_fight
+  - ui_battle_frame_icon
+  - ui_gain_bg_a
+  - ui_battle_set up_icon
+  - Ui_PVP_shuaxin
+  - ui_Soldier_data_attack_icon
+  - Ui_PVP_power
+  - ui_Battle button_a
+  - Ui_zuanshi
+  - Ui_PVP_win
+  - ui_battle_surrender_icon
+  - Ui_PVP_defense
+  - Ui_select_a
+  - Ui_PVP_infor_title
+  - Ui_PVP_infor
+  - ui_battle_pvp_bg
+  - ui_battle_loading_bg_icon
+  - honor_3
+  - Ui_PVP_history
+  - honor_2
+  - Ui_PVP_honor
+  - Ui_dashi
+  - honor_1
+  - honor_5
+  - Ui_huangjin
+  - Ui_PVP_duels_bg_a
+  - Ui_baiyin
+  - Ui_PVP_infor_display
+  - ui_battle_head_icon
+  - Ui_PVP_points
+  - ui_battle_Guilding_icon
+  - Ui_loading_bg
+  - Ui_PVP_ranking_display
+  - Ui_PVP_ranking_a
+  - Ui_PVP_revenge
+  - ui_point_a
+  - Ui_PVP_ranking
+  - Ui_PVP_infor_reward
+  - Ui_PVP_fail
+  - Ui_PVP_bg
+  - honor_6
+  - Ui_PVP_play
+  - ui_battle_loading_icon
+  - Ui_loading_grid
+  - Ui_PVP_infor_rule
+  - honor_4
+  - ui_gain_bg_gold
+  m_RenderDataMap: {}
+  m_Tag: PvpAtlas
+  m_IsVariant: 0

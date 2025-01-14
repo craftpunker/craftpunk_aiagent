@@ -1,0 +1,308 @@
+{
+	"10001": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10001_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10002": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10002_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10003": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10003_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10004": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10004_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10005": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10005_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10006": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10006_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10007": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10007_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10008": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10008_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10009": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10009_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10010": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10010_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10011": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10011_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10012": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10012_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10013": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10013_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10014": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10014_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10015": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10015_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"10016": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10016_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"20001": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "",
+		"deadAudio": "soldier_common_dead"
+	},
+	"80001": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "",
+		"deadAudio": "soldier_common_dead"
+	},
+	"81001": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90001": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10001_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90002": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10002_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90003": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10003_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90004": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10004_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90005": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10005_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90006": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10006_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90007": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10007_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90008": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10008_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90009": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10009_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90010": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10010_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90011": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10011_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90012": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10012_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90013": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10013_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90014": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10014_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90015": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10015_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"90016": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10016_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91001": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10001_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91002": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10002_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91003": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10003_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91004": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10004_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91005": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10005_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91006": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10006_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91007": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10007_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91008": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10008_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91009": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10009_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91010": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10010_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91011": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10011_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91012": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10012_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91013": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10013_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91014": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10014_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91015": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10015_atk",
+		"deadAudio": "soldier_common_dead"
+	},
+	"91016": {
+		"bornAudio": "",
+		"moveAudio": "",
+		"attackAudio": "10016_atk",
+		"deadAudio": "soldier_common_dead"
+	}
+}

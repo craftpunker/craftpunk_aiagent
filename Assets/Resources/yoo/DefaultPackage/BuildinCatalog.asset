@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b05c83971e3dca94f9fa460d396385e5, type: 3}
+  m_Name: BuildinCatalog
+  m_EditorClassIdentifier: 
+  PackageName: DefaultPackage
+  PackageVersion: 2024-12-26-1010
+  Wrappers:
+  - BundleGUID: 04505af5e98acb197d3dbe8c40220d8f
+    FileName: assets_prefabs_2dmodel_gpueffect.bundle
+  - BundleGUID: bc96d74876ee7557ad9c4650288b1017
+    FileName: assets_prefabs_2dmodel_gpueffect_skill_1.bundle
+  - BundleGUID: 2cb894e6e08c8c27a751fd4518964510
+    FileName: assets_prefabs_2dmodel_gpueffect_skill_2.bundle
+  - BundleGUID: 14ea74d4916846d4a020b965816977bf
+    FileName: assets_prefabs_2dmodel_gpuentity.bundle
+  - BundleGUID: 514218f05af14b8964234c7991778743
+    FileName: assets_prefabs_2dmodel_gpuentity_a.bundle
+  - BundleGUID: 6cb93226cbf56401dd1c39496392be71
+    FileName: assets_prefabs_2dmodel_gpuuieffect_1.bundle
+  - BundleGUID: 095298661c4a187650f1d9c8a2b2e1a8
+    FileName: assets_prefabs_2dmodel_gpuuieffect_2.bundle
+  - BundleGUID: a30d026dadc11ef50dadfb843cc77328
+    FileName: assets_prefabs_2dmodel_map.bundle
+  - BundleGUID: 8d82c26ef688c19018054e58cafec74b
+    FileName: assets_prefabs_2dmodel_troopmono.bundle
+  - BundleGUID: b696869eac79355e10da0312466da74c
+    FileName: assets_prefabs_2dmodel_trooprange.bundle
+  - BundleGUID: 6b64e12e6fbf37a2e52a2dc48617a660
+    FileName: assets_prefabs_3dmodel.bundle
+  - BundleGUID: fd605807e8ddd65fe70b275b38f39b19
+    FileName: assets_prefabs_atlas_battleatlas.bundle
+  - BundleGUID: 5776410f20c54417bf4048d7ca23c86b
+    FileName: assets_prefabs_atlas_cardiconatlas.bundle
+  - BundleGUID: 4940ad907d6f5b766565300c820d6689
+    FileName: assets_prefabs_atlas_commonatlas.bundle
+  - BundleGUID: 0234397c003118f7fc585a888093bfa9
+    FileName: assets_prefabs_atlas_loginatlas.bundle
+  - BundleGUID: 1af073ad31fd9d6bbfe1d2384e03c3a8
+    FileName: assets_prefabs_atlas_mainatlas.bundle
+  - BundleGUID: 0097971c44df240b0d461d4850ffe7fb
+    FileName: assets_prefabs_atlas_missionatlas.bundle
+  - BundleGUID: 166cfade2aed61f8c47a39a58acac75e
+    FileName: assets_prefabs_atlas_pveatlas.bundle
+  - BundleGUID: 59623ddea11a8510abaa5c802a69852e
+    FileName: assets_prefabs_atlas_pvpatlas.bundle
+  - BundleGUID: e3c44e2e8e0b903fa8df4aa376c876c6
+    FileName: assets_prefabs_atlas_setsoldieratlasatlas.bundle
+  - BundleGUID: 506a91831b8e5b06d7ca6d0314976dc4
+    FileName: assets_prefabs_atlas_shopatlas.bundle
+  - BundleGUID: 692cf35e4151082034fdd4c362c846c4
+    FileName: assets_prefabs_atlas_soldiericonatlas.bundle
+  - BundleGUID: 45ff0cbe6cbf37aade70b452fa0459f2
+    FileName: assets_prefabs_atlas_web3atlas.bundle
+  - BundleGUID: edbdb8306a929368f29d6e47dfc768d8
+    FileName: assets_prefabs_atlas_web3iconatlas.bundle
+  - BundleGUID: db371362b5d7cc818b96140d1eaf1199
+    FileName: assets_prefabs_audio.bundle
+  - BundleGUID: a39774e4ae4a1e366b9592992a76f355
+    FileName: assets_prefabs_bigimg_scene_right_1_1.bundle
+  - BundleGUID: ec6ce304aee70e2a134a3b16c4e9d43b
+    FileName: assets_prefabs_bigimg_scene_right_1_2.bundle
+  - BundleGUID: a5df7076f67b8ae022290d38507fbe4d
+    FileName: assets_prefabs_bigimg_scene_right_1_3.bundle
+  - BundleGUID: afcacb53af9a116b9b67ec8f8acae13c
+    FileName: assets_prefabs_bigimg_scene_right_1_4.bundle
+  - BundleGUID: 5d9f2171dc79399071d7b5e61b59bb06
+    FileName: assets_prefabs_bigimg_scene_right_2.bundle
+  - BundleGUID: 44082d489719052c2fb7ef1d1ad225a2
+    FileName: assets_prefabs_bigimg_scene_right_4.bundle
+  - BundleGUID: 5a3f201510a8e1a6f3b50ee729bf89d2
+    FileName: assets_prefabs_bigimg_ui_diamond_bg_a.bundle
+  - BundleGUID: 813f0a44c160ce406ce5b890f31f1b0b
+    FileName: assets_prefabs_bigimg_ui_gold_bg_a.bundle
+  - BundleGUID: 3e441ed02797d215e1fdadf0a7fecf15
+    FileName: assets_prefabs_bigimg_ui_log_on_bg.bundle
+  - BundleGUID: 5b21f7a5dabdb24a66a3626e4d546f42
+    FileName: assets_prefabs_bigimg_ui_soldier_card_bg.bundle
+  - BundleGUID: 798cfc56bcd34675b21e115545f9daaa
+    FileName: assets_prefabs_bigimg_ui_soldier_detailed_bg_a.bundle
+  - BundleGUID: 6856b17d3fcfa96271ae2d98043540f9
+    FileName: assets_prefabs_bigimg_ui_soldier_troop_interface_bg.bundle
+  - BundleGUID: 102df929f9a1650073ea3efc1f555c61
+    FileName: assets_prefabs_json.bundle
+  - BundleGUID: 7e4a5066c8ab495126486f1ebcd9e297
+    FileName: assets_prefabs_mat.bundle
+  - BundleGUID: ad0c6fd254491af80ee730c00f8a544e
+    FileName: assets_prefabs_panel.bundle
+  - BundleGUID: 5e6a3ba4c7007f2b9346f8bb897ed92f
+    FileName: assets_prefabs_panel_battle.bundle
+  - BundleGUID: df7d6a21c84a9cbadca9d5df20f3829a
+    FileName: assets_prefabs_panel_card.bundle
+  - BundleGUID: c1e48d9022e2f1582bdb82aae3f16dfa
+    FileName: assets_prefabs_panel_guide.bundle
+  - BundleGUID: c717ab5afef1c3ffd19321033afb4642
+    FileName: assets_prefabs_panel_home.bundle
+  - BundleGUID: 0b27537419825530dec318872e0d9285
+    FileName: assets_prefabs_panel_loading.bundle
+  - BundleGUID: 830de63cb1ec67da7097d871e7a3436f
+    FileName: assets_prefabs_panel_login.bundle
+  - BundleGUID: b66aa88b7cf78591cccbfd066a078edc
+    FileName: assets_prefabs_panel_mail.bundle
+  - BundleGUID: 5dd72e8d579584904c95ded445f36ec0
+    FileName: assets_prefabs_panel_mission.bundle
+  - BundleGUID: e07dba45af7993ee00841cb0a13024e8
+    FileName: assets_prefabs_panel_putsoldier.bundle
+  - BundleGUID: fcfbd4c505b830ceb3c45194632a96b4
+    FileName: assets_prefabs_panel_pve.bundle
+  - BundleGUID: 26c84736a99c6c0241dfa81c499f7b80
+    FileName: assets_prefabs_panel_pvp.bundle
+  - BundleGUID: 79de89953b2bcc9949c9939fc2542280
+    FileName: assets_prefabs_panel_pvphistory.bundle
+  - BundleGUID: f52912940d6e3e5f321dfd1af264d95b
+    FileName: assets_prefabs_panel_resanim.bundle
+  - BundleGUID: 652c757d2d2d0ae767728da735d81473
+    FileName: assets_prefabs_panel_shop.bundle
+  - BundleGUID: 62575a606c672b4df4d2aa3dacca14ea
+    FileName: assets_prefabs_panel_soldierlevelup.bundle
+  - BundleGUID: 31c9bc7dbe44698b7472497735fe1446
+    FileName: assets_prefabs_panel_topshowres.bundle
+  - BundleGUID: e6039e7a9b2116746490ce1da7468a99
+    FileName: assets_prefabs_panel_web3.bundle
+  - BundleGUID: 3c7e36130ed51bfcf7f2b8d54316317f
+    FileName: assets_prefabs_test.bundle
+  - BundleGUID: 6599a1274256fa6e2766e2fa44c9d068
+    FileName: share_assets_art_material.bundle
+  - BundleGUID: c4a704f68dcb9c65cf0f54263744791c
+    FileName: share_assets_art_scene.bundle
+  - BundleGUID: e77bb669ab8f43b92203c4a860d242c6
+    FileName: share_assets_art_ttf.bundle
+  - BundleGUID: 3a3070211d75bc85dc4097cb08377e07
+    FileName: share_assets_res_3dmodel_biaoqiang.bundle
+  - BundleGUID: 33708071d740f86ede123037e9cd6b02
+    FileName: share_assets_res_3dmodel_bullet_lightning.bundle
+  - BundleGUID: 533ff8b020c7bf010786e3b31640e69d
+    FileName: share_assets_res_3dmodel_gj_01.bundle
+  - BundleGUID: 8f499a288e6d9cc68427a61faa9eb0b3
+    FileName: share_assets_res_mail.bundle
+  - BundleGUID: 8a9deb567802334db5400a33d05d62fc
+    FileName: share_assets_res_sprite_attribute.bundle
+  - BundleGUID: 7344a40338f8933859e5c102fc93ec83
+    FileName: share_assets_res_sprite_battle.bundle
+  - BundleGUID: 513b77357a0b7db99a2cf233e75911c2
+    FileName: share_assets_res_sprite_bigimg.bundle
+  - BundleGUID: bde6cc710104be6549907a3a266d9923
+    FileName: share_assets_res_sprite_board.bundle
+  - BundleGUID: 1ec5e2d2e22b390c4cf0b5d24c2da885
+    FileName: share_assets_res_sprite_cardicon.bundle
+  - BundleGUID: 4e12a1a4bcafe84ade894ae864dc7f4d
+    FileName: share_assets_res_sprite_common.bundle
+  - BundleGUID: 34c8a8c728b42e3faf0c3e20a8da9fa0
+    FileName: share_assets_res_sprite_loading.bundle
+  - BundleGUID: c971ddae149bdf7de4d996b1ea7b3108
+    FileName: share_assets_res_sprite_login.bundle
+  - BundleGUID: 593e7e4ca09209efbbe793e862b63da8
+    FileName: share_assets_res_sprite_main.bundle
+  - BundleGUID: cc81951e20b2003a059e861bea2ac26b
+    FileName: share_assets_res_sprite_mission.bundle
+  - BundleGUID: 9e8d2db76fb20e5bb548ddf6ee7ba22a
+    FileName: share_assets_res_sprite_pve.bundle
+  - BundleGUID: 4892135e3f8de42010b60fdbfc222cc7
+    FileName: share_assets_res_sprite_pvp.bundle
+  - BundleGUID: 54d863577b9be54cb08648bc8f11b7d2
+    FileName: share_assets_res_sprite_setsoldier.bundle
+  - BundleGUID: 5c97dbb4e55a3dfb741a2f235059dfc6
+    FileName: share_assets_res_sprite_shop.bundle
+  - BundleGUID: 813ce86b5aedcf505b118ed3cba3013d
+    FileName: share_assets_res_sprite_soldiericon.bundle
+  - BundleGUID: 02d966ff5bc1346c4f741e54506fd3a7
+    FileName: share_assets_res_sprite_soldierlevelup.bundle
+  - BundleGUID: 7ac4785d2cc266b18041e5aee32cb7f0
+    FileName: share_assets_res_sprite_web3.bundle
+  - BundleGUID: 78665412f3a636772b040f353ae6a6f9
+    FileName: share_assets_res_sprite_web3icon.bundle
+  - BundleGUID: 07d1b807e1703a07b026cee5d31d5a77
+    FileName: share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle
+  - BundleGUID: 159c81b1540469f36784a0ba7c481c6b
+    FileName: unityshaders.bundle

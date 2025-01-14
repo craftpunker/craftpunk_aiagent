@@ -1,0 +1,1479 @@
+{
+	"1000110": {
+		"cfgId": 1000110,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001000
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1000210": {
+		"cfgId": 1000210,
+		"type": 2,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001000
+		],
+		"intArgs": [
+			12000,
+			7500,
+			300,
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30002
+		]
+	},
+	"1000300": {
+		"cfgId": 1000300,
+		"type": 1,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			30001000
+		],
+		"intArgs": [
+			0
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1000310": {
+		"cfgId": 1000310,
+		"type": 3,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10002000
+		],
+		"intArgs": [
+			1200,
+			-1000,
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1000410": {
+		"cfgId": 1000410,
+		"type": 8,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001004
+		],
+		"intArgs": [
+			8000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30026
+		]
+	},
+	"1000411": {
+		"cfgId": 1000411,
+		"type": 3,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001005
+		],
+		"intArgs": [
+			1200,
+			-1000,
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30003
+		]
+	},
+	"1000510": {
+		"cfgId": 1000510,
+		"type": 8,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001000
+		],
+		"intArgs": [
+			15000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30027
+		]
+	},
+	"1000600": {
+		"cfgId": 1000600,
+		"type": 1,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			25001000
+		],
+		"intArgs": [
+			0
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1000610": {
+		"cfgId": 1000610,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001000
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1000710": {
+		"cfgId": 1000710,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001000
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1000810": {
+		"cfgId": 1000810,
+		"type": 2,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001000
+		],
+		"intArgs": [
+			12000,
+			7500,
+			300,
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30002
+		]
+	},
+	"1000910": {
+		"cfgId": 1000910,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001000
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1001010": {
+		"cfgId": 1001010,
+		"type": 2,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001000
+		],
+		"intArgs": [
+			12000,
+			7500,
+			300,
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30002
+		]
+	},
+	"1001110": {
+		"cfgId": 1001110,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001000
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1001200": {
+		"cfgId": 1001200,
+		"type": 1,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			25002001
+		],
+		"intArgs": [
+			0
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1001210": {
+		"cfgId": 1001210,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001000
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1001310": {
+		"cfgId": 1001310,
+		"type": 3,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001000
+		],
+		"intArgs": [
+			1200,
+			2000,
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1001410": {
+		"cfgId": 1001410,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001000
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1001510": {
+		"cfgId": 1001510,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001003
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1001511": {
+		"cfgId": 1001511,
+		"type": 3,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			15001000
+		],
+		"intArgs": [
+			1200,
+			3000,
+			0
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"1001610": {
+		"cfgId": 1001610,
+		"type": 10,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10008000
+		],
+		"intArgs": [
+			5000,
+			3000,
+			1000
+		],
+		"stringArgs": [
+			"Bullet_Lightning"
+		],
+		"animCfgIds": []
+	},
+	"1001611": {
+		"cfgId": 1001611,
+		"type": 10,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10008000
+		],
+		"intArgs": [
+			5000,
+			4000,
+			1000
+		],
+		"stringArgs": [
+			"Bullet_Lightning"
+		],
+		"animCfgIds": []
+	},
+	"1001612": {
+		"cfgId": 1001612,
+		"type": 10,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10008000
+		],
+		"intArgs": [
+			5000,
+			5000,
+			1000
+		],
+		"stringArgs": [
+			"Bullet_Lightning"
+		],
+		"animCfgIds": []
+	},
+	"1001613": {
+		"cfgId": 1001613,
+		"type": 10,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10008000
+		],
+		"intArgs": [
+			5000,
+			6000,
+			1000
+		],
+		"stringArgs": [
+			"Bullet_Lightning"
+		],
+		"animCfgIds": []
+	},
+	"1001614": {
+		"cfgId": 1001614,
+		"type": 10,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10008000
+		],
+		"intArgs": [
+			5000,
+			7000,
+			1000
+		],
+		"stringArgs": [
+			"Bullet_Lightning"
+		],
+		"animCfgIds": []
+	},
+	"1060150": {
+		"cfgId": 1060150,
+		"type": 5,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			10001001,
+			10001002
+		],
+		"intArgs": [
+			2400,
+			3800
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30003
+		]
+	},
+	"1070110": {
+		"cfgId": 1070110,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			23001990
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000101": {
+		"cfgId": 7000101,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001010
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000102": {
+		"cfgId": 7000102,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001020
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000103": {
+		"cfgId": 7000103,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001030
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000104": {
+		"cfgId": 7000104,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001040
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000105": {
+		"cfgId": 7000105,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001050
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000106": {
+		"cfgId": 7000106,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001060
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000107": {
+		"cfgId": 7000107,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001070
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000108": {
+		"cfgId": 7000108,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001080
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000109": {
+		"cfgId": 7000109,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001090
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000110": {
+		"cfgId": 7000110,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001100
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000111": {
+		"cfgId": 7000111,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001110
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000112": {
+		"cfgId": 7000112,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001120
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000113": {
+		"cfgId": 7000113,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001130
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000114": {
+		"cfgId": 7000114,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001140
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000115": {
+		"cfgId": 7000115,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001150
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000116": {
+		"cfgId": 7000116,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001160
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000117": {
+		"cfgId": 7000117,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001170
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000118": {
+		"cfgId": 7000118,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001180
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000119": {
+		"cfgId": 7000119,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001190
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000120": {
+		"cfgId": 7000120,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70001200
+		],
+		"intArgs": [
+			2000,
+			-1000,
+			30000,
+			20000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30020,
+			0,
+			30021
+		]
+	},
+	"7000201": {
+		"cfgId": 7000201,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002010
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000202": {
+		"cfgId": 7000202,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002020
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000203": {
+		"cfgId": 7000203,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002030
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000204": {
+		"cfgId": 7000204,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002040
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000205": {
+		"cfgId": 7000205,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002050
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000206": {
+		"cfgId": 7000206,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002060
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000207": {
+		"cfgId": 7000207,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002070
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000208": {
+		"cfgId": 7000208,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002080
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000209": {
+		"cfgId": 7000209,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002090
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000210": {
+		"cfgId": 7000210,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002100
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000211": {
+		"cfgId": 7000211,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002110
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000212": {
+		"cfgId": 7000212,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002120
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000213": {
+		"cfgId": 7000213,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002130
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000214": {
+		"cfgId": 7000214,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002140
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000215": {
+		"cfgId": 7000215,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002150
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000216": {
+		"cfgId": 7000216,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002160
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000217": {
+		"cfgId": 7000217,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002170
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000218": {
+		"cfgId": 7000218,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002180
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000219": {
+		"cfgId": 7000219,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002190
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7000220": {
+		"cfgId": 7000220,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			70002200
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7210201": {
+		"cfgId": 7210201,
+		"type": 3,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			7110201
+		],
+		"intArgs": [
+			1400,
+			-1000,
+			0
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			0
+		]
+	},
+	"7310301": {
+		"cfgId": 7310301,
+		"type": 7,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			7110301
+		],
+		"intArgs": [
+			1400,
+			-1000,
+			2000,
+			2000,
+			3000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30008,
+			30009
+		]
+	},
+	"7410401": {
+		"cfgId": 7410401,
+		"type": 6,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			7110401
+		],
+		"intArgs": [
+			1250,
+			-1000,
+			16000,
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30012,
+			30013,
+			30014
+		]
+	},
+	"7420101": {
+		"cfgId": 7420101,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			23001999
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": [
+			30011
+		]
+	},
+	"7430101": {
+		"cfgId": 7430101,
+		"type": 1,
+		"targetGroup": 1,
+		"skillEffectCfgIds": [
+			25003000
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"7430102": {
+		"cfgId": 7430102,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			23001990
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013000": {
+		"cfgId": 10013000,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010000
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013001": {
+		"cfgId": 10013001,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010001
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013002": {
+		"cfgId": 10013002,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010002
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013003": {
+		"cfgId": 10013003,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010003
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013004": {
+		"cfgId": 10013004,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010004
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013005": {
+		"cfgId": 10013005,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010005
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013006": {
+		"cfgId": 10013006,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010006
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013007": {
+		"cfgId": 10013007,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010007
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013008": {
+		"cfgId": 10013008,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010008
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013009": {
+		"cfgId": 10013009,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010009
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013010": {
+		"cfgId": 10013010,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010010
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013011": {
+		"cfgId": 10013011,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010011
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013012": {
+		"cfgId": 10013012,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010012
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013013": {
+		"cfgId": 10013013,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010013
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013014": {
+		"cfgId": 10013014,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010014
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013015": {
+		"cfgId": 10013015,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010015
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013016": {
+		"cfgId": 10013016,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010016
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013017": {
+		"cfgId": 10013017,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010017
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013018": {
+		"cfgId": 10013018,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010018
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013019": {
+		"cfgId": 10013019,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010019
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	},
+	"10013020": {
+		"cfgId": 10013020,
+		"type": 9,
+		"targetGroup": 0,
+		"skillEffectCfgIds": [
+			230010020
+		],
+		"intArgs": [
+			1000
+		],
+		"stringArgs": [],
+		"animCfgIds": []
+	}
+}

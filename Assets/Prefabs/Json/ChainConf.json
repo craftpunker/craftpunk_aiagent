@@ -1,0 +1,30 @@
+{
+	"Starknet": {
+		"name": "Starknet",
+		"icon": "Starknet"
+	},
+	"Ethereum(ERC20)": {
+		"name": "Ethereum(ERC20)",
+		"icon": "Ethereum"
+	},
+	"BNB Smart Chain(BEP20)": {
+		"name": "BNB Smart Chain(BEP20)",
+		"icon": "BNB_Smart_Chain"
+	},
+	"Arbitrum One": {
+		"name": "Arbitrum One",
+		"icon": "Arbitrum_One"
+	},
+	"Polygon POS": {
+		"name": "Polygon POS",
+		"icon": "Polygon_POS"
+	},
+	"Scroll": {
+		"name": "Scroll",
+		"icon": "Scroll"
+	},
+	"Base": {
+		"name": "Base",
+		"icon": "Base"
+	}
+}

@@ -1,0 +1,387 @@
+{
+	"bgm_main": {
+		"audioName": [
+			[
+				"bgm_main"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 1,
+		"volum": 600,
+		"isLoop": 1
+	},
+	"bgm_battle": {
+		"audioName": [],
+		"playInterval": 0,
+		"audioType": 1,
+		"volum": 800,
+		"isLoop": 1
+	},
+	"ui_gameloading": {
+		"audioName": [
+			[
+				"button_Click"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_battlestart": {
+		"audioName": [
+			[
+				"button_Click"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_button_click": {
+		"audioName": [
+			[
+				"button_Click"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_close": {
+		"audioName": [
+			[
+				"button_Click"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_rightButton_click": {
+		"audioName": [
+			[
+				"ui_rightButton_click"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_soldier_toBattle": {
+		"audioName": [
+			[
+				"ui_soldier_toBattle"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_soldier_remove": {
+		"audioName": [
+			[
+				"ui_soldier_remove"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_soldier_change": {
+		"audioName": [
+			[
+				"button_Click"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_soldier_upgrade": {
+		"audioName": [
+			[
+				"ui_soldier_upgrade"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_task_complete": {
+		"audioName": [
+			[
+				"button_Click"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_task_boxClaim": {
+		"audioName": [
+			[
+				"button_Click"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_chest_wait": {
+		"audioName": [
+			[
+				"button_Click"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_chest_open": {
+		"audioName": [
+			[
+				"button_Click"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_battle_win": {
+		"audioName": [
+			[
+				"ui_battle_win_01",
+				"ui_battle_win_02"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"ui_battle_lose": {
+		"audioName": [
+			[
+				"ui_battle_lose_01"
+			]
+		],
+		"playInterval": 0,
+		"audioType": 2,
+		"volum": 800,
+		"isLoop": 0
+	},
+	"soldier_common_dead": {
+		"audioName": [
+			[
+				"soldier_common_dead_01",
+				"soldier_common_dead_02",
+				"soldier_common_dead_03",
+				"soldier_common_dead_04",
+				"soldier_common_dead_05"
+			]
+		],
+		"playInterval": 300,
+		"audioType": 2,
+		"volum": 300,
+		"isLoop": 0
+	},
+	"10001_atk": {
+		"audioName": [
+			[
+				"soldier_10001_atk_01",
+				"soldier_10001_atk_02"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 700,
+		"isLoop": 0
+	},
+	"10002_atk": {
+		"audioName": [
+			[
+				"soldier_10002_atk_01",
+				"soldier_10002_atk_02",
+				"soldier_10002_atk_03"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10003_atk": {
+		"audioName": [
+			[
+				"soldier_10003_atk_01"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10004_atk": {
+		"audioName": [
+			[
+				"soldier_10004_atk_01"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10005_atk": {
+		"audioName": [
+			[
+				"soldier_10005_atk_01"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10006_atk": {
+		"audioName": [
+			[
+				"soldier_10006_atk_01",
+				"soldier_10006_atk_02",
+				"soldier_10006_atk_03"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10007_atk": {
+		"audioName": [
+			[
+				"soldier_10001_atk_01",
+				"soldier_10001_atk_02"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10008_atk": {
+		"audioName": [
+			[
+				"soldier_10002_atk_01",
+				"soldier_10002_atk_02",
+				"soldier_10002_atk_03"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10009_atk": {
+		"audioName": [
+			[
+				"soldier_10001_atk_01",
+				"soldier_10001_atk_02"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10010_atk": {
+		"audioName": [
+			[
+				"soldier_10002_atk_01",
+				"soldier_10002_atk_02",
+				"soldier_10002_atk_03"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10011_atk": {
+		"audioName": [
+			[
+				"soldier_10001_atk_01",
+				"soldier_10001_atk_02"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10012_atk": {
+		"audioName": [
+			[
+				"soldier_10012_atk_01",
+				"soldier_10012_atk_02"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10013_atk": {
+		"audioName": [
+			[
+				"soldier_10013_atk_01"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10014_atk": {
+		"audioName": [],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10015_atk": {
+		"audioName": [
+			[
+				"soldier_10015_atk_01",
+				"soldier_10015_atk_02"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	},
+	"10016_atk": {
+		"audioName": [
+			[
+				"soldier_10016_atk_01"
+			]
+		],
+		"playInterval": 10,
+		"audioType": 2,
+		"volum": 500,
+		"isLoop": 0
+	}
+}

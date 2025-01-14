@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LoginAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0c2678df00e21b243875b2c6ef54d06b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 460f28f00a774744b80eafe98e165c8c: 21300000
+    - 55bd85114ca34194296089ea4f39487f: 21300000
+    - fec0b7710e963934e907ffd257211f29: 21300000
+    - b64341d8a7ac228479c4c14b60c9c7b3: 21300000
+    - 67a2e3a95d1f88f45ada45e27ce941d5: 21300000
+    - ea8079df4f9f6e5459a7497b8c4652a9: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 460f28f00a774744b80eafe98e165c8c, type: 3}
+  - {fileID: 21300000, guid: 55bd85114ca34194296089ea4f39487f, type: 3}
+  - {fileID: 21300000, guid: fec0b7710e963934e907ffd257211f29, type: 3}
+  - {fileID: 21300000, guid: b64341d8a7ac228479c4c14b60c9c7b3, type: 3}
+  - {fileID: 21300000, guid: 67a2e3a95d1f88f45ada45e27ce941d5, type: 3}
+  - {fileID: 21300000, guid: ea8079df4f9f6e5459a7497b8c4652a9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui_user_anniu
+  - ui_user_password
+  - loading
+  - ui_user_name
+  - ui_user_kuang
+  - ui_user_a
+  m_RenderDataMap: {}
+  m_Tag: LoginAtlas
+  m_IsVariant: 0

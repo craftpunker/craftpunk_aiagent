@@ -1,0 +1,134 @@
+{
+	"10001": {
+		"cfgId": 10001,
+		"enable": 1,
+		"price": [
+			[
+				100001,
+				1000
+			]
+		],
+		"count": 1,
+		"rewardItem": [
+			[
+				11,
+				800
+			],
+			[
+				12,
+				200
+			]
+		],
+		"animCfg": 40001,
+		"firstDraw": [],
+		"dailyFree": 0,
+		"itemCfgId": 300001
+	},
+	"10002": {
+		"cfgId": 10002,
+		"enable": 1,
+		"price": [
+			[
+				100001,
+				9000
+			]
+		],
+		"count": 10,
+		"rewardItem": [],
+		"animCfg": 40001,
+		"firstDraw": [],
+		"dailyFree": 0,
+		"itemCfgId": 300001
+	},
+	"10003": {
+		"cfgId": 10003,
+		"enable": 1,
+		"price": [
+			[
+				100001,
+				5000
+			]
+		],
+		"count": 1,
+		"rewardItem": [
+			[
+				21,
+				200
+			],
+			[
+				22,
+				500
+			],
+			[
+				23,
+				300
+			]
+		],
+		"animCfg": 40002,
+		"firstDraw": [
+			[
+				210003,
+				1
+			]
+		],
+		"dailyFree": 0,
+		"itemCfgId": 300002
+	},
+	"10004": {
+		"cfgId": 10004,
+		"enable": 1,
+		"price": [
+			[
+				100001,
+				45000
+			]
+		],
+		"count": 10,
+		"rewardItem": [],
+		"animCfg": 40002,
+		"firstDraw": [],
+		"dailyFree": 0,
+		"itemCfgId": 300002
+	},
+	"10005": {
+		"cfgId": 10005,
+		"enable": 1,
+		"price": [
+			[
+				100002,
+				300
+			]
+		],
+		"count": 1,
+		"rewardItem": [
+			[
+				33,
+				900
+			],
+			[
+				34,
+				100
+			]
+		],
+		"animCfg": 40003,
+		"firstDraw": [],
+		"dailyFree": 1,
+		"itemCfgId": 300003
+	},
+	"10006": {
+		"cfgId": 10006,
+		"enable": 1,
+		"price": [
+			[
+				100002,
+				2700
+			]
+		],
+		"count": 10,
+		"rewardItem": [],
+		"animCfg": 40003,
+		"firstDraw": [],
+		"dailyFree": 0,
+		"itemCfgId": 300003
+	}
+}

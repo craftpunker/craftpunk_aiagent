@@ -1,0 +1,12 @@
+{
+	"10000": {
+		"mailTitle": "Welcome To Craft Punk",
+		"mailContent": "Congratulations on joining CraftPunk. You will lead us to grow and establish a great nation. \nNow, I hereby appoint you as our King. Begin your journey and guide your people to forge a new empire.",
+		"sendName": "CraftPunk Team"
+	},
+	"20001": {
+		"mailTitle": "Arena Season Rewards",
+		"mailContent": "Dear %s,Congratulations you gain Reward in Arena\nSeasons: %s\nLeague：%s(%s)",
+		"sendName": "CraftPunk Team"
+	}
+}

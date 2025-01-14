@@ -1,0 +1,1943 @@
+{
+	"10006": {
+		"cfgId": 10006,
+		"type": 10006,
+		"args": [
+			200
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 1000,
+		"animCfgId": 0
+	},
+	"15001": {
+		"cfgId": 15001,
+		"type": 15001,
+		"args": [],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"20001": {
+		"cfgId": 20001,
+		"type": 20001,
+		"args": [],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"20002": {
+		"cfgId": 20002,
+		"type": 20002,
+		"args": [],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"20003": {
+		"cfgId": 20003,
+		"type": 20003,
+		"args": [],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"20004": {
+		"cfgId": 20004,
+		"type": 20004,
+		"args": [],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"20005": {
+		"cfgId": 20005,
+		"type": 20005,
+		"args": [],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"20006": {
+		"cfgId": 20006,
+		"type": 20006,
+		"args": [],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"23001": {
+		"cfgId": 23001,
+		"type": 23001,
+		"args": [],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"2400100": {
+		"cfgId": 2400100,
+		"type": 10001,
+		"args": [
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 3,
+		"skillBuffCfgId": 2400101,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"2400101": {
+		"cfgId": 2400101,
+		"type": 24001,
+		"args": [],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"7110201": {
+		"cfgId": 7110201,
+		"type": 10007,
+		"args": [
+			80000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 71102010,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"7110202": {
+		"cfgId": 7110202,
+		"type": 24001,
+		"args": [
+			9999000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 1,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 30010
+	},
+	"7110301": {
+		"cfgId": 7110301,
+		"type": 10007,
+		"args": [
+			500000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"7110401": {
+		"cfgId": 7110401,
+		"type": 10007,
+		"args": [
+			1500000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"10001000": {
+		"cfgId": 10001000,
+		"type": 10001,
+		"args": [
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": -1000,
+		"animCfgId": 0
+	},
+	"10001001": {
+		"cfgId": 10001001,
+		"type": 10001,
+		"args": [
+			710
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 10002000,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": -1000,
+		"animCfgId": 0
+	},
+	"10001002": {
+		"cfgId": 10001002,
+		"type": 10001,
+		"args": [
+			300
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 10002000,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": -1000,
+		"animCfgId": 30003
+	},
+	"10001003": {
+		"cfgId": 10001003,
+		"type": 10001,
+		"args": [
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 1001511,
+		"frequency": -1000,
+		"animCfgId": 0
+	},
+	"10001004": {
+		"cfgId": 10001004,
+		"type": 10001,
+		"args": [
+			0
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 1000411,
+		"frequency": -1000,
+		"animCfgId": 0
+	},
+	"10001005": {
+		"cfgId": 10001005,
+		"type": 10001,
+		"args": [
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": -1000,
+		"animCfgId": 0
+	},
+	"10001006": {
+		"cfgId": 10001006,
+		"type": 10001,
+		"args": [
+			300
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": -1000,
+		"animCfgId": 0
+	},
+	"10002000": {
+		"cfgId": 10002000,
+		"type": 10002,
+		"args": [
+			1200,
+			1600,
+			400
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 10001000,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"10003000": {
+		"cfgId": 10003000,
+		"type": 10003,
+		"args": [],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 10100,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": -1000,
+		"animCfgId": 30004
+	},
+	"10004000": {
+		"cfgId": 10004000,
+		"type": 10004,
+		"args": [
+			9000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 1,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": -1000,
+		"animCfgId": 0
+	},
+	"10005000": {
+		"cfgId": 10005000,
+		"type": 10005,
+		"args": [],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 30100,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": -1000,
+		"animCfgId": 0
+	},
+	"10008000": {
+		"cfgId": 10008000,
+		"type": 10008,
+		"args": [
+			1000,
+			0
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": -1000,
+		"animCfgId": 0
+	},
+	"15001000": {
+		"cfgId": 15001000,
+		"type": 15001,
+		"args": [
+			300
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": -1000,
+		"animCfgId": 0
+	},
+	"23001990": {
+		"cfgId": 23001990,
+		"type": 23001,
+		"args": [
+			2000,
+			5000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 11111001,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"23001999": {
+		"cfgId": 23001999,
+		"type": 23001,
+		"args": [
+			3000,
+			0
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 11111001,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"25001000": {
+		"cfgId": 25001000,
+		"type": 25001,
+		"args": [
+			2000,
+			2000,
+			20000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 30024
+	},
+	"25002001": {
+		"cfgId": 25002001,
+		"type": 25002,
+		"args": [],
+		"stringArgs": [],
+		"skillEffectCfgId": 10003000,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"25003000": {
+		"cfgId": 25003000,
+		"type": 25003,
+		"args": [
+			2000,
+			1500,
+			3000,
+			2000,
+			500
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"30001000": {
+		"cfgId": 30001000,
+		"type": 30001,
+		"args": [
+			9999000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 1,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": -1000,
+		"animCfgId": 0
+	},
+	"70001010": {
+		"cfgId": 70001010,
+		"type": 10007,
+		"args": [
+			240000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001020": {
+		"cfgId": 70001020,
+		"type": 10007,
+		"args": [
+			288000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001030": {
+		"cfgId": 70001030,
+		"type": 10007,
+		"args": [
+			336000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001040": {
+		"cfgId": 70001040,
+		"type": 10007,
+		"args": [
+			384000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001050": {
+		"cfgId": 70001050,
+		"type": 10007,
+		"args": [
+			432000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001060": {
+		"cfgId": 70001060,
+		"type": 10007,
+		"args": [
+			480000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001070": {
+		"cfgId": 70001070,
+		"type": 10007,
+		"args": [
+			528000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001080": {
+		"cfgId": 70001080,
+		"type": 10007,
+		"args": [
+			576000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001090": {
+		"cfgId": 70001090,
+		"type": 10007,
+		"args": [
+			624000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001100": {
+		"cfgId": 70001100,
+		"type": 10007,
+		"args": [
+			672000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001110": {
+		"cfgId": 70001110,
+		"type": 10007,
+		"args": [
+			720000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001120": {
+		"cfgId": 70001120,
+		"type": 10007,
+		"args": [
+			768000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001130": {
+		"cfgId": 70001130,
+		"type": 10007,
+		"args": [
+			816000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001140": {
+		"cfgId": 70001140,
+		"type": 10007,
+		"args": [
+			864000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001150": {
+		"cfgId": 70001150,
+		"type": 10007,
+		"args": [
+			912000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001160": {
+		"cfgId": 70001160,
+		"type": 10007,
+		"args": [
+			960000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001170": {
+		"cfgId": 70001170,
+		"type": 10007,
+		"args": [
+			1008000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001180": {
+		"cfgId": 70001180,
+		"type": 10007,
+		"args": [
+			1056000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001190": {
+		"cfgId": 70001190,
+		"type": 10007,
+		"args": [
+			1104000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70001200": {
+		"cfgId": 70001200,
+		"type": 10007,
+		"args": [
+			1152000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002010": {
+		"cfgId": 70002010,
+		"type": 23001,
+		"args": [
+			10001002
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002020": {
+		"cfgId": 70002020,
+		"type": 23001,
+		"args": [
+			10001004
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002030": {
+		"cfgId": 70002030,
+		"type": 23001,
+		"args": [
+			10001006
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002040": {
+		"cfgId": 70002040,
+		"type": 23001,
+		"args": [
+			10001008
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002050": {
+		"cfgId": 70002050,
+		"type": 23001,
+		"args": [
+			10001010
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002060": {
+		"cfgId": 70002060,
+		"type": 23001,
+		"args": [
+			10001012
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002070": {
+		"cfgId": 70002070,
+		"type": 23001,
+		"args": [
+			10001014
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002080": {
+		"cfgId": 70002080,
+		"type": 23001,
+		"args": [
+			10001016
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002090": {
+		"cfgId": 70002090,
+		"type": 23001,
+		"args": [
+			10001018
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002100": {
+		"cfgId": 70002100,
+		"type": 23001,
+		"args": [
+			10001020
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002110": {
+		"cfgId": 70002110,
+		"type": 23001,
+		"args": [
+			10001022
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002120": {
+		"cfgId": 70002120,
+		"type": 23001,
+		"args": [
+			10001024
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002130": {
+		"cfgId": 70002130,
+		"type": 23001,
+		"args": [
+			10001026
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002140": {
+		"cfgId": 70002140,
+		"type": 23001,
+		"args": [
+			10001028
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002150": {
+		"cfgId": 70002150,
+		"type": 23001,
+		"args": [
+			10001030
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002160": {
+		"cfgId": 70002160,
+		"type": 23001,
+		"args": [
+			10001032
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002170": {
+		"cfgId": 70002170,
+		"type": 23001,
+		"args": [
+			10001034
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002180": {
+		"cfgId": 70002180,
+		"type": 23001,
+		"args": [
+			10001036
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002190": {
+		"cfgId": 70002190,
+		"type": 23001,
+		"args": [
+			10001038
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"70002200": {
+		"cfgId": 70002200,
+		"type": 23001,
+		"args": [
+			10001040
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"99999000": {
+		"cfgId": 99999900,
+		"type": 10005,
+		"args": [],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 99999000,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": -1000,
+		"animCfgId": 0
+	},
+	"99999001": {
+		"cfgId": 99999901,
+		"type": 10001,
+		"args": [
+			2000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 0,
+		"skillCfgId": 0,
+		"frequency": -1000,
+		"animCfgId": 0
+	},
+	"230010000": {
+		"cfgId": 230010000,
+		"type": 23001,
+		"args": [
+			1000,
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001000,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010001": {
+		"cfgId": 230010001,
+		"type": 23001,
+		"args": [
+			1000,
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001001,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010002": {
+		"cfgId": 230010002,
+		"type": 23001,
+		"args": [
+			1000,
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001002,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010003": {
+		"cfgId": 230010003,
+		"type": 23001,
+		"args": [
+			1000,
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001003,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010004": {
+		"cfgId": 230010004,
+		"type": 23001,
+		"args": [
+			1000,
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001004,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010005": {
+		"cfgId": 230010005,
+		"type": 23001,
+		"args": [
+			1000,
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001005,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010006": {
+		"cfgId": 230010006,
+		"type": 23001,
+		"args": [
+			1000,
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001006,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010007": {
+		"cfgId": 230010007,
+		"type": 23001,
+		"args": [
+			1000,
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001007,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010008": {
+		"cfgId": 230010008,
+		"type": 23001,
+		"args": [
+			1000,
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001008,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010009": {
+		"cfgId": 230010009,
+		"type": 23001,
+		"args": [
+			1000,
+			1000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001009,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010010": {
+		"cfgId": 230010010,
+		"type": 23001,
+		"args": [
+			1000,
+			2000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001010,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010011": {
+		"cfgId": 230010011,
+		"type": 23001,
+		"args": [
+			1000,
+			2000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001011,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010012": {
+		"cfgId": 230010012,
+		"type": 23001,
+		"args": [
+			1000,
+			2000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001012,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010013": {
+		"cfgId": 230010013,
+		"type": 23001,
+		"args": [
+			1000,
+			2000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001013,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010014": {
+		"cfgId": 230010014,
+		"type": 23001,
+		"args": [
+			1000,
+			2000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001014,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010015": {
+		"cfgId": 230010015,
+		"type": 23001,
+		"args": [
+			1000,
+			2000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001015,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010016": {
+		"cfgId": 230010016,
+		"type": 23001,
+		"args": [
+			1000,
+			2000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001016,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010017": {
+		"cfgId": 230010017,
+		"type": 23001,
+		"args": [
+			1000,
+			2000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001017,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010018": {
+		"cfgId": 230010018,
+		"type": 23001,
+		"args": [
+			1000,
+			2000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001018,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010019": {
+		"cfgId": 230010019,
+		"type": 23001,
+		"args": [
+			1000,
+			2000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001019,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010020": {
+		"cfgId": 230010020,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001020,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010021": {
+		"cfgId": 230010021,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001021,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010022": {
+		"cfgId": 230010022,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001022,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010023": {
+		"cfgId": 230010023,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001023,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010024": {
+		"cfgId": 230010024,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001024,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010025": {
+		"cfgId": 230010025,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001025,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010026": {
+		"cfgId": 230010026,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001026,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010027": {
+		"cfgId": 230010027,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001027,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010028": {
+		"cfgId": 230010028,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001028,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010029": {
+		"cfgId": 230010029,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001029,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010030": {
+		"cfgId": 230010030,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001030,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010031": {
+		"cfgId": 230010031,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001031,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010032": {
+		"cfgId": 230010032,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001032,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010033": {
+		"cfgId": 230010033,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001033,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010034": {
+		"cfgId": 230010034,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001034,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010035": {
+		"cfgId": 230010035,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001035,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010036": {
+		"cfgId": 230010036,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001036,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010037": {
+		"cfgId": 230010037,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001037,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010038": {
+		"cfgId": 230010038,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001038,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010039": {
+		"cfgId": 230010039,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001039,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010040": {
+		"cfgId": 230010040,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001040,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010041": {
+		"cfgId": 230010041,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001041,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010042": {
+		"cfgId": 230010042,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001042,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010043": {
+		"cfgId": 230010043,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001043,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010044": {
+		"cfgId": 230010044,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001044,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010045": {
+		"cfgId": 230010045,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001045,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010046": {
+		"cfgId": 230010046,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001046,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010047": {
+		"cfgId": 230010047,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001047,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010048": {
+		"cfgId": 230010048,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001048,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010049": {
+		"cfgId": 230010049,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001049,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	},
+	"230010050": {
+		"cfgId": 230010050,
+		"type": 23001,
+		"args": [
+			1000,
+			3000
+		],
+		"stringArgs": [],
+		"skillEffectCfgId": 0,
+		"skillBuffStack": 0,
+		"skillBuffCfgId": 0,
+		"entityIndex": 20001050,
+		"skillCfgId": 0,
+		"frequency": 0,
+		"animCfgId": 0
+	}
+}

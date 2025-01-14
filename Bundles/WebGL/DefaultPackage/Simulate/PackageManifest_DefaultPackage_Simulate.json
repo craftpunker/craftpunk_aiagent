@@ -1,0 +1,1749 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "ScriptableBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "Simulate",
+    "AssetList": [
+        {
+            "Address": "biaoqiang",
+            "AssetPath": "Assets/Prefabs/3DModel/biaoqiang.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "Board",
+            "AssetPath": "Assets/Prefabs/3DModel/Board.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "Bullet_Lightning",
+            "AssetPath": "Assets/Prefabs/3DModel/Bullet_Lightning.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "GJ_01",
+            "AssetPath": "Assets/Prefabs/3DModel/GJ_01.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "BattleAtlas",
+            "AssetPath": "Assets/Prefabs/Atlas/BattleAtlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "CardIconAtlas",
+            "AssetPath": "Assets/Prefabs/Atlas/CardIconAtlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "CommonAtlas",
+            "AssetPath": "Assets/Prefabs/Atlas/CommonAtlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "LoginAtlas",
+            "AssetPath": "Assets/Prefabs/Atlas/LoginAtlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "MainAtlas",
+            "AssetPath": "Assets/Prefabs/Atlas/MainAtlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "MissionAtlas",
+            "AssetPath": "Assets/Prefabs/Atlas/MissionAtlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "PveAtlas",
+            "AssetPath": "Assets/Prefabs/Atlas/PveAtlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "PvpAtlas",
+            "AssetPath": "Assets/Prefabs/Atlas/PvpAtlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "SetSoldierAtlasAtlas",
+            "AssetPath": "Assets/Prefabs/Atlas/SetSoldierAtlasAtlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "ShopAtlas",
+            "AssetPath": "Assets/Prefabs/Atlas/ShopAtlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 10
+        },
+        {
+            "Address": "SoldierIconAtlas",
+            "AssetPath": "Assets/Prefabs/Atlas/SoldierIconAtlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 11
+        },
+        {
+            "Address": "Web3Atlas",
+            "AssetPath": "Assets/Prefabs/Atlas/Web3Atlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 12
+        },
+        {
+            "Address": "Web3IconAtlas",
+            "AssetPath": "Assets/Prefabs/Atlas/Web3IconAtlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 13
+        },
+        {
+            "Address": "bgm_main",
+            "AssetPath": "Assets/Prefabs/Audio/bgm_main.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "button_Click",
+            "AssetPath": "Assets/Prefabs/Audio/button_Click.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10001_atk_01",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10001_atk_01.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10001_atk_02",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10001_atk_02.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10002_atk_01",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10002_atk_01.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10002_atk_02",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10002_atk_02.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10002_atk_03",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10002_atk_03.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10003_atk_01",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10003_atk_01.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10004_atk_01",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10004_atk_01.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10005_atk_01",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10005_atk_01.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10006_atk_01",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10006_atk_01.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10006_atk_02",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10006_atk_02.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10006_atk_03",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10006_atk_03.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10012_atk_01",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10012_atk_01.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10012_atk_02",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10012_atk_02.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10013_atk_01",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10013_atk_01.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10015_atk_01",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10015_atk_01.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10015_atk_02",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10015_atk_02.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_10016_atk_01",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_10016_atk_01.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_common_dead_01",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_common_dead_01.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_common_dead_02",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_common_dead_02.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_common_dead_03",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_common_dead_03.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_common_dead_04",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_common_dead_04.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "soldier_common_dead_05",
+            "AssetPath": "Assets/Prefabs/Audio/soldier_common_dead_05.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "ui_battle_lose_01",
+            "AssetPath": "Assets/Prefabs/Audio/ui_battle_lose_01.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "ui_battle_win_01",
+            "AssetPath": "Assets/Prefabs/Audio/ui_battle_win_01.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "ui_battle_win_02",
+            "AssetPath": "Assets/Prefabs/Audio/ui_battle_win_02.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "ui_rightButton_click",
+            "AssetPath": "Assets/Prefabs/Audio/ui_rightButton_click.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "ui_soldier_remove",
+            "AssetPath": "Assets/Prefabs/Audio/ui_soldier_remove.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "ui_soldier_toBattle",
+            "AssetPath": "Assets/Prefabs/Audio/ui_soldier_toBattle.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "ui_soldier_upgrade",
+            "AssetPath": "Assets/Prefabs/Audio/ui_soldier_upgrade.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "ui_window_close",
+            "AssetPath": "Assets/Prefabs/Audio/ui_window_close.ogg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "Scene_right_1.1",
+            "AssetPath": "Assets/Prefabs/BigImg/Scene_right_1.1.jpg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15
+        },
+        {
+            "Address": "Scene_right_1.2",
+            "AssetPath": "Assets/Prefabs/BigImg/Scene_right_1.2.jpg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 16
+        },
+        {
+            "Address": "Scene_right_1.3",
+            "AssetPath": "Assets/Prefabs/BigImg/Scene_right_1.3.jpg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17
+        },
+        {
+            "Address": "Scene_right_1.4",
+            "AssetPath": "Assets/Prefabs/BigImg/Scene_right_1.4.jpg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18
+        },
+        {
+            "Address": "Scene_right_2",
+            "AssetPath": "Assets/Prefabs/BigImg/Scene_right_2.jpg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 19
+        },
+        {
+            "Address": "Scene_right_4",
+            "AssetPath": "Assets/Prefabs/BigImg/Scene_right_4.jpg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 20
+        },
+        {
+            "Address": "Ui_diamond_bg_a",
+            "AssetPath": "Assets/Prefabs/BigImg/Ui_diamond_bg_a.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 21
+        },
+        {
+            "Address": "Ui_gold_bg_a",
+            "AssetPath": "Assets/Prefabs/BigImg/Ui_gold_bg_a.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 22
+        },
+        {
+            "Address": "ui_log on_bg",
+            "AssetPath": "Assets/Prefabs/BigImg/ui_log on_bg.jpg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 23
+        },
+        {
+            "Address": "ui_Soldier card_bg",
+            "AssetPath": "Assets/Prefabs/BigImg/ui_Soldier card_bg.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 24
+        },
+        {
+            "Address": "ui_Soldier_detailed_bg_a",
+            "AssetPath": "Assets/Prefabs/BigImg/ui_Soldier_detailed_bg_a.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 25
+        },
+        {
+            "Address": "ui_Soldier_Troop interface_bg",
+            "AssetPath": "Assets/Prefabs/BigImg/ui_Soldier_Troop interface_bg.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 26
+        },
+        {
+            "Address": "AnimConf",
+            "AssetPath": "Assets/Prefabs/Json/AnimConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "AudioConf",
+            "AssetPath": "Assets/Prefabs/Json/AudioConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "BoxConf",
+            "AssetPath": "Assets/Prefabs/Json/BoxConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "BoxItemConf",
+            "AssetPath": "Assets/Prefabs/Json/BoxItemConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "CardConf",
+            "AssetPath": "Assets/Prefabs/Json/CardConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "ChainConf",
+            "AssetPath": "Assets/Prefabs/Json/ChainConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "FirstNameConf",
+            "AssetPath": "Assets/Prefabs/Json/FirstNameConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "GlobalConf",
+            "AssetPath": "Assets/Prefabs/Json/GlobalConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "GridConf",
+            "AssetPath": "Assets/Prefabs/Json/GridConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "GuideConf",
+            "AssetPath": "Assets/Prefabs/Json/GuideConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "ItemConf",
+            "AssetPath": "Assets/Prefabs/Json/ItemConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "LastNameConf",
+            "AssetPath": "Assets/Prefabs/Json/LastNameConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "MailInfoConf",
+            "AssetPath": "Assets/Prefabs/Json/MailInfoConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "PowerChestConf",
+            "AssetPath": "Assets/Prefabs/Json/PowerChestConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "PveConf",
+            "AssetPath": "Assets/Prefabs/Json/PveConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "PvpRobotConf",
+            "AssetPath": "Assets/Prefabs/Json/PvpRobotConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "PvpStageConf",
+            "AssetPath": "Assets/Prefabs/Json/PvpStageConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "RechargeConf",
+            "AssetPath": "Assets/Prefabs/Json/RechargeConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "ShopConf",
+            "AssetPath": "Assets/Prefabs/Json/ShopConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "SkillAudioConf",
+            "AssetPath": "Assets/Prefabs/Json/SkillAudioConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "SkillBuffConf",
+            "AssetPath": "Assets/Prefabs/Json/SkillBuffConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "SkillConf",
+            "AssetPath": "Assets/Prefabs/Json/SkillConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "SkillEffectConf",
+            "AssetPath": "Assets/Prefabs/Json/SkillEffectConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "SoldierAudioConf",
+            "AssetPath": "Assets/Prefabs/Json/SoldierAudioConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "SoldierBattleConf",
+            "AssetPath": "Assets/Prefabs/Json/SoldierBattleConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "SoldierConf",
+            "AssetPath": "Assets/Prefabs/Json/SoldierConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "TaskConf",
+            "AssetPath": "Assets/Prefabs/Json/TaskConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "TaskRewardConf",
+            "AssetPath": "Assets/Prefabs/Json/TaskRewardConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "TimeChestConf",
+            "AssetPath": "Assets/Prefabs/Json/TimeChestConf.json",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27
+        },
+        {
+            "Address": "BattleResultItem",
+            "AssetPath": "Assets/Prefabs/Panel/Battle/BattleResultItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 28
+        },
+        {
+            "Address": "BattleView",
+            "AssetPath": "Assets/Prefabs/Panel/Battle/BattleView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 28
+        },
+        {
+            "Address": "SkillCardItem",
+            "AssetPath": "Assets/Prefabs/Panel/Card/SkillCardItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 29
+        },
+        {
+            "Address": "F5View",
+            "AssetPath": "Assets/Prefabs/Panel/F5View.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 30
+        },
+        {
+            "Address": "ImgRedPoint",
+            "AssetPath": "Assets/Prefabs/Panel/ImgRedPoint.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 30
+        },
+        {
+            "Address": "MainView",
+            "AssetPath": "Assets/Prefabs/Panel/MainView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 30
+        },
+        {
+            "Address": "MessageView",
+            "AssetPath": "Assets/Prefabs/Panel/MessageView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 30
+        },
+        {
+            "Address": "PopUpConfirmView",
+            "AssetPath": "Assets/Prefabs/Panel/PopUpConfirmView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 30
+        },
+        {
+            "Address": "PopUpReceiveView",
+            "AssetPath": "Assets/Prefabs/Panel/PopUpReceiveView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 30
+        },
+        {
+            "Address": "PropItem",
+            "AssetPath": "Assets/Prefabs/Panel/PropItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 30
+        },
+        {
+            "Address": "TipUI",
+            "AssetPath": "Assets/Prefabs/Panel/TipUI.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 30
+        },
+        {
+            "Address": "Finger",
+            "AssetPath": "Assets/Prefabs/Panel/Guide/Finger.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 31
+        },
+        {
+            "Address": "FingerAnimController",
+            "AssetPath": "Assets/Prefabs/Panel/Guide/FingerAnimController.controller",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 31
+        },
+        {
+            "Address": "FingerMoveX",
+            "AssetPath": "Assets/Prefabs/Panel/Guide/FingerMoveX.anim",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 31
+        },
+        {
+            "Address": "FingerMoveY",
+            "AssetPath": "Assets/Prefabs/Panel/Guide/FingerMoveY.anim",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 31
+        },
+        {
+            "Address": "GuideView",
+            "AssetPath": "Assets/Prefabs/Panel/Guide/GuideView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 31
+        },
+        {
+            "Address": "HomeView",
+            "AssetPath": "Assets/Prefabs/Panel/Home/HomeView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 32
+        },
+        {
+            "Address": "PowerChestItem",
+            "AssetPath": "Assets/Prefabs/Panel/Home/PowerChestItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 32
+        },
+        {
+            "Address": "PowerChestView",
+            "AssetPath": "Assets/Prefabs/Panel/Home/PowerChestView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 32
+        },
+        {
+            "Address": "TimeChestView",
+            "AssetPath": "Assets/Prefabs/Panel/Home/TimeChestView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 32
+        },
+        {
+            "Address": "LoadingView",
+            "AssetPath": "Assets/Prefabs/Panel/Loading/LoadingView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 33
+        },
+        {
+            "Address": "LoginView",
+            "AssetPath": "Assets/Prefabs/Panel/Login/LoginView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 34
+        },
+        {
+            "Address": "MailItem",
+            "AssetPath": "Assets/Prefabs/Panel/Mail/MailItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 35
+        },
+        {
+            "Address": "MailPropItem",
+            "AssetPath": "Assets/Prefabs/Panel/Mail/MailPropItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 35
+        },
+        {
+            "Address": "MailView",
+            "AssetPath": "Assets/Prefabs/Panel/Mail/MailView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 35
+        },
+        {
+            "Address": "MissionAchieveItem",
+            "AssetPath": "Assets/Prefabs/Panel/Mission/MissionAchieveItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 36
+        },
+        {
+            "Address": "MissionAchieveSubItem",
+            "AssetPath": "Assets/Prefabs/Panel/Mission/MissionAchieveSubItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 36
+        },
+        {
+            "Address": "MissionActBoxItem",
+            "AssetPath": "Assets/Prefabs/Panel/Mission/MissionActBoxItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 36
+        },
+        {
+            "Address": "MissionDailyItem",
+            "AssetPath": "Assets/Prefabs/Panel/Mission/MissionDailyItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 36
+        },
+        {
+            "Address": "MissionView",
+            "AssetPath": "Assets/Prefabs/Panel/Mission/MissionView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 36
+        },
+        {
+            "Address": "PutSoldierView",
+            "AssetPath": "Assets/Prefabs/Panel/PutSoldier/PutSoldierView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 37
+        },
+        {
+            "Address": "PutSoldierViewItem",
+            "AssetPath": "Assets/Prefabs/Panel/PutSoldier/PutSoldierViewItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 37
+        },
+        {
+            "Address": "PutSoldierViewItems",
+            "AssetPath": "Assets/Prefabs/Panel/PutSoldier/PutSoldierViewItems.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 37
+        },
+        {
+            "Address": "PveLevelItem",
+            "AssetPath": "Assets/Prefabs/Panel/Pve/PveLevelItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 38
+        },
+        {
+            "Address": "PveLevelRewardItem",
+            "AssetPath": "Assets/Prefabs/Panel/Pve/PveLevelRewardItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 38
+        },
+        {
+            "Address": "PveView",
+            "AssetPath": "Assets/Prefabs/Panel/Pve/PveView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 38
+        },
+        {
+            "Address": "BtnBattle",
+            "AssetPath": "Assets/Prefabs/Panel/Pvp/BtnBattle.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 39
+        },
+        {
+            "Address": "PvpInforItem",
+            "AssetPath": "Assets/Prefabs/Panel/Pvp/PvpInforItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 39
+        },
+        {
+            "Address": "PvpInforRewardItem",
+            "AssetPath": "Assets/Prefabs/Panel/Pvp/PvpInforRewardItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 39
+        },
+        {
+            "Address": "PvpInforView",
+            "AssetPath": "Assets/Prefabs/Panel/Pvp/PvpInforView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 39
+        },
+        {
+            "Address": "PvpRankingView",
+            "AssetPath": "Assets/Prefabs/Panel/Pvp/PvpRankingView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 39
+        },
+        {
+            "Address": "PvpRankItem",
+            "AssetPath": "Assets/Prefabs/Panel/Pvp/PvpRankItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 39
+        },
+        {
+            "Address": "PvpView",
+            "AssetPath": "Assets/Prefabs/Panel/Pvp/PvpView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 39
+        },
+        {
+            "Address": "PvpHistoryItem",
+            "AssetPath": "Assets/Prefabs/Panel/PvpHistory/PvpHistoryItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 40
+        },
+        {
+            "Address": "PvpHistoryView",
+            "AssetPath": "Assets/Prefabs/Panel/PvpHistory/PvpHistoryView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 40
+        },
+        {
+            "Address": "DiamondAnimUI",
+            "AssetPath": "Assets/Prefabs/Panel/ResAnim/DiamondAnimUI.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 41
+        },
+        {
+            "Address": "GoldAnimUI",
+            "AssetPath": "Assets/Prefabs/Panel/ResAnim/GoldAnimUI.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 41
+        },
+        {
+            "Address": "ShopBoxOpenView",
+            "AssetPath": "Assets/Prefabs/Panel/Shop/ShopBoxOpenView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 42
+        },
+        {
+            "Address": "ShopConfirmView",
+            "AssetPath": "Assets/Prefabs/Panel/Shop/ShopConfirmView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 42
+        },
+        {
+            "Address": "ShopDailySelectionItems",
+            "AssetPath": "Assets/Prefabs/Panel/Shop/ShopDailySelectionItems.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 42
+        },
+        {
+            "Address": "ShopGiftItem",
+            "AssetPath": "Assets/Prefabs/Panel/Shop/ShopGiftItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 42
+        },
+        {
+            "Address": "ShopGoodsItem",
+            "AssetPath": "Assets/Prefabs/Panel/Shop/ShopGoodsItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 42
+        },
+        {
+            "Address": "ShopView",
+            "AssetPath": "Assets/Prefabs/Panel/Shop/ShopView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 42
+        },
+        {
+            "Address": "SoldierLevelArmyItem",
+            "AssetPath": "Assets/Prefabs/Panel/SoldierLevelUp/SoldierLevelArmyItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 43
+        },
+        {
+            "Address": "SoldierLevelArmyItems",
+            "AssetPath": "Assets/Prefabs/Panel/SoldierLevelUp/SoldierLevelArmyItems.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 43
+        },
+        {
+            "Address": "SoldierLevelUpAttrItem",
+            "AssetPath": "Assets/Prefabs/Panel/SoldierLevelUp/SoldierLevelUpAttrItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 43
+        },
+        {
+            "Address": "SoldierLevelUpView",
+            "AssetPath": "Assets/Prefabs/Panel/SoldierLevelUp/SoldierLevelUpView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 43
+        },
+        {
+            "Address": "RightView",
+            "AssetPath": "Assets/Prefabs/Panel/TopShowRes/RightView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 44
+        },
+        {
+            "Address": "TopShowResView",
+            "AssetPath": "Assets/Prefabs/Panel/TopShowRes/TopShowResView.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 44
+        },
+        {
+            "Address": "Web3ChainItem",
+            "AssetPath": "Assets/Prefabs/Panel/Web3/Web3ChainItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 45
+        },
+        {
+            "Address": "Web3View",
+            "AssetPath": "Assets/Prefabs/Panel/Web3/Web3View.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 45
+        },
+        {
+            "Address": "TestRange",
+            "AssetPath": "Assets/Prefabs/Test/TestRange.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 46
+        },
+        {
+            "Address": "TestRangeMaterial",
+            "AssetPath": "Assets/Prefabs/Test/TestRangeMaterial.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 46
+        },
+        {
+            "Address": "TestText",
+            "AssetPath": "Assets/Prefabs/Test/TestText.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 46
+        },
+        {
+            "Address": "GPUEffect",
+            "AssetPath": "Assets/Prefabs/2DModel/GPUEffect.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 47
+        },
+        {
+            "Address": "GPUEffect_Skill_1",
+            "AssetPath": "Assets/Prefabs/2DModel/GPUEffect_Skill_1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 48
+        },
+        {
+            "Address": "GPUEffect_Skill_2",
+            "AssetPath": "Assets/Prefabs/2DModel/GPUEffect_Skill_2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 49
+        },
+        {
+            "Address": "GPUEntity",
+            "AssetPath": "Assets/Prefabs/2DModel/GPUEntity.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 50
+        },
+        {
+            "Address": "GPUEntity_a",
+            "AssetPath": "Assets/Prefabs/2DModel/GPUEntity_a.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 51
+        },
+        {
+            "Address": "GPUUIEffect_1",
+            "AssetPath": "Assets/Prefabs/2DModel/GPUUIEffect_1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 52
+        },
+        {
+            "Address": "GPUUIEffect_2",
+            "AssetPath": "Assets/Prefabs/2DModel/GPUUIEffect_2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 53
+        },
+        {
+            "Address": "Map",
+            "AssetPath": "Assets/Prefabs/2DModel/Map.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 54
+        },
+        {
+            "Address": "TroopMono",
+            "AssetPath": "Assets/Prefabs/2DModel/TroopMono.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 55
+        },
+        {
+            "Address": "TroopRange",
+            "AssetPath": "Assets/Prefabs/2DModel/TroopRange.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 56
+        },
+        {
+            "Address": "MatImgGray",
+            "AssetPath": "Assets/Prefabs/Mat/MatImgGray.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 57
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_prefabs_3dmodel.bundle",
+            "UnityCRC": 0,
+            "FileHash": "df0361a4625ef76bd57172bbaee280c0",
+            "FileCRC": "00000000",
+            "FileSize": 138411,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_atlas_battleatlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "0d57c976cfa7d4114b9fc920625a1fc5",
+            "FileCRC": "00000000",
+            "FileSize": 3889,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_atlas_cardiconatlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "b3b50ef512937d035c3411ee074c6d66",
+            "FileCRC": "00000000",
+            "FileSize": 1829,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_atlas_commonatlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "22a681807b183ba17214f9591ba79159",
+            "FileCRC": "00000000",
+            "FileSize": 6043,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_atlas_loginatlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "107a44a4eac6a7dc63a6f60b3462d923",
+            "FileCRC": "00000000",
+            "FileSize": 1972,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_atlas_mainatlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "000f4189ed4190d02f0713e81fcc3699",
+            "FileCRC": "00000000",
+            "FileSize": 7983,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_atlas_missionatlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "a117776ac273b3785898e874f85fe002",
+            "FileCRC": "00000000",
+            "FileSize": 3823,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_atlas_pveatlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "5fcf3c1471c01a32220e8a11da6e8624",
+            "FileCRC": "00000000",
+            "FileSize": 2914,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_atlas_pvpatlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "01cc6ba0e407eea5d93272868c1c20ca",
+            "FileCRC": "00000000",
+            "FileSize": 7765,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_atlas_setsoldieratlasatlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "71e7c7899162fc90e6a6e0c117ad1a26",
+            "FileCRC": "00000000",
+            "FileSize": 2865,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_atlas_shopatlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "0df307ae0460fe55c099de2347b0f3f6",
+            "FileCRC": "00000000",
+            "FileSize": 4587,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_atlas_soldiericonatlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "9a4ad47b596704d4f9ce1754db0062fa",
+            "FileCRC": "00000000",
+            "FileSize": 3331,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_atlas_web3atlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "505662230f564dfc0b5badc37757763f",
+            "FileCRC": "00000000",
+            "FileSize": 2100,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_atlas_web3iconatlas.bundle",
+            "UnityCRC": 0,
+            "FileHash": "8f5d82fb26449dc5efa8484d12570b93",
+            "FileCRC": "00000000",
+            "FileSize": 2095,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_audio.bundle",
+            "UnityCRC": 0,
+            "FileHash": "d3ce87dc66a89a681de2b6777b65c437",
+            "FileCRC": "00000000",
+            "FileSize": 6126800,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_bigimg_scene_right_1_1.bundle",
+            "UnityCRC": 0,
+            "FileHash": "f31670ea911d6ed407eef52541f396da",
+            "FileCRC": "00000000",
+            "FileSize": 131694,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_bigimg_scene_right_1_2.bundle",
+            "UnityCRC": 0,
+            "FileHash": "0b787f29fe457aa5b54bf52959078eee",
+            "FileCRC": "00000000",
+            "FileSize": 104947,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_bigimg_scene_right_1_3.bundle",
+            "UnityCRC": 0,
+            "FileHash": "997011112e6b0f29205de7fb66270234",
+            "FileCRC": "00000000",
+            "FileSize": 139042,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_bigimg_scene_right_1_4.bundle",
+            "UnityCRC": 0,
+            "FileHash": "a78b477cc061589c9682dc1395879644",
+            "FileCRC": "00000000",
+            "FileSize": 131775,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_bigimg_scene_right_2.bundle",
+            "UnityCRC": 0,
+            "FileHash": "319dce6fbdfc6e3a5ef8ca5e7cc6b517",
+            "FileCRC": "00000000",
+            "FileSize": 262219,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_bigimg_scene_right_4.bundle",
+            "UnityCRC": 0,
+            "FileHash": "f24a5a50d4fc14c6e40b0edd05daa065",
+            "FileCRC": "00000000",
+            "FileSize": 145561,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_bigimg_ui_diamond_bg_a.bundle",
+            "UnityCRC": 0,
+            "FileHash": "3fa83c7ed1e052c9fb0de2654c169436",
+            "FileCRC": "00000000",
+            "FileSize": 83189,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_bigimg_ui_gold_bg_a.bundle",
+            "UnityCRC": 0,
+            "FileHash": "f45d6b04010a5f82c128f7e1f7eec140",
+            "FileCRC": "00000000",
+            "FileSize": 89179,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_bigimg_ui_log_on_bg.bundle",
+            "UnityCRC": 0,
+            "FileHash": "633a6cae58b1ccaacfe15ebfbe584aec",
+            "FileCRC": "00000000",
+            "FileSize": 411741,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_bigimg_ui_soldier_card_bg.bundle",
+            "UnityCRC": 0,
+            "FileHash": "31094c383752a2670e2643192933b2a2",
+            "FileCRC": "00000000",
+            "FileSize": 89721,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_bigimg_ui_soldier_detailed_bg_a.bundle",
+            "UnityCRC": 0,
+            "FileHash": "3de1b547ceffbf45d52006164b9da00a",
+            "FileCRC": "00000000",
+            "FileSize": 510111,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_bigimg_ui_soldier_troop_interface_bg.bundle",
+            "UnityCRC": 0,
+            "FileHash": "06fd3164b5fa129bde84bfb6cefc3a99",
+            "FileCRC": "00000000",
+            "FileSize": 84547,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_json.bundle",
+            "UnityCRC": 0,
+            "FileHash": "f64ae321e97f9858eea53e1f6b8a7c3f",
+            "FileCRC": "00000000",
+            "FileSize": 4740772,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_battle.bundle",
+            "UnityCRC": 0,
+            "FileHash": "449ea3012d832117d59797409fa9ea87",
+            "FileCRC": "00000000",
+            "FileSize": 141898,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_card.bundle",
+            "UnityCRC": 0,
+            "FileHash": "bfc90300c1bca61816de1138f4e6e2ca",
+            "FileCRC": "00000000",
+            "FileSize": 12977,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel.bundle",
+            "UnityCRC": 0,
+            "FileHash": "4f7b9f2d0f8f083639bd193ff15bdb07",
+            "FileCRC": "00000000",
+            "FileSize": 339361,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_guide.bundle",
+            "UnityCRC": 0,
+            "FileHash": "487b5008248768d86e98624e72e92059",
+            "FileCRC": "00000000",
+            "FileSize": 42177,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_home.bundle",
+            "UnityCRC": 0,
+            "FileHash": "2d9506f095ff7414d79b8a620ce57715",
+            "FileCRC": "00000000",
+            "FileSize": 160242,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_loading.bundle",
+            "UnityCRC": 0,
+            "FileHash": "b0d4a59d75b44dd2b6cf733ea2730790",
+            "FileCRC": "00000000",
+            "FileSize": 17943,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_login.bundle",
+            "UnityCRC": 0,
+            "FileHash": "b84c89e0242b9c5f74dbb296490cb44c",
+            "FileCRC": "00000000",
+            "FileSize": 68753,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_mail.bundle",
+            "UnityCRC": 0,
+            "FileHash": "6e12a251cefbc1110da0a6effe7c8502",
+            "FileCRC": "00000000",
+            "FileSize": 122405,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_mission.bundle",
+            "UnityCRC": 0,
+            "FileHash": "1081bdad8a0454ae71b052a53fb3e344",
+            "FileCRC": "00000000",
+            "FileSize": 232837,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_putsoldier.bundle",
+            "UnityCRC": 0,
+            "FileHash": "e52cd00a1fb703c98834976690af51c9",
+            "FileCRC": "00000000",
+            "FileSize": 79629,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_pve.bundle",
+            "UnityCRC": 0,
+            "FileHash": "4d74d726eecd6c4e81fc4cb8c4416338",
+            "FileCRC": "00000000",
+            "FileSize": 95627,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_pvp.bundle",
+            "UnityCRC": 0,
+            "FileHash": "0b871c2c62f2a16c6941712471a70db7",
+            "FileCRC": "00000000",
+            "FileSize": 260556,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_pvphistory.bundle",
+            "UnityCRC": 0,
+            "FileHash": "0dd91e059d0cbfc5f9a0b191633f6410",
+            "FileCRC": "00000000",
+            "FileSize": 46599,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_resanim.bundle",
+            "UnityCRC": 0,
+            "FileHash": "13a13d9962299ec42d4a1d1dfa53889d",
+            "FileCRC": "00000000",
+            "FileSize": 4547,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_shop.bundle",
+            "UnityCRC": 0,
+            "FileHash": "4c16bcdb86568c7afb9fe01e6885f567",
+            "FileCRC": "00000000",
+            "FileSize": 322915,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_soldierlevelup.bundle",
+            "UnityCRC": 0,
+            "FileHash": "b37605402b361902a8b05f8df072b734",
+            "FileCRC": "00000000",
+            "FileSize": 163838,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_topshowres.bundle",
+            "UnityCRC": 0,
+            "FileHash": "bc5dcc67cc51d705fa5a246d0a934c17",
+            "FileCRC": "00000000",
+            "FileSize": 64822,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_panel_web3.bundle",
+            "UnityCRC": 0,
+            "FileHash": "5eb89fe9cdb6d1a0d7628fa0c32cb75a",
+            "FileCRC": "00000000",
+            "FileSize": 118358,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_test.bundle",
+            "UnityCRC": 0,
+            "FileHash": "568fe1cbadad4577dfa7ded2aa4680b1",
+            "FileCRC": "00000000",
+            "FileSize": 8470,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_2dmodel_gpueffect.bundle",
+            "UnityCRC": 0,
+            "FileHash": "ef23848865891a04cc6e6a4b0b26e314",
+            "FileCRC": "00000000",
+            "FileSize": 3468,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_2dmodel_gpueffect_skill_1.bundle",
+            "UnityCRC": 0,
+            "FileHash": "11463677d9a2d7ccfbfddd68e40b8e8d",
+            "FileCRC": "00000000",
+            "FileSize": 3476,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_2dmodel_gpueffect_skill_2.bundle",
+            "UnityCRC": 0,
+            "FileHash": "db155d434384b0e92309cd8a9288b1e8",
+            "FileCRC": "00000000",
+            "FileSize": 3476,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_2dmodel_gpuentity.bundle",
+            "UnityCRC": 0,
+            "FileHash": "9418d9785f2600a2bd236d5127ae055b",
+            "FileCRC": "00000000",
+            "FileSize": 6969,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_2dmodel_gpuentity_a.bundle",
+            "UnityCRC": 0,
+            "FileHash": "062d4c20a31bacdece27fd4374cd16f4",
+            "FileCRC": "00000000",
+            "FileSize": 6971,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_2dmodel_gpuuieffect_1.bundle",
+            "UnityCRC": 0,
+            "FileHash": "70ece1b1e1bf19a29c04681719d4f4a5",
+            "FileCRC": "00000000",
+            "FileSize": 2915,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_2dmodel_gpuuieffect_2.bundle",
+            "UnityCRC": 0,
+            "FileHash": "f2b8fd86fb2ea57ae328cf9367f8e61d",
+            "FileCRC": "00000000",
+            "FileSize": 2867,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_2dmodel_map.bundle",
+            "UnityCRC": 0,
+            "FileHash": "cb7796e0e6ceaf4be389af29a32dc1e4",
+            "FileCRC": "00000000",
+            "FileSize": 10457,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_2dmodel_troopmono.bundle",
+            "UnityCRC": 0,
+            "FileHash": "e9309ea05f9bfe06fac310647f0aeaef",
+            "FileCRC": "00000000",
+            "FileSize": 6507,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_2dmodel_trooprange.bundle",
+            "UnityCRC": 0,
+            "FileHash": "b86cbb4ecd1a4414afbfd04e4bad5bf3",
+            "FileCRC": "00000000",
+            "FileSize": 6435,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_prefabs_mat.bundle",
+            "UnityCRC": 0,
+            "FileHash": "ae6550466f94ede9320b4c13e16c4107",
+            "FileCRC": "00000000",
+            "FileSize": 1478,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

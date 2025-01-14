@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MissionAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: bc49570c36bc548428d4126eeb991a9a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - defea61054db8cf479a66893068c2900: 21300000
+    - 33607e2014244374aa076e3c40784e8a: 21300000
+    - 95395450bacbcfa428478592202f8475: 21300000
+    - ba79e8b014561bf49bb438e94222e085: 21300000
+    - 081324c0795bb474c813d1247f347d73: 21300000
+    - 0c59431114c9be14c954dabb94059d3a: 21300000
+    - 1cbb7551c59e06845aae431dbb9447e7: 21300000
+    - 9ab99891d7c2997489e8f21872f0eef6: 21300000
+    - 5b17c4e16c843a84ca0868b29712fc80: 21300000
+    - 935168e1d4d55bd428d205ce021b04b8: 21300000
+    - 3a9f633431d69ba4bb9e7baed0249c08: 21300000
+    - 0dbc17a59b0268d4fbedd123a6f539d1: 21300000
+    - 209358f6714b7e64e8f6c6ee27afd74e: 21300000
+    - 7f419a1ba7ad8154d91a71fb008551ed: 21300000
+    - 37f847cbbbc14374daecc3a5554966f7: 21300000
+    - b83227dcdef783e41a152c4daab84ec6: 21300000
+    - 874ddaec8722e3e4ea4f9d562fcd6964: 21300000
+    - 80c9ea4efd511fa478ac41dca0314f2b: 21300000
+    - 9272f4aec6c1238448d2cc7d58acadf7: 21300000
+    - b086b4ff2cc99d941a700fd0526a635b: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: defea61054db8cf479a66893068c2900, type: 3}
+  - {fileID: 21300000, guid: 33607e2014244374aa076e3c40784e8a, type: 3}
+  - {fileID: 21300000, guid: 95395450bacbcfa428478592202f8475, type: 3}
+  - {fileID: 21300000, guid: ba79e8b014561bf49bb438e94222e085, type: 3}
+  - {fileID: 21300000, guid: 081324c0795bb474c813d1247f347d73, type: 3}
+  - {fileID: 21300000, guid: 0c59431114c9be14c954dabb94059d3a, type: 3}
+  - {fileID: 21300000, guid: 1cbb7551c59e06845aae431dbb9447e7, type: 3}
+  - {fileID: 21300000, guid: 9ab99891d7c2997489e8f21872f0eef6, type: 3}
+  - {fileID: 21300000, guid: 5b17c4e16c843a84ca0868b29712fc80, type: 3}
+  - {fileID: 21300000, guid: 935168e1d4d55bd428d205ce021b04b8, type: 3}
+  - {fileID: 21300000, guid: 3a9f633431d69ba4bb9e7baed0249c08, type: 3}
+  - {fileID: 21300000, guid: 0dbc17a59b0268d4fbedd123a6f539d1, type: 3}
+  - {fileID: 21300000, guid: 209358f6714b7e64e8f6c6ee27afd74e, type: 3}
+  - {fileID: 21300000, guid: 7f419a1ba7ad8154d91a71fb008551ed, type: 3}
+  - {fileID: 21300000, guid: 37f847cbbbc14374daecc3a5554966f7, type: 3}
+  - {fileID: 21300000, guid: b83227dcdef783e41a152c4daab84ec6, type: 3}
+  - {fileID: 21300000, guid: 874ddaec8722e3e4ea4f9d562fcd6964, type: 3}
+  - {fileID: 21300000, guid: 80c9ea4efd511fa478ac41dca0314f2b, type: 3}
+  - {fileID: 21300000, guid: 9272f4aec6c1238448d2cc7d58acadf7, type: 3}
+  - {fileID: 21300000, guid: b086b4ff2cc99d941a700fd0526a635b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ui_task_anniu_a
+  - Ui_task_receive_a
+  - Ui_task_bao_a
+  - Ui_task_kuang_a
+  - Ui_task_receive
+  - Ui_task_receive_bg
+  - Ui_task_bg_a
+  - Ui_task_kaibao_a
+  - Ui_task_chengjiu
+  - Ui_task_kuang
+  - Ui_task_bg
+  - Ui_task_active_icon_a
+  - Ui_task_gou
+  - Ui_task_anniu_b
+  - Ui_task_bao_icon
+  - Ui_task_gou_a
+  - Ui_task_active_icon
+  - Ui_war_icon
+  - Ui_task_receive_bg_a
+  - Ui_task_bg_b
+  m_RenderDataMap: {}
+  m_Tag: MissionAtlas
+  m_IsVariant: 0

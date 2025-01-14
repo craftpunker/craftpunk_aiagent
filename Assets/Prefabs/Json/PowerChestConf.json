@@ -1,0 +1,959 @@
+{
+	"1": {
+		"cfgId": 1,
+		"needPower": 1000,
+		"reward": [
+			[
+				100001,
+				1000
+			]
+		],
+		"isSpecial": 0
+	},
+	"2": {
+		"cfgId": 2,
+		"needPower": 2000,
+		"reward": [
+			[
+				210011,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"3": {
+		"cfgId": 3,
+		"needPower": 3000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"4": {
+		"cfgId": 4,
+		"needPower": 4000,
+		"reward": [
+			[
+				100002,
+				50
+			]
+		],
+		"isSpecial": 1
+	},
+	"5": {
+		"cfgId": 5,
+		"needPower": 5000,
+		"reward": [
+			[
+				210004,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"6": {
+		"cfgId": 6,
+		"needPower": 6000,
+		"reward": [
+			[
+				100001,
+				2000
+			]
+		],
+		"isSpecial": 1
+	},
+	"7": {
+		"cfgId": 7,
+		"needPower": 7000,
+		"reward": [
+			[
+				210003,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"8": {
+		"cfgId": 8,
+		"needPower": 8000,
+		"reward": [
+			[
+				100001,
+				3000
+			]
+		],
+		"isSpecial": 1
+	},
+	"9": {
+		"cfgId": 9,
+		"needPower": 9000,
+		"reward": [
+			[
+				210012,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"10": {
+		"cfgId": 10,
+		"needPower": 10000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"11": {
+		"cfgId": 11,
+		"needPower": 11000,
+		"reward": [
+			[
+				100002,
+				50
+			]
+		],
+		"isSpecial": 0
+	},
+	"12": {
+		"cfgId": 12,
+		"needPower": 12000,
+		"reward": [
+			[
+				100001,
+				4000
+			]
+		],
+		"isSpecial": 1
+	},
+	"13": {
+		"cfgId": 13,
+		"needPower": 13000,
+		"reward": [
+			[
+				210007,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"14": {
+		"cfgId": 14,
+		"needPower": 14000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"15": {
+		"cfgId": 15,
+		"needPower": 15000,
+		"reward": [
+			[
+				210008,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"16": {
+		"cfgId": 16,
+		"needPower": 16000,
+		"reward": [
+			[
+				100002,
+				50
+			]
+		],
+		"isSpecial": 1
+	},
+	"17": {
+		"cfgId": 17,
+		"needPower": 17000,
+		"reward": [
+			[
+				100001,
+				5000
+			]
+		],
+		"isSpecial": 0
+	},
+	"18": {
+		"cfgId": 18,
+		"needPower": 18000,
+		"reward": [
+			[
+				210009,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"19": {
+		"cfgId": 19,
+		"needPower": 19000,
+		"reward": [
+			[
+				100001,
+				5000
+			]
+		],
+		"isSpecial": 0
+	},
+	"20": {
+		"cfgId": 20,
+		"needPower": 20000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"21": {
+		"cfgId": 21,
+		"needPower": 22000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"22": {
+		"cfgId": 22,
+		"needPower": 23000,
+		"reward": [
+			[
+				100001,
+				6000
+			]
+		],
+		"isSpecial": 0
+	},
+	"23": {
+		"cfgId": 23,
+		"needPower": 25000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"24": {
+		"cfgId": 24,
+		"needPower": 26000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"25": {
+		"cfgId": 25,
+		"needPower": 27000,
+		"reward": [
+			[
+				100002,
+				75
+			]
+		],
+		"isSpecial": 0
+	},
+	"26": {
+		"cfgId": 26,
+		"needPower": 28000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"27": {
+		"cfgId": 27,
+		"needPower": 29000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"28": {
+		"cfgId": 28,
+		"needPower": 32000,
+		"reward": [
+			[
+				100001,
+				7000
+			]
+		],
+		"isSpecial": 0
+	},
+	"29": {
+		"cfgId": 29,
+		"needPower": 34000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"30": {
+		"cfgId": 30,
+		"needPower": 36000,
+		"reward": [
+			[
+				100001,
+				7000
+			]
+		],
+		"isSpecial": 0
+	},
+	"31": {
+		"cfgId": 31,
+		"needPower": 38000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"32": {
+		"cfgId": 32,
+		"needPower": 40000,
+		"reward": [
+			[
+				100001,
+				7000
+			]
+		],
+		"isSpecial": 0
+	},
+	"33": {
+		"cfgId": 33,
+		"needPower": 44000,
+		"reward": [
+			[
+				100002,
+				100
+			]
+		],
+		"isSpecial": 0
+	},
+	"34": {
+		"cfgId": 34,
+		"needPower": 46000,
+		"reward": [
+			[
+				100001,
+				7000
+			]
+		],
+		"isSpecial": 1
+	},
+	"35": {
+		"cfgId": 35,
+		"needPower": 48000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"36": {
+		"cfgId": 36,
+		"needPower": 50000,
+		"reward": [
+			[
+				100001,
+				7000
+			]
+		],
+		"isSpecial": 1
+	},
+	"37": {
+		"cfgId": 37,
+		"needPower": 52000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"38": {
+		"cfgId": 38,
+		"needPower": 56000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"39": {
+		"cfgId": 39,
+		"needPower": 58000,
+		"reward": [
+			[
+				100001,
+				7000
+			]
+		],
+		"isSpecial": 1
+	},
+	"40": {
+		"cfgId": 40,
+		"needPower": 60000,
+		"reward": [
+			[
+				100002,
+				125
+			]
+		],
+		"isSpecial": 0
+	},
+	"41": {
+		"cfgId": 41,
+		"needPower": 62000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"42": {
+		"cfgId": 42,
+		"needPower": 64000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"43": {
+		"cfgId": 43,
+		"needPower": 68000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"44": {
+		"cfgId": 44,
+		"needPower": 70000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"45": {
+		"cfgId": 45,
+		"needPower": 72000,
+		"reward": [
+			[
+				100002,
+				150
+			]
+		],
+		"isSpecial": 0
+	},
+	"46": {
+		"cfgId": 46,
+		"needPower": 74000,
+		"reward": [
+			[
+				100001,
+				8000
+			]
+		],
+		"isSpecial": 1
+	},
+	"47": {
+		"cfgId": 47,
+		"needPower": 76000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"48": {
+		"cfgId": 48,
+		"needPower": 78000,
+		"reward": [
+			[
+				100001,
+				8000
+			]
+		],
+		"isSpecial": 1
+	},
+	"49": {
+		"cfgId": 49,
+		"needPower": 80000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"50": {
+		"cfgId": 50,
+		"needPower": 84000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"51": {
+		"cfgId": 51,
+		"needPower": 86000,
+		"reward": [
+			[
+				100002,
+				150
+			]
+		],
+		"isSpecial": 1
+	},
+	"52": {
+		"cfgId": 52,
+		"needPower": 88000,
+		"reward": [
+			[
+				100001,
+				8000
+			]
+		],
+		"isSpecial": 0
+	},
+	"53": {
+		"cfgId": 53,
+		"needPower": 90000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"54": {
+		"cfgId": 54,
+		"needPower": 93000,
+		"reward": [
+			[
+				100001,
+				8000
+			]
+		],
+		"isSpecial": 0
+	},
+	"55": {
+		"cfgId": 55,
+		"needPower": 96000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"56": {
+		"cfgId": 56,
+		"needPower": 102000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"57": {
+		"cfgId": 57,
+		"needPower": 105000,
+		"reward": [
+			[
+				100001,
+				9000
+			]
+		],
+		"isSpecial": 0
+	},
+	"58": {
+		"cfgId": 58,
+		"needPower": 108000,
+		"reward": [
+			[
+				100002,
+				175
+			]
+		],
+		"isSpecial": 1
+	},
+	"59": {
+		"cfgId": 59,
+		"needPower": 111000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"60": {
+		"cfgId": 60,
+		"needPower": 114000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"61": {
+		"cfgId": 61,
+		"needPower": 117000,
+		"reward": [
+			[
+				100002,
+				0.5
+			]
+		],
+		"isSpecial": 0
+	},
+	"62": {
+		"cfgId": 62,
+		"needPower": 120000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"63": {
+		"cfgId": 63,
+		"needPower": 123000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"64": {
+		"cfgId": 64,
+		"needPower": 126000,
+		"reward": [
+			[
+				100002,
+				200
+			]
+		],
+		"isSpecial": 1
+	},
+	"65": {
+		"cfgId": 65,
+		"needPower": 132000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"66": {
+		"cfgId": 66,
+		"needPower": 135000,
+		"reward": [
+			[
+				100001,
+				9000
+			]
+		],
+		"isSpecial": 0
+	},
+	"67": {
+		"cfgId": 67,
+		"needPower": 138000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"68": {
+		"cfgId": 68,
+		"needPower": 141000,
+		"reward": [
+			[
+				100001,
+				9000
+			]
+		],
+		"isSpecial": 0
+	},
+	"69": {
+		"cfgId": 69,
+		"needPower": 144000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"70": {
+		"cfgId": 70,
+		"needPower": 147000,
+		"reward": [
+			[
+				100002,
+				200
+			]
+		],
+		"isSpecial": 0
+	},
+	"71": {
+		"cfgId": 71,
+		"needPower": 150000,
+		"reward": [
+			[
+				100001,
+				10000
+			]
+		],
+		"isSpecial": 1
+	},
+	"72": {
+		"cfgId": 72,
+		"needPower": 153000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"73": {
+		"cfgId": 73,
+		"needPower": 156000,
+		"reward": [
+			[
+				100001,
+				10000
+			]
+		],
+		"isSpecial": 1
+	},
+	"74": {
+		"cfgId": 74,
+		"needPower": 159000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"75": {
+		"cfgId": 75,
+		"needPower": 162000,
+		"reward": [
+			[
+				100001,
+				10000
+			]
+		],
+		"isSpecial": 1
+	},
+	"76": {
+		"cfgId": 76,
+		"needPower": 165000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"77": {
+		"cfgId": 77,
+		"needPower": 171000,
+		"reward": [
+			[
+				100002,
+				225
+			]
+		],
+		"isSpecial": 0
+	},
+	"78": {
+		"cfgId": 78,
+		"needPower": 174000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"79": {
+		"cfgId": 79,
+		"needPower": 177000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"80": {
+		"cfgId": 80,
+		"needPower": 180000,
+		"reward": [
+			[
+				100002,
+				250
+			]
+		],
+		"isSpecial": 1
+	},
+	"81": {
+		"cfgId": 81,
+		"needPower": 184000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"82": {
+		"cfgId": 82,
+		"needPower": 188000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 1
+	},
+	"83": {
+		"cfgId": 83,
+		"needPower": 192000,
+		"reward": [
+			[
+				100002,
+				250
+			]
+		],
+		"isSpecial": 0
+	},
+	"84": {
+		"cfgId": 84,
+		"needPower": 196000,
+		"reward": [
+			[
+				100001,
+				11000
+			]
+		],
+		"isSpecial": 1
+	},
+	"85": {
+		"cfgId": 85,
+		"needPower": 200000,
+		"reward": [
+			[
+				300001,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"86": {
+		"cfgId": 86,
+		"needPower": 208000,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		],
+		"isSpecial": 0
+	},
+	"87": {
+		"cfgId": 87,
+		"needPower": 212000,
+		"reward": [
+			[
+				100002,
+				250
+			]
+		],
+		"isSpecial": 1
+	}
+}

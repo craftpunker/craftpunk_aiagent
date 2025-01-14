@@ -1,0 +1,7 @@
+
+<linker>
+       <assembly fullname="UnityEngine">
+            	<type fullname="UnityEngine.Animation" preserve="all"/>
+            	<type fullname="UnityEngine.AnimationClip" preserve="all"/>
+       </assembly>
+</linker>

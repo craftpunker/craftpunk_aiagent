@@ -1,0 +1,140 @@
+{
+	"1001": {
+		"cfgId": 1001,
+		"type": 1,
+		"price": 99,
+		"icon": "icon_1001",
+		"name": "Dialomands",
+		"rewardItem": [
+			[
+				100002,
+				200
+			]
+		],
+		"benefitDiamonds": 0
+	},
+	"1002": {
+		"cfgId": 1002,
+		"type": 1,
+		"price": 499,
+		"icon": "icon_1002",
+		"name": "Dialomands",
+		"rewardItem": [
+			[
+				100002,
+				1300
+			]
+		],
+		"benefitDiamonds": 300
+	},
+	"1003": {
+		"cfgId": 1003,
+		"type": 1,
+		"price": 999,
+		"icon": "icon_1003",
+		"name": "Dialomands",
+		"rewardItem": [
+			[
+				100002,
+				3000
+			]
+		],
+		"benefitDiamonds": 1000
+	},
+	"1004": {
+		"cfgId": 1004,
+		"type": 1,
+		"price": 1999,
+		"icon": "icon_1004",
+		"name": "Dialomands",
+		"rewardItem": [
+			[
+				100002,
+				6500
+			]
+		],
+		"benefitDiamonds": 2500
+	},
+	"1005": {
+		"cfgId": 1005,
+		"type": 1,
+		"price": 4999,
+		"icon": "icon_1005",
+		"name": "Dialomands",
+		"rewardItem": [
+			[
+				100002,
+				16500
+			]
+		],
+		"benefitDiamonds": 6500
+	},
+	"1006": {
+		"cfgId": 1006,
+		"type": 1,
+		"price": 9999,
+		"icon": "icon_1006",
+		"name": "Dialomands",
+		"rewardItem": [
+			[
+				100002,
+				36000
+			]
+		],
+		"benefitDiamonds": 16000
+	},
+	"2001": {
+		"cfgId": 2001,
+		"type": 2,
+		"price": 1999,
+		"icon": "",
+		"name": "Hunter Pack ",
+		"rewardItem": [
+			[
+				210013,
+				10
+			],
+			[
+				100001,
+				100000
+			]
+		],
+		"benefitDiamonds": 0,
+		"benefit": 1100,
+		"openServerDay": 0,
+		"buyCount": 1,
+		"overReward": [
+			[
+				100002,
+				6500
+			]
+		]
+	},
+	"2002": {
+		"cfgId": 2002,
+		"type": 2,
+		"price": 999,
+		"icon": "",
+		"name": "Game Start Pack",
+		"rewardItem": [
+			[
+				210013,
+				5
+			],
+			[
+				100001,
+				99999
+			]
+		],
+		"benefitDiamonds": 0,
+		"benefit": 1100,
+		"openServerDay": 7,
+		"buyCount": 2,
+		"overReward": [
+			[
+				100002,
+				3000
+			]
+		]
+	}
+}

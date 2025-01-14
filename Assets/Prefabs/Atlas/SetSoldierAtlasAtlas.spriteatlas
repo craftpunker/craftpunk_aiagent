@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SetSoldierAtlasAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b2d2617e87009be488b42ec48193540d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 76b344f0e3ad9d54885f92370f30e9a9: 21300000
+    - ee7cbbf24b0f20642b2f3fe1fa818f4e: 21300000
+    - 24d077c3de6fa4d41b8262c8d3ecc209: 21300000
+    - e4199f64fc31c07408ec296368d2daf3: 21300000
+    - a752adb613d6df6418eca0951b032018: 21300000
+    - 0a9daf28b638b6d4ca2e7dbc0245c9fb: 21300000
+    - ce017658c106e84479bebaa36e11cca3: 21300000
+    - 59a8d888d77175648b9a3addb34bfda6: 21300000
+    - 31971d69671740c48bd39ec33c5e252d: 21300000
+    - 0be7f8e9e2420864ba4170fc275b7c03: 21300000
+    - af44605c65ded734081ac3279a5e5dac: 21300000
+    - 30eb78dd1bcde1e44b6e23ba6c6fef24: 21300000
+    - 947ae61f3d90de641bfc6ac1c22c1b69: 21300000
+    - b730992f7eddaee4095444dffca756a5: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 76b344f0e3ad9d54885f92370f30e9a9, type: 3}
+  - {fileID: 21300000, guid: ee7cbbf24b0f20642b2f3fe1fa818f4e, type: 3}
+  - {fileID: 21300000, guid: 24d077c3de6fa4d41b8262c8d3ecc209, type: 3}
+  - {fileID: 21300000, guid: e4199f64fc31c07408ec296368d2daf3, type: 3}
+  - {fileID: 21300000, guid: a752adb613d6df6418eca0951b032018, type: 3}
+  - {fileID: 21300000, guid: 0a9daf28b638b6d4ca2e7dbc0245c9fb, type: 3}
+  - {fileID: 21300000, guid: ce017658c106e84479bebaa36e11cca3, type: 3}
+  - {fileID: 21300000, guid: 59a8d888d77175648b9a3addb34bfda6, type: 3}
+  - {fileID: 21300000, guid: 31971d69671740c48bd39ec33c5e252d, type: 3}
+  - {fileID: 21300000, guid: 0be7f8e9e2420864ba4170fc275b7c03, type: 3}
+  - {fileID: 21300000, guid: af44605c65ded734081ac3279a5e5dac, type: 3}
+  - {fileID: 21300000, guid: 30eb78dd1bcde1e44b6e23ba6c6fef24, type: 3}
+  - {fileID: 21300000, guid: 947ae61f3d90de641bfc6ac1c22c1b69, type: 3}
+  - {fileID: 21300000, guid: b730992f7eddaee4095444dffca756a5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui_fd_Wall_a
+  - ui_fd_Soldier card_ying
+  - ui_new_icon
+  - ui_cancel_bg
+  - ui_Soldier_Troop interface_a
+  - ui_fd_loading_bg
+  - ui_fd_loading_a
+  - ui_line_a
+  - ui_Soldier_Troop interface_delete
+  - ui_fd_Level_a
+  - ui_cancel_a
+  - ui_fd_bg
+  - ui_fd_Upgrade_a
+  - ui_fd_soldier_icon
+  m_RenderDataMap: {}
+  m_Tag: SetSoldierAtlasAtlas
+  m_IsVariant: 0

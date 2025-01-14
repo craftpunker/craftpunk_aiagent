@@ -1,0 +1,574 @@
+{
+	"0": {
+		"cfgId": 0,
+		"name": "1",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			0,
+			399
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_qingtong",
+		"seasonaRewardItem": [
+			[
+				100001,
+				3000
+			]
+		]
+	},
+	"1": {
+		"cfgId": 1,
+		"name": "2",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			400,
+			599
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_qingtong",
+		"seasonaRewardItem": [
+			[
+				100001,
+				6000
+			],
+			[
+				100002,
+				100
+			]
+		]
+	},
+	"2": {
+		"cfgId": 2,
+		"name": "3",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			600,
+			799
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_qingtong",
+		"seasonaRewardItem": [
+			[
+				100001,
+				12000
+			],
+			[
+				100002,
+				200
+			]
+		]
+	},
+	"3": {
+		"cfgId": 3,
+		"name": "1",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			800,
+			999
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_baiyin",
+		"seasonaRewardItem": [
+			[
+				100001,
+				18000
+			],
+			[
+				100002,
+				300
+			]
+		]
+	},
+	"4": {
+		"cfgId": 4,
+		"name": "2",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			1000,
+			1199
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_baiyin",
+		"seasonaRewardItem": [
+			[
+				100001,
+				24000
+			],
+			[
+				100002,
+				400
+			]
+		]
+	},
+	"5": {
+		"cfgId": 5,
+		"name": "3",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			1200,
+			1399
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_baiyin",
+		"seasonaRewardItem": [
+			[
+				100001,
+				30000
+			],
+			[
+				100002,
+				450
+			]
+		]
+	},
+	"6": {
+		"cfgId": 6,
+		"name": "1",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			1400,
+			1599
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_huangjin",
+		"seasonaRewardItem": [
+			[
+				100001,
+				36000
+			],
+			[
+				100002,
+				500
+			]
+		]
+	},
+	"7": {
+		"cfgId": 7,
+		"name": "2",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			1600,
+			1799
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_huangjin",
+		"seasonaRewardItem": [
+			[
+				100001,
+				42000
+			],
+			[
+				100002,
+				550
+			]
+		]
+	},
+	"8": {
+		"cfgId": 8,
+		"name": "3",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			1800,
+			1999
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_huangjin",
+		"seasonaRewardItem": [
+			[
+				100001,
+				48000
+			],
+			[
+				100002,
+				600
+			]
+		]
+	},
+	"9": {
+		"cfgId": 9,
+		"name": "1",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			2000,
+			2299
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_bojin",
+		"seasonaRewardItem": [
+			[
+				100001,
+				54000
+			],
+			[
+				100002,
+				650
+			]
+		]
+	},
+	"10": {
+		"cfgId": 10,
+		"name": "2",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			2300,
+			2599
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_bojin",
+		"seasonaRewardItem": [
+			[
+				100001,
+				60000
+			],
+			[
+				100002,
+				700
+			]
+		]
+	},
+	"11": {
+		"cfgId": 11,
+		"name": "3",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			2600,
+			2899
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_bojin",
+		"seasonaRewardItem": [
+			[
+				100001,
+				66000
+			],
+			[
+				100002,
+				750
+			]
+		]
+	},
+	"12": {
+		"cfgId": 12,
+		"name": "1",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			2900,
+			3199
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_zuanshi",
+		"seasonaRewardItem": [
+			[
+				100001,
+				78000
+			],
+			[
+				100002,
+				900
+			]
+		]
+	},
+	"13": {
+		"cfgId": 13,
+		"name": "2",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			3200,
+			3499
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_zuanshi",
+		"seasonaRewardItem": [
+			[
+				100001,
+				90000
+			],
+			[
+				100002,
+				1000
+			]
+		]
+	},
+	"14": {
+		"cfgId": 14,
+		"name": "3",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			3500,
+			3999
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_zuanshi",
+		"seasonaRewardItem": [
+			[
+				100001,
+				96000
+			],
+			[
+				100002,
+				1100
+			]
+		]
+	},
+	"15": {
+		"cfgId": 15,
+		"name": "",
+		"areaSize": [
+			13500,
+			4500,
+			-11000
+		],
+		"soldierCost": 16,
+		"cameraSize": 9500,
+		"mapSize": [
+			1000,
+			1450
+		],
+		"needScore": [
+			4000,
+			99999
+		],
+		"rewardItem": [
+			[
+				100001,
+				300
+			]
+		],
+		"icon": "Ui_dashi",
+		"seasonaRewardItem": [
+			[
+				100001,
+				120000
+			],
+			[
+				100002,
+				1500
+			]
+		]
+	}
+}

@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShopAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 21b8568a7ec75ab4c8ae046b749dcd39, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - bd6e5800c0c25c14e83e53aaec43bf85: 21300000
+    - 32b6594018dda804782aebb782e4d21f: 21300000
+    - 303e3fd0340928c43bd45001c0f20841: 21300000
+    - 750f9011debb765438acf786dab982e4: 21300000
+    - ebac3b3273e4cb9468d9fee5085c335d: 21300000
+    - 7565c225be628a9429c4436f5289927f: 21300000
+    - 099f9465131db5f4e856696c780ccd40: 21300000
+    - 42f835859662920408cd12b6dad38411: 21300000
+    - 7b4aa146a41e21543a7e6ff6e26d02c2: 21300000
+    - 7c4466b6f014d084e9a52b6ef8648c65: 21300000
+    - 13f4e2d61d3d6a441b164df79af66577: 21300000
+    - 7c40de57c53a5b645a5f5e35a0821908: 21300000
+    - 72fa6d2814246954297b637e673a8616: 21300000
+    - 259456480b7bf2342b415afc8f4488ab: 21300000
+    - bc7c68883b806b14abaa9cd520207843: 21300000
+    - 5cc9dc79592f44746944dcae970701c5: 21300000
+    - 701102eb1a889ad45b4ea3bbdeefcae3: 21300000
+    - 0df0f5dc41c37a9499f733fe9f2bd7aa: 21300000
+    - 942cbffc4e2e067488e943dbfffc8ea7: 21300000
+    - 06d7298da522f2d4081e8cda876a7778: 21300000
+    - 503cd6ad9b45bd047b4f3751bb064588: 21300000
+    - 2d88ff0e4a0701b498b36504e1cc88a0: 21300000
+    - 8ebf131ec92831244af9e04f930105f0: 21300000
+    - 8bcb460fb0e9d914bb7261a1bbe81d94: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bd6e5800c0c25c14e83e53aaec43bf85, type: 3}
+  - {fileID: 21300000, guid: 32b6594018dda804782aebb782e4d21f, type: 3}
+  - {fileID: 21300000, guid: 303e3fd0340928c43bd45001c0f20841, type: 3}
+  - {fileID: 21300000, guid: 750f9011debb765438acf786dab982e4, type: 3}
+  - {fileID: 21300000, guid: ebac3b3273e4cb9468d9fee5085c335d, type: 3}
+  - {fileID: 21300000, guid: 7565c225be628a9429c4436f5289927f, type: 3}
+  - {fileID: 21300000, guid: 099f9465131db5f4e856696c780ccd40, type: 3}
+  - {fileID: 21300000, guid: 42f835859662920408cd12b6dad38411, type: 3}
+  - {fileID: 21300000, guid: 7b4aa146a41e21543a7e6ff6e26d02c2, type: 3}
+  - {fileID: 21300000, guid: 7c4466b6f014d084e9a52b6ef8648c65, type: 3}
+  - {fileID: 21300000, guid: 13f4e2d61d3d6a441b164df79af66577, type: 3}
+  - {fileID: 21300000, guid: 7c40de57c53a5b645a5f5e35a0821908, type: 3}
+  - {fileID: 21300000, guid: 72fa6d2814246954297b637e673a8616, type: 3}
+  - {fileID: 21300000, guid: 259456480b7bf2342b415afc8f4488ab, type: 3}
+  - {fileID: 21300000, guid: bc7c68883b806b14abaa9cd520207843, type: 3}
+  - {fileID: 21300000, guid: 5cc9dc79592f44746944dcae970701c5, type: 3}
+  - {fileID: 21300000, guid: 701102eb1a889ad45b4ea3bbdeefcae3, type: 3}
+  - {fileID: 21300000, guid: 0df0f5dc41c37a9499f733fe9f2bd7aa, type: 3}
+  - {fileID: 21300000, guid: 942cbffc4e2e067488e943dbfffc8ea7, type: 3}
+  - {fileID: 21300000, guid: 06d7298da522f2d4081e8cda876a7778, type: 3}
+  - {fileID: 21300000, guid: 503cd6ad9b45bd047b4f3751bb064588, type: 3}
+  - {fileID: 21300000, guid: 2d88ff0e4a0701b498b36504e1cc88a0, type: 3}
+  - {fileID: 21300000, guid: 8ebf131ec92831244af9e04f930105f0, type: 3}
+  - {fileID: 21300000, guid: 8bcb460fb0e9d914bb7261a1bbe81d94, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui_Treasure_40002
+  - ui_cancel_bg
+  - Ui_diamond_benefit
+  - Ui_Gift Pack_time
+  - gold_2
+  - ui_Treasure_40001
+  - Ui_diamond_icon_1006
+  - ui_cancel_a
+  - ui_Treasure_40003
+  - gold_1
+  - Ui_diamond_icon_1003
+  - Ui_gift_title_a
+  - Ui_diamond_icon_1002
+  - gold_3
+  - Ui_diamond_icon_1004
+  - ui_ Daily selection _number
+  - Ui_diamond_icon_1005
+  - Ui_Gift Pack_discount
+  - ui_ Daily selection _Refresh
+  - Ui_diamond_icon_1001
+  - ui_Soldier_background_b
+  - ui_ Daily selection _time
+  - Ui_Gift Pack_pruchase
+  - Ui_Gift Pack_bg
+  m_RenderDataMap: {}
+  m_Tag: ShopAtlas
+  m_IsVariant: 0

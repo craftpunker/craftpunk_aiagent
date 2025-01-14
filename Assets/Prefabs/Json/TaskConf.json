@@ -1,0 +1,2897 @@
+{
+	"101": {
+		"cfgId": 101,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 1,
+		"targetType": 1,
+		"targetValue": [
+			[
+				1
+			]
+		],
+		"activation": 20,
+		"isUseable": 1,
+		"isProgress": 0,
+		"rewardItem": [
+			[
+				100001,
+				500
+			]
+		],
+		"point": 0,
+		"desc": "Daily login"
+	},
+	"102": {
+		"cfgId": 102,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 1,
+		"targetType": 2,
+		"targetValue": [
+			[
+				5000
+			]
+		],
+		"activation": 10,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100001,
+				500
+			]
+		],
+		"point": 0,
+		"desc": "Collect 5000 coin by Time chest"
+	},
+	"103": {
+		"cfgId": 103,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 1,
+		"targetType": 3,
+		"targetValue": [
+			[
+				300,
+				0
+			]
+		],
+		"activation": 20,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100001,
+				500
+			]
+		],
+		"point": 0,
+		"desc": "Kill 300 enemy units"
+	},
+	"104": {
+		"cfgId": 104,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 1,
+		"targetType": 3,
+		"targetValue": [
+			[
+				500,
+				0
+			]
+		],
+		"activation": 20,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100001,
+				500
+			]
+		],
+		"point": 0,
+		"desc": "Kill 500 enemy units"
+	},
+	"105": {
+		"cfgId": 105,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 1,
+		"targetType": 4,
+		"targetValue": [
+			[
+				3
+			]
+		],
+		"activation": 10,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100001,
+				500
+			]
+		],
+		"point": 0,
+		"desc": "Battle in pvp 3 times"
+	},
+	"106": {
+		"cfgId": 106,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 1,
+		"targetType": 6,
+		"targetValue": [
+			[
+				1
+			]
+		],
+		"activation": 10,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100001,
+				500
+			]
+		],
+		"point": 0,
+		"desc": "Upgrade 1 units"
+	},
+	"107": {
+		"cfgId": 107,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 1,
+		"targetType": 6,
+		"targetValue": [
+			[
+				3
+			]
+		],
+		"activation": 20,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100001,
+				500
+			]
+		],
+		"point": 0,
+		"desc": "Upgrade 3 units"
+	},
+	"108": {
+		"cfgId": 108,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 1,
+		"targetType": 8,
+		"targetValue": [
+			[
+				3
+			]
+		],
+		"activation": 20,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100001,
+				500
+			]
+		],
+		"point": 0,
+		"desc": "Battle in pve 3 times"
+	},
+	"201": {
+		"cfgId": 201,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 2,
+		"targetType": 1,
+		"targetValue": [
+			[
+				5
+			]
+		],
+		"activation": 20,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100001,
+				1000
+			]
+		],
+		"point": 0,
+		"desc": "Login game 5 days"
+	},
+	"202": {
+		"cfgId": 202,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 2,
+		"targetType": 3,
+		"targetValue": [
+			[
+				1000,
+				0
+			]
+		],
+		"activation": 20,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100001,
+				1000
+			]
+		],
+		"point": 0,
+		"desc": "Kill 1000 enemy units"
+	},
+	"203": {
+		"cfgId": 203,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 2,
+		"targetType": 5,
+		"targetValue": [
+			[
+				10
+			]
+		],
+		"activation": 20,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100001,
+				1000
+			]
+		],
+		"point": 0,
+		"desc": "Defeat 10 opponents in PvP"
+	},
+	"204": {
+		"cfgId": 204,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 2,
+		"targetType": 6,
+		"targetValue": [
+			[
+				5
+			]
+		],
+		"activation": 20,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100001,
+				1000
+			]
+		],
+		"point": 0,
+		"desc": "Upgrade 5 units"
+	},
+	"205": {
+		"cfgId": 205,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 2,
+		"targetType": 2,
+		"targetValue": [
+			[
+				30000
+			]
+		],
+		"activation": 20,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100001,
+				1000
+			]
+		],
+		"point": 0,
+		"desc": "Collect 30000 coin by Time chest"
+	},
+	"206": {
+		"cfgId": 206,
+		"category": "",
+		"nextTask": 0,
+		"taskType": 2,
+		"targetType": 9,
+		"targetValue": [
+			[
+				40
+			]
+		],
+		"activation": 20,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100001,
+				1000
+			]
+		],
+		"point": 0,
+		"desc": "Complete 20 daily task"
+	},
+	"30101": {
+		"cfgId": 30101,
+		"category": "Battle",
+		"nextTask": 30102,
+		"taskType": 3,
+		"targetType": 4,
+		"targetValue": [
+			[
+				100
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				10
+			]
+		],
+		"point": 10,
+		"desc": "Battle in Pvp 100 times"
+	},
+	"30102": {
+		"cfgId": 30102,
+		"category": "Battle",
+		"nextTask": 30103,
+		"taskType": 3,
+		"targetType": 4,
+		"targetValue": [
+			[
+				200
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				30
+			]
+		],
+		"point": 30,
+		"desc": "Battle in Pvp 200 times"
+	},
+	"30103": {
+		"cfgId": 30103,
+		"category": "Battle",
+		"nextTask": 30104,
+		"taskType": 3,
+		"targetType": 4,
+		"targetValue": [
+			[
+				400
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				50
+			]
+		],
+		"point": 50,
+		"desc": "Battle in Pvp 400 times"
+	},
+	"30104": {
+		"cfgId": 30104,
+		"category": "Battle",
+		"nextTask": 30105,
+		"taskType": 3,
+		"targetType": 4,
+		"targetValue": [
+			[
+				600
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				100
+			]
+		],
+		"point": 100,
+		"desc": "Battle in Pvp 600 times"
+	},
+	"30105": {
+		"cfgId": 30105,
+		"category": "Battle",
+		"nextTask": 30106,
+		"taskType": 3,
+		"targetType": 4,
+		"targetValue": [
+			[
+				1000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				200
+			]
+		],
+		"point": 200,
+		"desc": "Battle in Pvp 1000 times"
+	},
+	"30106": {
+		"cfgId": 30106,
+		"category": "Battle",
+		"nextTask": 30107,
+		"taskType": 3,
+		"targetType": 4,
+		"targetValue": [
+			[
+				2000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				300
+			]
+		],
+		"point": 300,
+		"desc": "Battle in Pvp 2000 times"
+	},
+	"30107": {
+		"cfgId": 30107,
+		"category": "Battle",
+		"nextTask": 30108,
+		"taskType": 3,
+		"targetType": 4,
+		"targetValue": [
+			[
+				4000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				500
+			]
+		],
+		"point": 500,
+		"desc": "Battle in Pvp 4000 times"
+	},
+	"30108": {
+		"cfgId": 30108,
+		"category": "Battle",
+		"nextTask": 30109,
+		"taskType": 3,
+		"targetType": 4,
+		"targetValue": [
+			[
+				6000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				1000
+			]
+		],
+		"point": 1000,
+		"desc": "Battle in Pvp 6000 times"
+	},
+	"30109": {
+		"cfgId": 30109,
+		"category": "Battle",
+		"nextTask": 30110,
+		"taskType": 3,
+		"targetType": 4,
+		"targetValue": [
+			[
+				8000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				2000
+			]
+		],
+		"point": 2000,
+		"desc": "Battle in Pvp 8000 times"
+	},
+	"30110": {
+		"cfgId": 30110,
+		"category": "Battle",
+		"nextTask": 0,
+		"taskType": 3,
+		"targetType": 4,
+		"targetValue": [
+			[
+				10000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				5000
+			]
+		],
+		"point": 5000,
+		"desc": "Battle in Pvp 10000 times"
+	},
+	"30201": {
+		"cfgId": 30201,
+		"category": "Battle",
+		"nextTask": 30202,
+		"taskType": 3,
+		"targetType": 3,
+		"targetValue": [
+			[
+				1000,
+				0
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				10
+			]
+		],
+		"point": 10,
+		"desc": "Kill 1000 enemy units"
+	},
+	"30202": {
+		"cfgId": 30202,
+		"category": "Battle",
+		"nextTask": 30203,
+		"taskType": 3,
+		"targetType": 3,
+		"targetValue": [
+			[
+				5000,
+				0
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				30
+			]
+		],
+		"point": 30,
+		"desc": "Kill 5000 enemy units"
+	},
+	"30203": {
+		"cfgId": 30203,
+		"category": "Battle",
+		"nextTask": 30204,
+		"taskType": 3,
+		"targetType": 3,
+		"targetValue": [
+			[
+				10000,
+				0
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				50
+			]
+		],
+		"point": 50,
+		"desc": "Kill 10000 enemy units"
+	},
+	"30204": {
+		"cfgId": 30204,
+		"category": "Battle",
+		"nextTask": 30205,
+		"taskType": 3,
+		"targetType": 3,
+		"targetValue": [
+			[
+				50000,
+				0
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				100
+			]
+		],
+		"point": 100,
+		"desc": "Kill 50000 enemy units"
+	},
+	"30205": {
+		"cfgId": 30205,
+		"category": "Battle",
+		"nextTask": 30206,
+		"taskType": 3,
+		"targetType": 3,
+		"targetValue": [
+			[
+				100000,
+				0
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				200
+			]
+		],
+		"point": 200,
+		"desc": "Kill 100000 enemy units"
+	},
+	"30206": {
+		"cfgId": 30206,
+		"category": "Battle",
+		"nextTask": 30207,
+		"taskType": 3,
+		"targetType": 3,
+		"targetValue": [
+			[
+				250000,
+				0
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				300
+			]
+		],
+		"point": 300,
+		"desc": "Kill 250000 enemy units"
+	},
+	"30207": {
+		"cfgId": 30207,
+		"category": "Battle",
+		"nextTask": 30208,
+		"taskType": 3,
+		"targetType": 3,
+		"targetValue": [
+			[
+				500000,
+				0
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				500
+			]
+		],
+		"point": 500,
+		"desc": "Kill 500000 enemy units"
+	},
+	"30208": {
+		"cfgId": 30208,
+		"category": "Battle",
+		"nextTask": 30209,
+		"taskType": 3,
+		"targetType": 3,
+		"targetValue": [
+			[
+				1000000,
+				0
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				1000
+			]
+		],
+		"point": 1000,
+		"desc": "Kill 1000000 enemy units"
+	},
+	"30209": {
+		"cfgId": 30209,
+		"category": "Battle",
+		"nextTask": 30210,
+		"taskType": 3,
+		"targetType": 3,
+		"targetValue": [
+			[
+				2500000,
+				0
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				2000
+			]
+		],
+		"point": 2000,
+		"desc": "Kill 2500000 enemy units"
+	},
+	"30210": {
+		"cfgId": 30210,
+		"category": "Battle",
+		"nextTask": 0,
+		"taskType": 3,
+		"targetType": 3,
+		"targetValue": [
+			[
+				5000000,
+				0
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				5000
+			]
+		],
+		"point": 5000,
+		"desc": "Kill 5000000 enemy units"
+	},
+	"30301": {
+		"cfgId": 30301,
+		"category": "Battle",
+		"nextTask": 30302,
+		"taskType": 3,
+		"targetType": 5,
+		"targetValue": [
+			[
+				50
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				10
+			]
+		],
+		"point": 10,
+		"desc": "Defeat 50 opponents in PvP"
+	},
+	"30302": {
+		"cfgId": 30302,
+		"category": "Battle",
+		"nextTask": 30303,
+		"taskType": 3,
+		"targetType": 5,
+		"targetValue": [
+			[
+				100
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				30
+			]
+		],
+		"point": 30,
+		"desc": "Defeat 100 opponents in PvP"
+	},
+	"30303": {
+		"cfgId": 30303,
+		"category": "Battle",
+		"nextTask": 30304,
+		"taskType": 3,
+		"targetType": 5,
+		"targetValue": [
+			[
+				200
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				50
+			]
+		],
+		"point": 50,
+		"desc": "Defeat 200 opponents in PvP"
+	},
+	"30304": {
+		"cfgId": 30304,
+		"category": "Battle",
+		"nextTask": 30305,
+		"taskType": 3,
+		"targetType": 5,
+		"targetValue": [
+			[
+				300
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				100
+			]
+		],
+		"point": 100,
+		"desc": "Defeat 300 opponents in PvP"
+	},
+	"30305": {
+		"cfgId": 30305,
+		"category": "Battle",
+		"nextTask": 30306,
+		"taskType": 3,
+		"targetType": 5,
+		"targetValue": [
+			[
+				500
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				200
+			]
+		],
+		"point": 200,
+		"desc": "Defeat 500 opponents in PvP"
+	},
+	"30306": {
+		"cfgId": 30306,
+		"category": "Battle",
+		"nextTask": 30307,
+		"taskType": 3,
+		"targetType": 5,
+		"targetValue": [
+			[
+				1000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				300
+			]
+		],
+		"point": 300,
+		"desc": "Defeat 1000 opponents in PvP"
+	},
+	"30307": {
+		"cfgId": 30307,
+		"category": "Battle",
+		"nextTask": 30308,
+		"taskType": 3,
+		"targetType": 5,
+		"targetValue": [
+			[
+				2000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				500
+			]
+		],
+		"point": 500,
+		"desc": "Defeat 2000 opponents in PvP"
+	},
+	"30308": {
+		"cfgId": 30308,
+		"category": "Battle",
+		"nextTask": 30309,
+		"taskType": 3,
+		"targetType": 5,
+		"targetValue": [
+			[
+				3000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				1000
+			]
+		],
+		"point": 1000,
+		"desc": "Defeat 3000 opponents in PvP"
+	},
+	"30309": {
+		"cfgId": 30309,
+		"category": "Battle",
+		"nextTask": 30310,
+		"taskType": 3,
+		"targetType": 5,
+		"targetValue": [
+			[
+				4000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				2000
+			]
+		],
+		"point": 2000,
+		"desc": "Defeat 4000 opponents in PvP"
+	},
+	"30310": {
+		"cfgId": 30310,
+		"category": "Battle",
+		"nextTask": 0,
+		"taskType": 3,
+		"targetType": 5,
+		"targetValue": [
+			[
+				5000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				5000
+			]
+		],
+		"point": 5000,
+		"desc": "Defeat 5000 opponents in PvP"
+	},
+	"30401": {
+		"cfgId": 30401,
+		"category": "Cost",
+		"nextTask": 30402,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				1000,
+				100002
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				10
+			]
+		],
+		"point": 10,
+		"desc": "Spend 1000 Gems"
+	},
+	"30402": {
+		"cfgId": 30402,
+		"category": "Cost",
+		"nextTask": 30403,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				2500,
+				100002
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				30
+			]
+		],
+		"point": 30,
+		"desc": "Spend 2500 Gems"
+	},
+	"30403": {
+		"cfgId": 30403,
+		"category": "Cost",
+		"nextTask": 30404,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				5000,
+				100002
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				50
+			]
+		],
+		"point": 50,
+		"desc": "Spend 5000 Gems"
+	},
+	"30404": {
+		"cfgId": 30404,
+		"category": "Cost",
+		"nextTask": 30405,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				10000,
+				100002
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				100
+			]
+		],
+		"point": 100,
+		"desc": "Spend 10000 Gems"
+	},
+	"30405": {
+		"cfgId": 30405,
+		"category": "Cost",
+		"nextTask": 30406,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				15000,
+				100002
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				200
+			]
+		],
+		"point": 200,
+		"desc": "Spend 15000 Gems"
+	},
+	"30406": {
+		"cfgId": 30406,
+		"category": "Cost",
+		"nextTask": 30407,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				25000,
+				100002
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				300
+			]
+		],
+		"point": 300,
+		"desc": "Spend 25000 Gems"
+	},
+	"30407": {
+		"cfgId": 30407,
+		"category": "Cost",
+		"nextTask": 30408,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				50000,
+				100002
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				500
+			]
+		],
+		"point": 500,
+		"desc": "Spend 50000 Gems"
+	},
+	"30408": {
+		"cfgId": 30408,
+		"category": "Cost",
+		"nextTask": 30409,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				100000,
+				100002
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				1000
+			]
+		],
+		"point": 1000,
+		"desc": "Spend 100000 Gems"
+	},
+	"30409": {
+		"cfgId": 30409,
+		"category": "Cost",
+		"nextTask": 30410,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				150000,
+				100002
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				2000
+			]
+		],
+		"point": 2000,
+		"desc": "Spend 150000 Gems"
+	},
+	"30410": {
+		"cfgId": 30410,
+		"category": "Cost",
+		"nextTask": 0,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				250000,
+				100002
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				5000
+			]
+		],
+		"point": 5000,
+		"desc": "Spend 250000 Gems"
+	},
+	"30501": {
+		"cfgId": 30501,
+		"category": "Cost",
+		"nextTask": 30502,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				50000,
+				100001
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				10
+			]
+		],
+		"point": 10,
+		"desc": "Spend 50000 Gold"
+	},
+	"30502": {
+		"cfgId": 30502,
+		"category": "Cost",
+		"nextTask": 30503,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				200000,
+				100001
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				30
+			]
+		],
+		"point": 30,
+		"desc": "Spend 200000 Gold"
+	},
+	"30503": {
+		"cfgId": 30503,
+		"category": "Cost",
+		"nextTask": 30504,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				500000,
+				100001
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				50
+			]
+		],
+		"point": 50,
+		"desc": "Spend 500000 Gold"
+	},
+	"30504": {
+		"cfgId": 30504,
+		"category": "Cost",
+		"nextTask": 30505,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				1000000,
+				100001
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				100
+			]
+		],
+		"point": 100,
+		"desc": "Spend 1000000 Gold"
+	},
+	"30505": {
+		"cfgId": 30505,
+		"category": "Cost",
+		"nextTask": 30506,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				2500000,
+				100001
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				200
+			]
+		],
+		"point": 200,
+		"desc": "Spend 2500000 Gold"
+	},
+	"30506": {
+		"cfgId": 30506,
+		"category": "Cost",
+		"nextTask": 30507,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				5000000,
+				100001
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				300
+			]
+		],
+		"point": 300,
+		"desc": "Spend 5000000 Gold"
+	},
+	"30507": {
+		"cfgId": 30507,
+		"category": "Cost",
+		"nextTask": 30508,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				10000000,
+				100001
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				500
+			]
+		],
+		"point": 500,
+		"desc": "Spend 10000000 Gold"
+	},
+	"30508": {
+		"cfgId": 30508,
+		"category": "Cost",
+		"nextTask": 30509,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				15000000,
+				100001
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				1000
+			]
+		],
+		"point": 1000,
+		"desc": "Spend 15000000 Gold"
+	},
+	"30509": {
+		"cfgId": 30509,
+		"category": "Cost",
+		"nextTask": 30510,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				25000000,
+				100001
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				2000
+			]
+		],
+		"point": 2000,
+		"desc": "Spend 25000000 Gold"
+	},
+	"30510": {
+		"cfgId": 30510,
+		"category": "Cost",
+		"nextTask": 0,
+		"taskType": 3,
+		"targetType": 12,
+		"targetValue": [
+			[
+				50000000,
+				100001
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				5000
+			]
+		],
+		"point": 5000,
+		"desc": "Spend 50000000 Gold"
+	},
+	"30601": {
+		"cfgId": 30601,
+		"category": "Journey",
+		"nextTask": 30602,
+		"taskType": 3,
+		"targetType": 6,
+		"targetValue": [
+			[
+				10
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				10
+			]
+		],
+		"point": 10,
+		"desc": "Upgrade 10 units"
+	},
+	"30602": {
+		"cfgId": 30602,
+		"category": "Journey",
+		"nextTask": 30603,
+		"taskType": 3,
+		"targetType": 6,
+		"targetValue": [
+			[
+				25
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				30
+			]
+		],
+		"point": 30,
+		"desc": "Upgrade 25 units"
+	},
+	"30603": {
+		"cfgId": 30603,
+		"category": "Journey",
+		"nextTask": 30604,
+		"taskType": 3,
+		"targetType": 6,
+		"targetValue": [
+			[
+				50
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				50
+			]
+		],
+		"point": 50,
+		"desc": "Upgrade 50 units"
+	},
+	"30604": {
+		"cfgId": 30604,
+		"category": "Journey",
+		"nextTask": 30605,
+		"taskType": 3,
+		"targetType": 6,
+		"targetValue": [
+			[
+				100
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				100
+			]
+		],
+		"point": 100,
+		"desc": "Upgrade 100 units"
+	},
+	"30605": {
+		"cfgId": 30605,
+		"category": "Journey",
+		"nextTask": 30606,
+		"taskType": 3,
+		"targetType": 6,
+		"targetValue": [
+			[
+				250
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				200
+			]
+		],
+		"point": 200,
+		"desc": "Upgrade 250 units"
+	},
+	"30606": {
+		"cfgId": 30606,
+		"category": "Journey",
+		"nextTask": 30607,
+		"taskType": 3,
+		"targetType": 6,
+		"targetValue": [
+			[
+				500
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				300
+			]
+		],
+		"point": 300,
+		"desc": "Upgrade 500 units"
+	},
+	"30607": {
+		"cfgId": 30607,
+		"category": "Journey",
+		"nextTask": 30608,
+		"taskType": 3,
+		"targetType": 6,
+		"targetValue": [
+			[
+				1000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				500
+			]
+		],
+		"point": 500,
+		"desc": "Upgrade 1000 units"
+	},
+	"30608": {
+		"cfgId": 30608,
+		"category": "Journey",
+		"nextTask": 30609,
+		"taskType": 3,
+		"targetType": 6,
+		"targetValue": [
+			[
+				2500
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				1000
+			]
+		],
+		"point": 1000,
+		"desc": "Upgrade 2500 units"
+	},
+	"30609": {
+		"cfgId": 30609,
+		"category": "Journey",
+		"nextTask": 30610,
+		"taskType": 3,
+		"targetType": 6,
+		"targetValue": [
+			[
+				5000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				2000
+			]
+		],
+		"point": 2000,
+		"desc": "Upgrade 5000 units"
+	},
+	"30610": {
+		"cfgId": 30610,
+		"category": "Journey",
+		"nextTask": 0,
+		"taskType": 3,
+		"targetType": 6,
+		"targetValue": [
+			[
+				10000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				5000
+			]
+		],
+		"point": 5000,
+		"desc": "Upgrade 10000 units"
+	},
+	"30701": {
+		"cfgId": 30701,
+		"category": "Journey",
+		"nextTask": 30702,
+		"taskType": 3,
+		"targetType": 9,
+		"targetValue": [
+			[
+				20
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				10
+			]
+		],
+		"point": 10,
+		"desc": "Complete 20 daily task"
+	},
+	"30702": {
+		"cfgId": 30702,
+		"category": "Journey",
+		"nextTask": 30703,
+		"taskType": 3,
+		"targetType": 9,
+		"targetValue": [
+			[
+				50
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				30
+			]
+		],
+		"point": 30,
+		"desc": "Complete 50 daily task"
+	},
+	"30703": {
+		"cfgId": 30703,
+		"category": "Journey",
+		"nextTask": 30704,
+		"taskType": 3,
+		"targetType": 9,
+		"targetValue": [
+			[
+				100
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				50
+			]
+		],
+		"point": 50,
+		"desc": "Complete 100 daily task"
+	},
+	"30704": {
+		"cfgId": 30704,
+		"category": "Journey",
+		"nextTask": 30705,
+		"taskType": 3,
+		"targetType": 9,
+		"targetValue": [
+			[
+				200
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				100
+			]
+		],
+		"point": 100,
+		"desc": "Complete 200 daily task"
+	},
+	"30705": {
+		"cfgId": 30705,
+		"category": "Journey",
+		"nextTask": 30706,
+		"taskType": 3,
+		"targetType": 9,
+		"targetValue": [
+			[
+				300
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				200
+			]
+		],
+		"point": 200,
+		"desc": "Complete 300 daily task"
+	},
+	"30706": {
+		"cfgId": 30706,
+		"category": "Journey",
+		"nextTask": 30707,
+		"taskType": 3,
+		"targetType": 9,
+		"targetValue": [
+			[
+				500
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				300
+			]
+		],
+		"point": 300,
+		"desc": "Complete 500 daily task"
+	},
+	"30707": {
+		"cfgId": 30707,
+		"category": "Journey",
+		"nextTask": 30708,
+		"taskType": 3,
+		"targetType": 9,
+		"targetValue": [
+			[
+				800
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				500
+			]
+		],
+		"point": 500,
+		"desc": "Complete 800 daily task"
+	},
+	"30708": {
+		"cfgId": 30708,
+		"category": "Journey",
+		"nextTask": 30709,
+		"taskType": 3,
+		"targetType": 9,
+		"targetValue": [
+			[
+				1200
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				1000
+			]
+		],
+		"point": 1000,
+		"desc": "Complete 1200 daily task"
+	},
+	"30709": {
+		"cfgId": 30709,
+		"category": "Journey",
+		"nextTask": 30710,
+		"taskType": 3,
+		"targetType": 9,
+		"targetValue": [
+			[
+				1600
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				2000
+			]
+		],
+		"point": 2000,
+		"desc": "Complete 1600 daily task"
+	},
+	"30710": {
+		"cfgId": 30710,
+		"category": "Journey",
+		"nextTask": 0,
+		"taskType": 3,
+		"targetType": 9,
+		"targetValue": [
+			[
+				2000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				5000
+			]
+		],
+		"point": 5000,
+		"desc": "Complete 2000 daily task"
+	},
+	"30801": {
+		"cfgId": 30801,
+		"category": "Journey",
+		"nextTask": 30802,
+		"taskType": 3,
+		"targetType": 13,
+		"targetValue": [
+			[
+				10020
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				10
+			]
+		],
+		"point": 10,
+		"desc": "Beat level 20 "
+	},
+	"30802": {
+		"cfgId": 30802,
+		"category": "Journey",
+		"nextTask": 30803,
+		"taskType": 3,
+		"targetType": 13,
+		"targetValue": [
+			[
+				10050
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				30
+			]
+		],
+		"point": 30,
+		"desc": "Beat level 50 "
+	},
+	"30803": {
+		"cfgId": 30803,
+		"category": "Journey",
+		"nextTask": 30804,
+		"taskType": 3,
+		"targetType": 13,
+		"targetValue": [
+			[
+				10100
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				50
+			]
+		],
+		"point": 50,
+		"desc": "Beat level 100 "
+	},
+	"30804": {
+		"cfgId": 30804,
+		"category": "Journey",
+		"nextTask": 30805,
+		"taskType": 3,
+		"targetType": 13,
+		"targetValue": [
+			[
+				10200
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				100
+			]
+		],
+		"point": 100,
+		"desc": "Beat level 200 "
+	},
+	"30805": {
+		"cfgId": 30805,
+		"category": "Journey",
+		"nextTask": 30806,
+		"taskType": 3,
+		"targetType": 13,
+		"targetValue": [
+			[
+				10300
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				200
+			]
+		],
+		"point": 200,
+		"desc": "Beat level 300 "
+	},
+	"30806": {
+		"cfgId": 30806,
+		"category": "Journey",
+		"nextTask": 30807,
+		"taskType": 3,
+		"targetType": 13,
+		"targetValue": [
+			[
+				10500
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				300
+			]
+		],
+		"point": 300,
+		"desc": "Beat level 500 "
+	},
+	"30807": {
+		"cfgId": 30807,
+		"category": "Journey",
+		"nextTask": 30808,
+		"taskType": 3,
+		"targetType": 13,
+		"targetValue": [
+			[
+				10800
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				500
+			]
+		],
+		"point": 500,
+		"desc": "Beat level 800 "
+	},
+	"30808": {
+		"cfgId": 30808,
+		"category": "Journey",
+		"nextTask": 30809,
+		"taskType": 3,
+		"targetType": 13,
+		"targetValue": [
+			[
+				11200
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				1000
+			]
+		],
+		"point": 1000,
+		"desc": "Beat level 1200 "
+	},
+	"30809": {
+		"cfgId": 30809,
+		"category": "Journey",
+		"nextTask": 30810,
+		"taskType": 3,
+		"targetType": 13,
+		"targetValue": [
+			[
+				11600
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				2000
+			]
+		],
+		"point": 2000,
+		"desc": "Beat level 1600 "
+	},
+	"30810": {
+		"cfgId": 30810,
+		"category": "Journey",
+		"nextTask": 0,
+		"taskType": 3,
+		"targetType": 13,
+		"targetValue": [
+			[
+				12000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				5000
+			]
+		],
+		"point": 5000,
+		"desc": "Beat level 2000 "
+	},
+	"30901": {
+		"cfgId": 30901,
+		"category": "Season",
+		"nextTask": 30902,
+		"taskType": 3,
+		"targetType": 11,
+		"targetValue": [
+			[
+				100
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				10
+			]
+		],
+		"point": 10,
+		"desc": "Pvp Score reach 100 "
+	},
+	"30902": {
+		"cfgId": 30902,
+		"category": "Season",
+		"nextTask": 30903,
+		"taskType": 3,
+		"targetType": 11,
+		"targetValue": [
+			[
+				300
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				30
+			]
+		],
+		"point": 30,
+		"desc": "Pvp Score reach 300 "
+	},
+	"30903": {
+		"cfgId": 30903,
+		"category": "Season",
+		"nextTask": 30904,
+		"taskType": 3,
+		"targetType": 11,
+		"targetValue": [
+			[
+				500
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				50
+			]
+		],
+		"point": 50,
+		"desc": "Pvp Score reach 500 "
+	},
+	"30904": {
+		"cfgId": 30904,
+		"category": "Season",
+		"nextTask": 30905,
+		"taskType": 3,
+		"targetType": 11,
+		"targetValue": [
+			[
+				800
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				100
+			]
+		],
+		"point": 100,
+		"desc": "Pvp Score reach 800 "
+	},
+	"30905": {
+		"cfgId": 30905,
+		"category": "Season",
+		"nextTask": 30906,
+		"taskType": 3,
+		"targetType": 11,
+		"targetValue": [
+			[
+				1200
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				200
+			]
+		],
+		"point": 200,
+		"desc": "Pvp Score reach 1200 "
+	},
+	"30906": {
+		"cfgId": 30906,
+		"category": "Season",
+		"nextTask": 30907,
+		"taskType": 3,
+		"targetType": 11,
+		"targetValue": [
+			[
+				1500
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				300
+			]
+		],
+		"point": 300,
+		"desc": "Pvp Score reach 1500 "
+	},
+	"30907": {
+		"cfgId": 30907,
+		"category": "Season",
+		"nextTask": 30908,
+		"taskType": 3,
+		"targetType": 11,
+		"targetValue": [
+			[
+				2000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				500
+			]
+		],
+		"point": 500,
+		"desc": "Pvp Score reach 2000 "
+	},
+	"30908": {
+		"cfgId": 30908,
+		"category": "Season",
+		"nextTask": 30909,
+		"taskType": 3,
+		"targetType": 11,
+		"targetValue": [
+			[
+				2500
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				1000
+			]
+		],
+		"point": 1000,
+		"desc": "Pvp Score reach 2500 "
+	},
+	"30909": {
+		"cfgId": 30909,
+		"category": "Season",
+		"nextTask": 30910,
+		"taskType": 3,
+		"targetType": 11,
+		"targetValue": [
+			[
+				3000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				2000
+			]
+		],
+		"point": 2000,
+		"desc": "Pvp Score reach 3000 "
+	},
+	"30910": {
+		"cfgId": 30910,
+		"category": "Season",
+		"nextTask": 0,
+		"taskType": 3,
+		"targetType": 11,
+		"targetValue": [
+			[
+				4000
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				5000
+			]
+		],
+		"point": 5000,
+		"desc": "Pvp Score reach 4000 "
+	},
+	"31001": {
+		"cfgId": 31001,
+		"category": "Cost",
+		"nextTask": 31002,
+		"taskType": 3,
+		"targetType": 10,
+		"targetValue": [
+			[
+				10,
+				10003
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				10
+			]
+		],
+		"point": 10,
+		"desc": "Open 10 League box"
+	},
+	"31002": {
+		"cfgId": 31002,
+		"category": "Cost",
+		"nextTask": 31003,
+		"taskType": 3,
+		"targetType": 10,
+		"targetValue": [
+			[
+				20,
+				10003
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				30
+			]
+		],
+		"point": 30,
+		"desc": "Open 20 League box"
+	},
+	"31003": {
+		"cfgId": 31003,
+		"category": "Cost",
+		"nextTask": 31004,
+		"taskType": 3,
+		"targetType": 10,
+		"targetValue": [
+			[
+				50,
+				10003
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				50
+			]
+		],
+		"point": 50,
+		"desc": "Open 50 League box"
+	},
+	"31004": {
+		"cfgId": 31004,
+		"category": "Cost",
+		"nextTask": 31005,
+		"taskType": 3,
+		"targetType": 10,
+		"targetValue": [
+			[
+				100,
+				10003
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				100
+			]
+		],
+		"point": 100,
+		"desc": "Open 100 League box"
+	},
+	"31005": {
+		"cfgId": 31005,
+		"category": "Cost",
+		"nextTask": 31006,
+		"taskType": 3,
+		"targetType": 10,
+		"targetValue": [
+			[
+				200,
+				10003
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				200
+			]
+		],
+		"point": 200,
+		"desc": "Open 200 League box"
+	},
+	"31006": {
+		"cfgId": 31006,
+		"category": "Cost",
+		"nextTask": 31007,
+		"taskType": 3,
+		"targetType": 10,
+		"targetValue": [
+			[
+				400,
+				10003
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				300
+			]
+		],
+		"point": 300,
+		"desc": "Open 400 League box"
+	},
+	"31007": {
+		"cfgId": 31007,
+		"category": "Cost",
+		"nextTask": 31008,
+		"taskType": 3,
+		"targetType": 10,
+		"targetValue": [
+			[
+				1000,
+				10003
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				500
+			]
+		],
+		"point": 500,
+		"desc": "Open 1000 League box"
+	},
+	"31008": {
+		"cfgId": 31008,
+		"category": "Cost",
+		"nextTask": 31009,
+		"taskType": 3,
+		"targetType": 10,
+		"targetValue": [
+			[
+				2000,
+				10003
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				1000
+			]
+		],
+		"point": 1000,
+		"desc": "Open 2000 League box"
+	},
+	"31009": {
+		"cfgId": 31009,
+		"category": "Cost",
+		"nextTask": 31010,
+		"taskType": 3,
+		"targetType": 10,
+		"targetValue": [
+			[
+				4000,
+				10003
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				2000
+			]
+		],
+		"point": 2000,
+		"desc": "Open 4000 League box"
+	},
+	"31010": {
+		"cfgId": 31010,
+		"category": "Cost",
+		"nextTask": 0,
+		"taskType": 3,
+		"targetType": 10,
+		"targetValue": [
+			[
+				5000,
+				10003
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				5000
+			]
+		],
+		"point": 5000,
+		"desc": "Open 5000 League box"
+	},
+	"31101": {
+		"cfgId": 31101,
+		"category": "Journey",
+		"nextTask": 31102,
+		"taskType": 3,
+		"targetType": 1,
+		"targetValue": [
+			[
+				2
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				10
+			]
+		],
+		"point": 10,
+		"desc": "Login game 2 days"
+	},
+	"31102": {
+		"cfgId": 31102,
+		"category": "Journey",
+		"nextTask": 31103,
+		"taskType": 3,
+		"targetType": 1,
+		"targetValue": [
+			[
+				5
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				30
+			]
+		],
+		"point": 30,
+		"desc": "Login game 5 days"
+	},
+	"31103": {
+		"cfgId": 31103,
+		"category": "Journey",
+		"nextTask": 31104,
+		"taskType": 3,
+		"targetType": 1,
+		"targetValue": [
+			[
+				10
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				50
+			]
+		],
+		"point": 50,
+		"desc": "Login game 10 days"
+	},
+	"31104": {
+		"cfgId": 31104,
+		"category": "Journey",
+		"nextTask": 31105,
+		"taskType": 3,
+		"targetType": 1,
+		"targetValue": [
+			[
+				20
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				100
+			]
+		],
+		"point": 100,
+		"desc": "Login game 20 days"
+	},
+	"31105": {
+		"cfgId": 31105,
+		"category": "Journey",
+		"nextTask": 31106,
+		"taskType": 3,
+		"targetType": 1,
+		"targetValue": [
+			[
+				30
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				200
+			]
+		],
+		"point": 200,
+		"desc": "Login game 30 days"
+	},
+	"31106": {
+		"cfgId": 31106,
+		"category": "Journey",
+		"nextTask": 31107,
+		"taskType": 3,
+		"targetType": 1,
+		"targetValue": [
+			[
+				50
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				300
+			]
+		],
+		"point": 300,
+		"desc": "Login game 50 days"
+	},
+	"31107": {
+		"cfgId": 31107,
+		"category": "Journey",
+		"nextTask": 31108,
+		"taskType": 3,
+		"targetType": 1,
+		"targetValue": [
+			[
+				100
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				500
+			]
+		],
+		"point": 500,
+		"desc": "Login game 100 days"
+	},
+	"31108": {
+		"cfgId": 31108,
+		"category": "Journey",
+		"nextTask": 31109,
+		"taskType": 3,
+		"targetType": 1,
+		"targetValue": [
+			[
+				150
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				1000
+			]
+		],
+		"point": 1000,
+		"desc": "Login game 150 days"
+	},
+	"31109": {
+		"cfgId": 31109,
+		"category": "Journey",
+		"nextTask": 31110,
+		"taskType": 3,
+		"targetType": 1,
+		"targetValue": [
+			[
+				200
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				2000
+			]
+		],
+		"point": 2000,
+		"desc": "Login game 200 days"
+	},
+	"31110": {
+		"cfgId": 31110,
+		"category": "Journey",
+		"nextTask": 0,
+		"taskType": 3,
+		"targetType": 1,
+		"targetValue": [
+			[
+				300
+			]
+		],
+		"activation": 0,
+		"isUseable": 1,
+		"isProgress": 1,
+		"rewardItem": [
+			[
+				100002,
+				5000
+			]
+		],
+		"point": 5000,
+		"desc": "Login game 300 days"
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"10100": {
+		"cfgId": 10100,
+		"lifeTime": 5000,
+		"skillEffectCfgIds": [
+			10004000
+		]
+	},
+	"30100": {
+		"cfgId": 30100,
+		"lifeTime": 500000,
+		"skillEffectCfgIds": [
+			30001000
+		]
+	},
+	"2400101": {
+		"cfgId": 2400101,
+		"lifeTime": 3000,
+		"skillEffectCfgIds": [
+			2400101
+		]
+	},
+	"71102010": {
+		"cfgId": 71102010,
+		"lifeTime": 3000,
+		"skillEffectCfgIds": [
+			7110202
+		]
+	},
+	"99999000": {
+		"cfgId": 99999000,
+		"lifeTime": 999999,
+		"skillEffectCfgIds": [
+			99999001
+		]
+	}
+}

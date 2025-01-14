@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HomeAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 75f667bafd8b74f468dcb9a8c446d139, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - b96836a161e566b43b7c46595b8573bb: 21300000
+    - 4eb4b134a642e4b4fb54200e6f087448: 21300000
+    - 64c88b74303e9314c91a3240faaea28c: 21300000
+    - ddc26c7460b740744b46933c0818bf69: 21300000
+    - a1345345814ab7c4ba1445a306e0826b: 21300000
+    - 12ac8ec687cc65b4f825acfea92b4b4e: 21300000
+    - f1253cf7f2e75fc4e81c5feffd504dc2: 21300000
+    - 6f0a49895d06f1e45a845b5451e1b329: 21300000
+    - bc7d3a1a5e5bf6241a2bd627089b1128: 21300000
+    - 07b11a2ac9e5ff440a2afe0778faf21c: 21300000
+    - 65f01d2a988a8464ab65ccfdb49c975f: 21300000
+    - 8fc42cca56e1a8b4faf1b073e197bf5c: 21300000
+    - 3e6fe81b6c3554f4b9209bfa972696d8: 21300000
+    - d149cd1b939624f498b76fa1b3c2a95b: 21300000
+    - e1995abb7e3ac594fbe085296c413b04: 21300000
+    - b22b9cdb8dc30cd49aa3017682afd298: 21300000
+    - 5c6ec64d2f725a449b65ea333ca2bbe1: 21300000
+    - 28355c6def046404688d4da98affedb0: 21300000
+    - 48e6d7ddbf63cc240befc595216041c2: 21300000
+    - c3ec5d1f3bd2d9248ad7bb895ce9d353: 21300000
+    - 7793729fada4f8b4fac3f138f905c902: 21300000
+    - 2841a0cf5f41ec141808de0c14cf903d: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b96836a161e566b43b7c46595b8573bb, type: 3}
+  - {fileID: 21300000, guid: 4eb4b134a642e4b4fb54200e6f087448, type: 3}
+  - {fileID: 21300000, guid: 64c88b74303e9314c91a3240faaea28c, type: 3}
+  - {fileID: 21300000, guid: ddc26c7460b740744b46933c0818bf69, type: 3}
+  - {fileID: 21300000, guid: a1345345814ab7c4ba1445a306e0826b, type: 3}
+  - {fileID: 21300000, guid: 12ac8ec687cc65b4f825acfea92b4b4e, type: 3}
+  - {fileID: 21300000, guid: f1253cf7f2e75fc4e81c5feffd504dc2, type: 3}
+  - {fileID: 21300000, guid: 6f0a49895d06f1e45a845b5451e1b329, type: 3}
+  - {fileID: 21300000, guid: bc7d3a1a5e5bf6241a2bd627089b1128, type: 3}
+  - {fileID: 21300000, guid: 07b11a2ac9e5ff440a2afe0778faf21c, type: 3}
+  - {fileID: 21300000, guid: 65f01d2a988a8464ab65ccfdb49c975f, type: 3}
+  - {fileID: 21300000, guid: 8fc42cca56e1a8b4faf1b073e197bf5c, type: 3}
+  - {fileID: 21300000, guid: 3e6fe81b6c3554f4b9209bfa972696d8, type: 3}
+  - {fileID: 21300000, guid: d149cd1b939624f498b76fa1b3c2a95b, type: 3}
+  - {fileID: 21300000, guid: e1995abb7e3ac594fbe085296c413b04, type: 3}
+  - {fileID: 21300000, guid: b22b9cdb8dc30cd49aa3017682afd298, type: 3}
+  - {fileID: 21300000, guid: 5c6ec64d2f725a449b65ea333ca2bbe1, type: 3}
+  - {fileID: 21300000, guid: 28355c6def046404688d4da98affedb0, type: 3}
+  - {fileID: 21300000, guid: 48e6d7ddbf63cc240befc595216041c2, type: 3}
+  - {fileID: 21300000, guid: c3ec5d1f3bd2d9248ad7bb895ce9d353, type: 3}
+  - {fileID: 21300000, guid: 7793729fada4f8b4fac3f138f905c902, type: 3}
+  - {fileID: 21300000, guid: 2841a0cf5f41ec141808de0c14cf903d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ui_rewardr_entrance_a.00016
+  - Ui_prower_entrance_a.00010
+  - Ui_rewardr_entrance_a.00015
+  - Ui_prower_entrance_a.00013
+  - Ui_prower_entrance_a.00003
+  - Ui_rewardr_entrance_a.00006
+  - Ui_rewardr_entrance_a.00017
+  - Ui_prower_entrance_a.00000
+  - Ui_prower_entrance_a.00009
+  - Ui_prower_entrance_a.00007
+  - Ui_prower_entrance_a.00012
+  - Ui_prower_entrance_a.00002
+  - Ui_prower_entrance_a.00005
+  - Ui_rewardr_entrance_a.00001
+  - Ui_rewardr_entrance_a.00000
+  - Ui_rewardr_entrance_a.00002
+  - Ui_rewardr_entrance_a.00008
+  - Ui_prower_entrance_a.00014
+  - Ui_rewardr_entrance_a.00004
+  - Ui_rewardr_entrance_a.00013
+  - Ui_rewardr_entrance_a.00010
+  - Ui_prower_entrance_a.00001
+  m_RenderDataMap: {}
+  m_Tag: HomeAtlas
+  m_IsVariant: 0

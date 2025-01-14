@@ -1,0 +1,102 @@
+{
+	"1": {
+		"rewardType": 1,
+		"needActivePoint": 20,
+		"reward": [
+			[
+				100001,
+				2000
+			]
+		]
+	},
+	"2": {
+		"rewardType": 1,
+		"needActivePoint": 40,
+		"reward": [
+			[
+				100002,
+				30
+			]
+		]
+	},
+	"3": {
+		"rewardType": 1,
+		"needActivePoint": 60,
+		"reward": [
+			[
+				100001,
+				3000
+			]
+		]
+	},
+	"4": {
+		"rewardType": 1,
+		"needActivePoint": 80,
+		"reward": [
+			[
+				100002,
+				70
+			]
+		]
+	},
+	"5": {
+		"rewardType": 1,
+		"needActivePoint": 100,
+		"reward": [
+			[
+				300002,
+				1
+			]
+		]
+	},
+	"6": {
+		"rewardType": 2,
+		"needActivePoint": 20,
+		"reward": [
+			[
+				100001,
+				10000
+			]
+		]
+	},
+	"7": {
+		"rewardType": 2,
+		"needActivePoint": 40,
+		"reward": [
+			[
+				100001,
+				20000
+			]
+		]
+	},
+	"8": {
+		"rewardType": 2,
+		"needActivePoint": 60,
+		"reward": [
+			[
+				100002,
+				250
+			]
+		]
+	},
+	"9": {
+		"rewardType": 2,
+		"needActivePoint": 80,
+		"reward": [
+			[
+				300003,
+				1
+			]
+		]
+	},
+	"10": {
+		"rewardType": 2,
+		"needActivePoint": 100,
+		"reward": [
+			[
+				100002,
+				500
+			]
+		]
+	}
+}

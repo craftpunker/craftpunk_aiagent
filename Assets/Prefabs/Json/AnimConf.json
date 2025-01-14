@@ -1,0 +1,2298 @@
+{
+	"0": {
+		"cfgId": 0,
+		"idleAnims": [
+			99,
+			99
+		],
+		"idleSpeed": 1000,
+		"idleTime": 0,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": 0,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": 0,
+		"prefabSize": [
+			0.8,
+			0.8,
+			0.8
+		],
+		"prefab": "GPUEffect_Skill_2",
+		"time": 0,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30002": {
+		"cfgId": 30002,
+		"idleAnims": [
+			37,
+			37
+		],
+		"idleSpeed": 1000,
+		"idleTime": 500,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": 500,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": 500,
+		"prefabSize": [
+			1.7,
+			1.7,
+			1
+		],
+		"prefab": "GJ_01",
+		"time": 500,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30003": {
+		"cfgId": 30003,
+		"idleAnims": [
+			70,
+			79
+		],
+		"idleSpeed": 1300,
+		"idleTime": 0,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": 0,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": 0,
+		"prefabSize": [
+			3,
+			3,
+			3
+		],
+		"prefab": "GPUEffect_Skill_1",
+		"time": 0,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30004": {
+		"cfgId": 30004,
+		"idleAnims": [
+			30,
+			39
+		],
+		"idleSpeed": 700,
+		"idleTime": 0,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": 0,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": 0,
+		"prefabSize": [
+			1.2,
+			1.2,
+			1.2
+		],
+		"prefab": "GPUEffect_Skill_1",
+		"time": 0,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30005": {
+		"cfgId": 30005,
+		"idleAnims": [
+			60,
+			69
+		],
+		"idleSpeed": 1800,
+		"idleTime": 0,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": 0,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": 0,
+		"prefabSize": [
+			2,
+			2,
+			2
+		],
+		"prefab": "GPUEffect_Skill_1",
+		"time": 0,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30006": {
+		"cfgId": 30006,
+		"idleAnims": [
+			31,
+			31
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": -1000,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": -1000,
+		"prefabSize": [
+			2,
+			2,
+			2
+		],
+		"prefab": "GPUEffect_Skill_2",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30007": {
+		"cfgId": 30007,
+		"idleAnims": [
+			32,
+			32
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": -1000,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": -1000,
+		"prefabSize": [
+			2,
+			2,
+			2
+		],
+		"prefab": "GPUEffect_Skill_2",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30008": {
+		"cfgId": 30008,
+		"idleAnims": [
+			10,
+			19
+		],
+		"idleSpeed": 1000,
+		"idleTime": 0,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": 0,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": 0,
+		"prefabSize": [
+			3.5,
+			3.5,
+			3.5
+		],
+		"prefab": "GPUEffect_Skill_1",
+		"time": 0,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30009": {
+		"cfgId": 30009,
+		"idleAnims": [
+			0,
+			9
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": -1000,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": -1000,
+		"prefabSize": [
+			2,
+			2,
+			2
+		],
+		"prefab": "GPUEffect_Skill_1",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30010": {
+		"cfgId": 30010,
+		"idleAnims": [
+			20,
+			29
+		],
+		"idleSpeed": 1000,
+		"idleTime": 2000,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": 2000,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": 2000,
+		"prefabSize": [
+			2,
+			2,
+			2
+		],
+		"prefab": "GPUEffect_Skill_1",
+		"time": 2000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30011": {
+		"cfgId": 30011,
+		"idleAnims": [
+			30,
+			39
+		],
+		"idleSpeed": 1000,
+		"idleTime": 1000,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": 1000,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": 1000,
+		"prefabSize": [
+			2,
+			2,
+			2
+		],
+		"prefab": "GPUEffect_Skill_1",
+		"time": 1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30012": {
+		"cfgId": 30012,
+		"idleAnims": [
+			40,
+			49
+		],
+		"idleSpeed": 2000,
+		"idleTime": -1000,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": 1000,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": 1000,
+		"prefabSize": [
+			3,
+			3,
+			3
+		],
+		"prefab": "GPUEffect_Skill_1",
+		"time": 1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30013": {
+		"cfgId": 30013,
+		"idleAnims": [
+			50,
+			59
+		],
+		"idleSpeed": 2000,
+		"idleTime": 0,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": 0,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": 0,
+		"prefabSize": [
+			3,
+			3,
+			3
+		],
+		"prefab": "GPUEffect_Skill_1",
+		"time": 0,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30014": {
+		"cfgId": 30014,
+		"idleAnims": [
+			32,
+			32
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": -1000,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": -1000,
+		"prefabSize": [
+			2,
+			2,
+			2
+		],
+		"prefab": "GPUEffect_Skill_2",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30020": {
+		"cfgId": 30020,
+		"idleAnims": [
+			37,
+			37
+		],
+		"idleSpeed": 1000,
+		"idleTime": 500,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": 500,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": 500,
+		"prefabSize": [
+			2.2,
+			2.2,
+			2.2
+		],
+		"prefab": "GJ_01",
+		"time": 500,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30021": {
+		"cfgId": 30021,
+		"idleAnims": [
+			32,
+			32
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": -1000,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": -1000,
+		"prefabSize": [
+			3.4,
+			3.4,
+			3.4
+		],
+		"prefab": "GPUEffect_Skill_2",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30022": {
+		"cfgId": 30022,
+		"idleAnims": [
+			32,
+			32
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": -1000,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": -1000,
+		"prefabSize": [
+			2,
+			2,
+			2
+		],
+		"prefab": "GPUEffect_Skill_2",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30023": {
+		"cfgId": 30023,
+		"idleAnims": [
+			30,
+			30
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": -1000,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": -1000,
+		"prefabSize": [
+			2,
+			2,
+			2
+		],
+		"prefab": "GPUEffect_Skill_2",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30024": {
+		"cfgId": 30024,
+		"idleAnims": [
+			90,
+			99
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": -1000,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": -1000,
+		"prefabSize": [
+			4,
+			4,
+			4
+		],
+		"prefab": "GPUEffect_Skill_1",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30025": {
+		"cfgId": 30025,
+		"idleAnims": [
+			40,
+			50
+		],
+		"idleSpeed": 700,
+		"idleTime": -1000,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": -1000,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": -1000,
+		"prefabSize": [
+			252,
+			252,
+			1
+		],
+		"prefab": "GPUUIEffect_1",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30026": {
+		"cfgId": 30026,
+		"idleAnims": [
+			80,
+			89
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": -1000,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": -1000,
+		"prefabSize": [
+			1,
+			1,
+			1
+		],
+		"prefab": "GPUEffect_Skill_1",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30027": {
+		"cfgId": 30027,
+		"idleAnims": [
+			37,
+			37
+		],
+		"idleSpeed": 1000,
+		"idleTime": 500,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": 500,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": 500,
+		"prefabSize": [
+			1,
+			1,
+			1
+		],
+		"prefab": "biaoqiang",
+		"time": 500,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"30028": {
+		"cfgId": 30028,
+		"idleAnims": [
+			37,
+			37
+		],
+		"idleSpeed": 1000,
+		"idleTime": 500,
+		"moveAnims": [],
+		"moveSpeed": 0,
+		"moveTime": 500,
+		"atkAnims": [],
+		"atkSpeed": 0,
+		"atkTime": 500,
+		"prefabSize": [
+			1,
+			1,
+			1
+		],
+		"prefab": "GPUEntity_a",
+		"time": 500,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		]
+	},
+	"40001": {
+		"cfgId": 40001,
+		"idleAnims": [
+			20,
+			29
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			29,
+			29
+		],
+		"moveSpeed": 1000,
+		"moveTime": 2000,
+		"atkAnims": [
+			29,
+			29
+		],
+		"atkSpeed": 1000,
+		"atkTime": 2000,
+		"prefabSize": [
+			1,
+			1,
+			1
+		],
+		"prefab": "GPUUIEffect_2",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				3,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.333,
+				0.1
+			]
+		]
+	},
+	"40002": {
+		"cfgId": 40002,
+		"idleAnims": [
+			0,
+			9
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			9,
+			9
+		],
+		"moveSpeed": 1000,
+		"moveTime": 2000,
+		"atkAnims": [
+			9,
+			9
+		],
+		"atkSpeed": 1000,
+		"atkTime": 2000,
+		"prefabSize": [
+			1,
+			1,
+			1
+		],
+		"prefab": "GPUUIEffect_2",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				3,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.333,
+				0.1
+			]
+		]
+	},
+	"40003": {
+		"cfgId": 40003,
+		"idleAnims": [
+			10,
+			19
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			19,
+			19
+		],
+		"moveSpeed": 1000,
+		"moveTime": 2000,
+		"atkAnims": [
+			19,
+			19
+		],
+		"atkSpeed": 1000,
+		"atkTime": 2000,
+		"prefabSize": [
+			1,
+			1,
+			1
+		],
+		"prefab": "GPUUIEffect_2",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				3,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.333,
+				0.1
+			]
+		]
+	},
+	"100010": {
+		"cfgId": 100010,
+		"idleAnims": [
+			95,
+			95
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			90,
+			94
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			95,
+			99
+		],
+		"atkSpeed": 1300,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100020": {
+		"cfgId": 100020,
+		"idleAnims": [
+			15,
+			15
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			10,
+			14
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			15,
+			19
+		],
+		"atkSpeed": 800,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100030": {
+		"cfgId": 100030,
+		"idleAnims": [
+			25,
+			25
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			20,
+			24
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			25,
+			29
+		],
+		"atkSpeed": 580,
+		"atkTime": 0,
+		"prefabSize": [
+			4.2,
+			4.2,
+			4.2
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100040": {
+		"cfgId": 100040,
+		"idleAnims": [
+			45,
+			45
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			40,
+			44
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			45,
+			49
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100050": {
+		"cfgId": 100050,
+		"idleAnims": [
+			75,
+			75
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			70,
+			74
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			75,
+			79
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100060": {
+		"cfgId": 100060,
+		"idleAnims": [
+			85,
+			85
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			80,
+			84
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			85,
+			89
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100070": {
+		"cfgId": 100070,
+		"idleAnims": [
+			35,
+			35
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			30,
+			34
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			35,
+			39
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100080": {
+		"cfgId": 100080,
+		"idleAnims": [
+			55,
+			55
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			50,
+			54
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			55,
+			59
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100090": {
+		"cfgId": 100090,
+		"idleAnims": [
+			55,
+			55
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			50,
+			54
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			55,
+			59
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100100": {
+		"cfgId": 100100,
+		"idleAnims": [
+			45,
+			45
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			40,
+			44
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			45,
+			49
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100110": {
+		"cfgId": 100110,
+		"idleAnims": [
+			5,
+			5
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			0,
+			4
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			5,
+			9
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100120": {
+		"cfgId": 100120,
+		"idleAnims": [
+			65,
+			65
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			60,
+			64
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			65,
+			69
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100130": {
+		"cfgId": 100130,
+		"idleAnims": [
+			24,
+			24
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			20,
+			24
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			25,
+			29
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.8,
+			2.8,
+			2.8
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100140": {
+		"cfgId": 100140,
+		"idleAnims": [
+			15,
+			15
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			10,
+			14
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			15,
+			19
+		],
+		"atkSpeed": 1300,
+		"atkTime": 0,
+		"prefabSize": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100150": {
+		"cfgId": 100150,
+		"idleAnims": [
+			35,
+			35
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			30,
+			34
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			35,
+			39
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"100160": {
+		"cfgId": 100160,
+		"idleAnims": [
+			75,
+			75
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			70,
+			74
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			75,
+			79
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"200010": {
+		"cfgId": 200010,
+		"idleAnims": [
+			4,
+			4
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			0,
+			4
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			5,
+			9
+		],
+		"atkSpeed": 800,
+		"atkTime": 0,
+		"prefabSize": [
+			3.36,
+			3.36,
+			3.36
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"800010": {
+		"cfgId": 800010,
+		"idleAnims": [
+			4,
+			4
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			0,
+			4
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			5,
+			9
+		],
+		"atkSpeed": 800,
+		"atkTime": 0,
+		"prefabSize": [
+			3.36,
+			3.36,
+			3.36
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900010": {
+		"cfgId": 900010,
+		"idleAnims": [
+			95,
+			95
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			90,
+			94
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			95,
+			99
+		],
+		"atkSpeed": 1300,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900020": {
+		"cfgId": 900020,
+		"idleAnims": [
+			15,
+			15
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			10,
+			14
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			15,
+			19
+		],
+		"atkSpeed": 800,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900030": {
+		"cfgId": 900030,
+		"idleAnims": [
+			25,
+			25
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			20,
+			24
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			25,
+			29
+		],
+		"atkSpeed": 580,
+		"atkTime": 0,
+		"prefabSize": [
+			4.2,
+			4.2,
+			4.2
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900040": {
+		"cfgId": 900040,
+		"idleAnims": [
+			45,
+			45
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			40,
+			44
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			45,
+			49
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900050": {
+		"cfgId": 900050,
+		"idleAnims": [
+			75,
+			75
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			70,
+			74
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			75,
+			79
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900060": {
+		"cfgId": 900060,
+		"idleAnims": [
+			85,
+			85
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			80,
+			84
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			85,
+			89
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900070": {
+		"cfgId": 900070,
+		"idleAnims": [
+			35,
+			35
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			30,
+			34
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			35,
+			39
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900080": {
+		"cfgId": 900080,
+		"idleAnims": [
+			55,
+			55
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			50,
+			54
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			55,
+			59
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900090": {
+		"cfgId": 900090,
+		"idleAnims": [
+			55,
+			55
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			50,
+			54
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			55,
+			59
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900100": {
+		"cfgId": 900100,
+		"idleAnims": [
+			45,
+			45
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			40,
+			44
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			45,
+			49
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900110": {
+		"cfgId": 900110,
+		"idleAnims": [
+			5,
+			5
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			0,
+			4
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			5,
+			9
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900120": {
+		"cfgId": 900120,
+		"idleAnims": [
+			65,
+			65
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			60,
+			64
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			65,
+			69
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900130": {
+		"cfgId": 900130,
+		"idleAnims": [
+			24,
+			24
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			20,
+			24
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			25,
+			29
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.8,
+			2.8,
+			2.8
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900140": {
+		"cfgId": 900140,
+		"idleAnims": [
+			15,
+			15
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			10,
+			14
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			15,
+			19
+		],
+		"atkSpeed": 1300,
+		"atkTime": 0,
+		"prefabSize": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900150": {
+		"cfgId": 900150,
+		"idleAnims": [
+			35,
+			35
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			30,
+			34
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			35,
+			39
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity_a",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	},
+	"900160": {
+		"cfgId": 900160,
+		"idleAnims": [
+			75,
+			75
+		],
+		"idleSpeed": 1000,
+		"idleTime": -1000,
+		"moveAnims": [
+			70,
+			74
+		],
+		"moveSpeed": 1000,
+		"moveTime": -1000,
+		"atkAnims": [
+			75,
+			79
+		],
+		"atkSpeed": 1000,
+		"atkTime": 0,
+		"prefabSize": [
+			2.16,
+			2.16,
+			2.16
+		],
+		"prefab": "GPUEntity",
+		"time": -1000,
+		"frameRowCol": [
+			[
+				10,
+				10
+			]
+		],
+		"rowColCountdown": [
+			[
+				0.1,
+				0.1
+			]
+		],
+		"shadowOffset": 0
+	}
+}

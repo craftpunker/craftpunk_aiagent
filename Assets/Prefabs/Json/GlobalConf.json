@@ -1,0 +1,174 @@
+{
+	"GPUAnim": {
+		"intValue": 0,
+		"stringValue": "8,10",
+		"anyValue": [
+			8,
+			10
+		]
+	},
+	"GPUEffectAnim": {
+		"intValue": 0,
+		"stringValue": "4,5",
+		"anyValue": [
+			4,
+			5
+		]
+	},
+	"initTroops": {
+		"intValue": 0,
+		"stringValue": "",
+		"anyValue": [
+			[
+				10002,
+				1,
+				8
+			],
+			[
+				10001,
+				1,
+				20
+			],
+			[
+				10001,
+				1,
+				10
+			],
+			[
+				10002,
+				1,
+				18
+			]
+		]
+	},
+	"initItems": {
+		"intValue": 0,
+		"stringValue": "",
+		"anyValue": [
+			[
+				100001,
+				10000
+			]
+		]
+	},
+	"costInit": {
+		"intValue": 0
+	},
+	"costMax": {
+		"intValue": 10000
+	},
+	"costRecover": {
+		"intValue": 1000
+	},
+	"skillCircle": {
+		"intValue": 30007
+	},
+	"gridPerRow": {
+		"intValue": 5
+	},
+	"gridY": {
+		"intValue": 0,
+		"stringValue": "",
+		"anyValue": [
+			[
+				3400
+			],
+			[
+				40
+			],
+			[
+				-3320
+			],
+			[
+				-6680
+			],
+			[
+				-10040
+			]
+		]
+	},
+	"shopCost": {
+		"intValue": 0,
+		"stringValue": "",
+		"anyValue": [
+			[
+				0,
+				0
+			],
+			[
+				100001,
+				100
+			],
+			[
+				100001,
+				100
+			],
+			[
+				100001,
+				100
+			],
+			[
+				100001,
+				100
+			],
+			[
+				100001,
+				100
+			],
+			[
+				100001,
+				100
+			],
+			[
+				100001,
+				100
+			],
+			[
+				100001,
+				100
+			],
+			[
+				100001,
+				100
+			],
+			[
+				100001,
+				100
+			],
+			[
+				100001,
+				100
+			],
+			[
+				100001,
+				100
+			]
+		]
+	},
+	"shopRef": {
+		"intValue": 20
+	},
+	"pvpMax": {
+		"intValue": 20
+	},
+	"pvpRef": {
+		"intValue": 60,
+		"stringValue": "",
+		"anyValue": []
+	},
+	"showSkillPanelLevel": {
+		"intValue": 10002,
+		"stringValue": "",
+		"anyValue": []
+	},
+	"showGiveUpLevel": {
+		"intValue": 10003,
+		"stringValue": "",
+		"anyValue": []
+	},
+	"pvpNeedLevel": {
+		"intValue": 10010,
+		"stringValue": "",
+		"anyValue": []
+	}
+}

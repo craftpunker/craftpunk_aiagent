@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Web3IconAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: dc53445fe37ee4f49a6b256588ecd88c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - a6740ce19e3858d41a9588fd36533b77: 21300000
+    - d2307bd5ddd493b409b1f7022fb59768: 21300000
+    - b5490076323f36b45bbcf28f4e39a053: 21300000
+    - 8b5a16e8de50340458eca61e8297be66: 21300000
+    - 715149a9e9eab9045935f95f3b3de56e: 21300000
+    - 13a058ead5f489d4ab531e43420a910e: 21300000
+    - 8c5bf13ffde2dfd45bb8cb1e89653aed: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a6740ce19e3858d41a9588fd36533b77, type: 3}
+  - {fileID: 21300000, guid: d2307bd5ddd493b409b1f7022fb59768, type: 3}
+  - {fileID: 21300000, guid: b5490076323f36b45bbcf28f4e39a053, type: 3}
+  - {fileID: 21300000, guid: 8b5a16e8de50340458eca61e8297be66, type: 3}
+  - {fileID: 21300000, guid: 715149a9e9eab9045935f95f3b3de56e, type: 3}
+  - {fileID: 21300000, guid: 13a058ead5f489d4ab531e43420a910e, type: 3}
+  - {fileID: 21300000, guid: 8c5bf13ffde2dfd45bb8cb1e89653aed, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BNB_Smart_Chain
+  - Polygon_POS
+  - Ethereum
+  - Arbitrum_One
+  - Scroll
+  - Starknet
+  - Base
+  m_RenderDataMap: {}
+  m_Tag: Web3IconAtlas
+  m_IsVariant: 0

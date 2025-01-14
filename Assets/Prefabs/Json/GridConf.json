@@ -1,0 +1,177 @@
+{
+	"1": {
+		"center": [
+			-13700,
+			3400
+		],
+		"unlockLevel": 10050
+	},
+	"2": {
+		"center": [
+			-11420,
+			3400
+		],
+		"unlockLevel": 10040
+	},
+	"3": {
+		"center": [
+			-9140,
+			3400
+		],
+		"unlockLevel": 10040
+	},
+	"4": {
+		"center": [
+			-6860,
+			3400
+		],
+		"unlockLevel": 10020
+	},
+	"5": {
+		"center": [
+			-4580,
+			3400
+		],
+		"unlockLevel": 10020
+	},
+	"6": {
+		"center": [
+			-13700,
+			40
+		],
+		"unlockLevel": 10050
+	},
+	"7": {
+		"center": [
+			-11420,
+			40
+		],
+		"unlockLevel": 10030
+	},
+	"8": {
+		"center": [
+			-9140,
+			40
+		],
+		"unlockLevel": 0
+	},
+	"9": {
+		"center": [
+			-6860,
+			40
+		],
+		"unlockLevel": 0
+	},
+	"10": {
+		"center": [
+			-4580,
+			40
+		],
+		"unlockLevel": 0
+	},
+	"11": {
+		"center": [
+			-13700,
+			-3320
+		],
+		"unlockLevel": 10050
+	},
+	"12": {
+		"center": [
+			-11420,
+			-3320
+		],
+		"unlockLevel": 10030
+	},
+	"13": {
+		"center": [
+			-9140,
+			-3320
+		],
+		"unlockLevel": 0
+	},
+	"14": {
+		"center": [
+			-6860,
+			-3320
+		],
+		"unlockLevel": 0
+	},
+	"15": {
+		"center": [
+			-4580,
+			-3320
+		],
+		"unlockLevel": 0
+	},
+	"16": {
+		"center": [
+			-13700,
+			-6680
+		],
+		"unlockLevel": 10050
+	},
+	"17": {
+		"center": [
+			-11420,
+			-6680
+		],
+		"unlockLevel": 10030
+	},
+	"18": {
+		"center": [
+			-9140,
+			-6680
+		],
+		"unlockLevel": 0
+	},
+	"19": {
+		"center": [
+			-6860,
+			-6680
+		],
+		"unlockLevel": 0
+	},
+	"20": {
+		"center": [
+			-4580,
+			-6680
+		],
+		"unlockLevel": 0
+	},
+	"21": {
+		"center": [
+			-13700,
+			-10040
+		],
+		"unlockLevel": 10050
+	},
+	"22": {
+		"center": [
+			-11420,
+			-10040
+		],
+		"unlockLevel": 10040
+	},
+	"23": {
+		"center": [
+			-9140,
+			-10040
+		],
+		"unlockLevel": 10040
+	},
+	"24": {
+		"center": [
+			-6860,
+			-10040
+		],
+		"unlockLevel": 10020
+	},
+	"25": {
+		"center": [
+			-4580,
+			-10040
+		],
+		"unlockLevel": 10020
+	}
+}

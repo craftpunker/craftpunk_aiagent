@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BattleAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e2525f05617468744be4c76faefa22f1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - fd484c50fdfb22648bb86190d2c63bd7: 21300000
+    - ad5b5733b46ab444a976ad70bfc820d0: 21300000
+    - b2ea0e43e2886b2439542cf8ea7c1019: 21300000
+    - 709ce765457e3bb44a873cb7b2910d81: 21300000
+    - 734c48b68cffeda478c1c6452f3222e1: 21300000
+    - ac68cd175dec41541a67c27023b96d95: 21300000
+    - 51554a478fd43694d955a865c5683fbc: 21300000
+    - 7e2a54976e158aa4bb7cd1acbbe48670: 21300000
+    - 60facb085eb5539449464824b7f48fc7: 21300000
+    - 96d96f182d61c5e4dae254ea6345495b: 21300000
+    - 02a3e7290651d2c4fb3239b740da6eba: 21300000
+    - 79e4beca0305bdf47acc085c48c2607e: 21300000
+    - 2ed66c2c00c1e3b4abbf06558cc5a614: 21300000
+    - 2f538f7c1f191ca42865a7c80c1172c1: 21300000
+    - cd96a60def7945945b0ca11cd20b4c05: 21300000
+    - 2c5e353d5984b6f41816dbc59dabc5ea: 21300000
+    - ad9cb74e0ae2d1d419cf0f9f31066070: 21300000
+    - 10f7166e92ff36a42b0c52759aa09b74: 21300000
+    - 9dd08b6ed129c6449bf92aeba191632e: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fd484c50fdfb22648bb86190d2c63bd7, type: 3}
+  - {fileID: 21300000, guid: ad5b5733b46ab444a976ad70bfc820d0, type: 3}
+  - {fileID: 21300000, guid: b2ea0e43e2886b2439542cf8ea7c1019, type: 3}
+  - {fileID: 21300000, guid: 709ce765457e3bb44a873cb7b2910d81, type: 3}
+  - {fileID: 21300000, guid: 734c48b68cffeda478c1c6452f3222e1, type: 3}
+  - {fileID: 21300000, guid: ac68cd175dec41541a67c27023b96d95, type: 3}
+  - {fileID: 21300000, guid: 51554a478fd43694d955a865c5683fbc, type: 3}
+  - {fileID: 21300000, guid: 7e2a54976e158aa4bb7cd1acbbe48670, type: 3}
+  - {fileID: 21300000, guid: 60facb085eb5539449464824b7f48fc7, type: 3}
+  - {fileID: 21300000, guid: 96d96f182d61c5e4dae254ea6345495b, type: 3}
+  - {fileID: 21300000, guid: 02a3e7290651d2c4fb3239b740da6eba, type: 3}
+  - {fileID: 21300000, guid: 79e4beca0305bdf47acc085c48c2607e, type: 3}
+  - {fileID: 21300000, guid: 2ed66c2c00c1e3b4abbf06558cc5a614, type: 3}
+  - {fileID: 21300000, guid: 2f538f7c1f191ca42865a7c80c1172c1, type: 3}
+  - {fileID: 21300000, guid: cd96a60def7945945b0ca11cd20b4c05, type: 3}
+  - {fileID: 21300000, guid: 2c5e353d5984b6f41816dbc59dabc5ea, type: 3}
+  - {fileID: 21300000, guid: ad9cb74e0ae2d1d419cf0f9f31066070, type: 3}
+  - {fileID: 21300000, guid: 10f7166e92ff36a42b0c52759aa09b74, type: 3}
+  - {fileID: 21300000, guid: 9dd08b6ed129c6449bf92aeba191632e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui_battle_loading_icon
+  - ui_Treasure chest_bg_a
+  - ui_battle_button_icon
+  - ui_point_fire
+  - Ui_loaind
+  - ui_Battle button_a
+  - ui_Treasure chest_bg_b
+  - ui_point_fire_bg
+  - ui_battle_set up_icon
+  - Ui_select_a
+  - loading
+  - ui_settlement_trophy_a
+  - settlement_speaker.00000
+  - ui_settlement_defeat
+  - ui_settlement_light_a
+  - ui_point_a
+  - ui_battle_surrender_icon
+  - ui_battle_ka_bg
+  - ui_settlement_bg
+  m_RenderDataMap: {}
+  m_Tag: BattleAtlas
+  m_IsVariant: 0

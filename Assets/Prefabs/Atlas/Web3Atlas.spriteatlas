@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Web3Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 703b8c9a9c8285f44a47db63a76ba1dc, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - b85b8660e86d49c40bcc13cdc609e8d5: 21300000
+    - cd287333cf7d46048a0e11cea496c0ab: 21300000
+    - 591c03a3fe55cac4392437118a758123: 21300000
+    - 7f72559676ba68a4b963664e791f2be7: 21300000
+    - fbb75337685dd974cb4ac33fc7e599af: 21300000
+    - f2aa89192c80b9d4cbc96cf250df8f1d: 21300000
+    - 39ac2d1f65e0b40499765b0612571054: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b85b8660e86d49c40bcc13cdc609e8d5, type: 3}
+  - {fileID: 21300000, guid: cd287333cf7d46048a0e11cea496c0ab, type: 3}
+  - {fileID: 21300000, guid: 591c03a3fe55cac4392437118a758123, type: 3}
+  - {fileID: 21300000, guid: 7f72559676ba68a4b963664e791f2be7, type: 3}
+  - {fileID: 21300000, guid: fbb75337685dd974cb4ac33fc7e599af, type: 3}
+  - {fileID: 21300000, guid: f2aa89192c80b9d4cbc96cf250df8f1d, type: 3}
+  - {fileID: 21300000, guid: 39ac2d1f65e0b40499765b0612571054, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ui_button_copy
+  - Ui_web_open
+  - Ui_web_down
+  - Ui_web_un
+  - Ui_web_close
+  - Ui_button_a
+  - Ui_web_in
+  m_RenderDataMap: {}
+  m_Tag: Web3Atlas
+  m_IsVariant: 0

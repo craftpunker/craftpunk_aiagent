@@ -1,0 +1,2020 @@
+{
+	"7000100": {
+		"cfgId": 70001,
+		"level": 0,
+		"getWay": [
+			1,
+			1
+		],
+		"levelUpNeedItem": [],
+		"desc": "240",
+		"icon": "icon_71101",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000101": {
+		"cfgId": 70001,
+		"level": 1,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				101
+			]
+		],
+		"desc": " 240 > <color=0CFB13>288</color> ",
+		"icon": "icon_71102",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000102": {
+		"cfgId": 70001,
+		"level": 2,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				102
+			]
+		],
+		"desc": " 288 > <color=0CFB13>336</color> ",
+		"icon": "icon_71103",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000103": {
+		"cfgId": 70001,
+		"level": 3,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				103
+			]
+		],
+		"desc": " 336 > <color=0CFB13>384</color> ",
+		"icon": "icon_71104",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000104": {
+		"cfgId": 70001,
+		"level": 4,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				104
+			]
+		],
+		"desc": " 384 > <color=0CFB13>432</color> ",
+		"icon": "icon_71105",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000105": {
+		"cfgId": 70001,
+		"level": 5,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				105
+			]
+		],
+		"desc": " 432 > <color=0CFB13>480</color> ",
+		"icon": "icon_71106",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000106": {
+		"cfgId": 70001,
+		"level": 6,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				106
+			]
+		],
+		"desc": " 480 > <color=0CFB13>528</color> ",
+		"icon": "icon_71107",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000107": {
+		"cfgId": 70001,
+		"level": 7,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				107
+			]
+		],
+		"desc": " 528 > <color=0CFB13>576</color> ",
+		"icon": "icon_71108",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000108": {
+		"cfgId": 70001,
+		"level": 8,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				108
+			]
+		],
+		"desc": " 576 > <color=0CFB13>624</color> ",
+		"icon": "icon_71109",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000109": {
+		"cfgId": 70001,
+		"level": 9,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				109
+			]
+		],
+		"desc": " 624 > <color=0CFB13>672</color> ",
+		"icon": "icon_71110",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000110": {
+		"cfgId": 70001,
+		"level": 10,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				110
+			]
+		],
+		"desc": " 672 > <color=0CFB13>720</color> ",
+		"icon": "icon_71111",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000111": {
+		"cfgId": 70001,
+		"level": 11,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				111
+			]
+		],
+		"desc": " 720 > <color=0CFB13>768</color> ",
+		"icon": "icon_71112",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000112": {
+		"cfgId": 70001,
+		"level": 12,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				112
+			]
+		],
+		"desc": " 768 > <color=0CFB13>816</color> ",
+		"icon": "icon_71113",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000113": {
+		"cfgId": 70001,
+		"level": 13,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				113
+			]
+		],
+		"desc": " 816 > <color=0CFB13>864</color> ",
+		"icon": "icon_71114",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000114": {
+		"cfgId": 70001,
+		"level": 14,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				114
+			]
+		],
+		"desc": " 864 > <color=0CFB13>912</color> ",
+		"icon": "icon_71115",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000115": {
+		"cfgId": 70001,
+		"level": 15,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				115
+			]
+		],
+		"desc": " 912 > <color=0CFB13>960</color> ",
+		"icon": "icon_71116",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000116": {
+		"cfgId": 70001,
+		"level": 16,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				116
+			]
+		],
+		"desc": " 960 > <color=0CFB13>1008</color> ",
+		"icon": "icon_71117",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000117": {
+		"cfgId": 70001,
+		"level": 17,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				117
+			]
+		],
+		"desc": " 1008 > <color=0CFB13>1056</color> ",
+		"icon": "icon_71118",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000118": {
+		"cfgId": 70001,
+		"level": 18,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				118
+			]
+		],
+		"desc": " 1056 > <color=0CFB13>1104</color> ",
+		"icon": "icon_71119",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000119": {
+		"cfgId": 70001,
+		"level": 19,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				119
+			]
+		],
+		"desc": " 1104 > <color=0CFB13>1152</color> ",
+		"icon": "icon_71120",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000120": {
+		"cfgId": 70001,
+		"level": 20,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				120
+			]
+		],
+		"desc": " 1152 > <color=0CFB13></color> ",
+		"icon": "icon_71121",
+		"quality": 1,
+		"name": "",
+		"cost": 3000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 3400,
+		"skillCfgId": 7000101
+	},
+	"7000200": {
+		"cfgId": 70002,
+		"level": 0,
+		"getWay": [
+			1,
+			2
+		],
+		"levelUpNeedItem": [],
+		"desc": "",
+		"icon": "icon_71122",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000201": {
+		"cfgId": 70002,
+		"level": 1,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				101
+			]
+		],
+		"desc": "",
+		"icon": "icon_71123",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000202": {
+		"cfgId": 70002,
+		"level": 2,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				102
+			]
+		],
+		"desc": "",
+		"icon": "icon_71124",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000203": {
+		"cfgId": 70002,
+		"level": 3,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				103
+			]
+		],
+		"desc": "",
+		"icon": "icon_71125",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000204": {
+		"cfgId": 70002,
+		"level": 4,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				104
+			]
+		],
+		"desc": "",
+		"icon": "icon_71126",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000205": {
+		"cfgId": 70002,
+		"level": 5,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				105
+			]
+		],
+		"desc": "",
+		"icon": "icon_71127",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000206": {
+		"cfgId": 70002,
+		"level": 6,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				106
+			]
+		],
+		"desc": "",
+		"icon": "icon_71128",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000207": {
+		"cfgId": 70002,
+		"level": 7,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				107
+			]
+		],
+		"desc": "",
+		"icon": "icon_71129",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000208": {
+		"cfgId": 70002,
+		"level": 8,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				108
+			]
+		],
+		"desc": "",
+		"icon": "icon_71130",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000209": {
+		"cfgId": 70002,
+		"level": 9,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				109
+			]
+		],
+		"desc": "",
+		"icon": "icon_71131",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000210": {
+		"cfgId": 70002,
+		"level": 10,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				110
+			]
+		],
+		"desc": "",
+		"icon": "icon_71132",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000211": {
+		"cfgId": 70002,
+		"level": 11,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				111
+			]
+		],
+		"desc": "",
+		"icon": "icon_71133",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000212": {
+		"cfgId": 70002,
+		"level": 12,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				112
+			]
+		],
+		"desc": "",
+		"icon": "icon_71134",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000213": {
+		"cfgId": 70002,
+		"level": 13,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				113
+			]
+		],
+		"desc": "",
+		"icon": "icon_71135",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000214": {
+		"cfgId": 70002,
+		"level": 14,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				114
+			]
+		],
+		"desc": "",
+		"icon": "icon_71136",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000215": {
+		"cfgId": 70002,
+		"level": 15,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				115
+			]
+		],
+		"desc": "",
+		"icon": "icon_71137",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000216": {
+		"cfgId": 70002,
+		"level": 16,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				116
+			]
+		],
+		"desc": "",
+		"icon": "icon_71138",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000217": {
+		"cfgId": 70002,
+		"level": 17,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				117
+			]
+		],
+		"desc": "",
+		"icon": "icon_71139",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000218": {
+		"cfgId": 70002,
+		"level": 18,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				118
+			]
+		],
+		"desc": "",
+		"icon": "icon_71140",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000219": {
+		"cfgId": 70002,
+		"level": 19,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				119
+			]
+		],
+		"desc": "",
+		"icon": "icon_71141",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000220": {
+		"cfgId": 70002,
+		"level": 20,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				120
+			]
+		],
+		"desc": "",
+		"icon": "icon_71142",
+		"quality": 1,
+		"name": "",
+		"cost": 6000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000300": {
+		"cfgId": 70003,
+		"level": 0,
+		"getWay": [
+			4,
+			10004
+		],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "：，，（，）",
+		"icon": "icon_71143",
+		"quality": 2,
+		"name": "",
+		"cost": 8000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000301": {
+		"cfgId": 70003,
+		"level": 1,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71144",
+		"quality": 2,
+		"name": "",
+		"cost": 8000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000302": {
+		"cfgId": 70003,
+		"level": 2,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71145",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000303": {
+		"cfgId": 70003,
+		"level": 3,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71146",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000304": {
+		"cfgId": 70003,
+		"level": 4,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71147",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000305": {
+		"cfgId": 70003,
+		"level": 5,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71148",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000306": {
+		"cfgId": 70003,
+		"level": 6,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71149",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000307": {
+		"cfgId": 70003,
+		"level": 7,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71150",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000308": {
+		"cfgId": 70003,
+		"level": 8,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71151",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000309": {
+		"cfgId": 70003,
+		"level": 9,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71152",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000310": {
+		"cfgId": 70003,
+		"level": 10,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71153",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000311": {
+		"cfgId": 70003,
+		"level": 11,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71154",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000312": {
+		"cfgId": 70003,
+		"level": 12,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71155",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000313": {
+		"cfgId": 70003,
+		"level": 13,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71156",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000314": {
+		"cfgId": 70003,
+		"level": 14,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71157",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000315": {
+		"cfgId": 70003,
+		"level": 15,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71158",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000316": {
+		"cfgId": 70003,
+		"level": 16,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71159",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000317": {
+		"cfgId": 70003,
+		"level": 17,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71160",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000318": {
+		"cfgId": 70003,
+		"level": 18,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71161",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000319": {
+		"cfgId": 70003,
+		"level": 19,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71162",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000320": {
+		"cfgId": 70003,
+		"level": 20,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71163",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000400": {
+		"cfgId": 70004,
+		"level": 0,
+		"getWay": [
+			2,
+			5
+		],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71164",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000401": {
+		"cfgId": 70004,
+		"level": 1,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				100
+			]
+		],
+		"desc": "",
+		"icon": "icon_71165",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000402": {
+		"cfgId": 70004,
+		"level": 2,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				101
+			]
+		],
+		"desc": "",
+		"icon": "icon_71166",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000403": {
+		"cfgId": 70004,
+		"level": 3,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				102
+			]
+		],
+		"desc": "",
+		"icon": "icon_71167",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000404": {
+		"cfgId": 70004,
+		"level": 4,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				103
+			]
+		],
+		"desc": "",
+		"icon": "icon_71168",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000405": {
+		"cfgId": 70004,
+		"level": 5,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				104
+			]
+		],
+		"desc": "",
+		"icon": "icon_71169",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000406": {
+		"cfgId": 70004,
+		"level": 6,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				105
+			]
+		],
+		"desc": "",
+		"icon": "icon_71170",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000407": {
+		"cfgId": 70004,
+		"level": 7,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				106
+			]
+		],
+		"desc": "",
+		"icon": "icon_71171",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000408": {
+		"cfgId": 70004,
+		"level": 8,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				107
+			]
+		],
+		"desc": "",
+		"icon": "icon_71172",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000409": {
+		"cfgId": 70004,
+		"level": 9,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				108
+			]
+		],
+		"desc": "",
+		"icon": "icon_71173",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000410": {
+		"cfgId": 70004,
+		"level": 10,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				109
+			]
+		],
+		"desc": "",
+		"icon": "icon_71174",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000411": {
+		"cfgId": 70004,
+		"level": 11,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				110
+			]
+		],
+		"desc": "",
+		"icon": "icon_71175",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000412": {
+		"cfgId": 70004,
+		"level": 12,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				111
+			]
+		],
+		"desc": "",
+		"icon": "icon_71176",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000413": {
+		"cfgId": 70004,
+		"level": 13,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				112
+			]
+		],
+		"desc": "",
+		"icon": "icon_71177",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000414": {
+		"cfgId": 70004,
+		"level": 14,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				113
+			]
+		],
+		"desc": "",
+		"icon": "icon_71178",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000415": {
+		"cfgId": 70004,
+		"level": 15,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				114
+			]
+		],
+		"desc": "",
+		"icon": "icon_71179",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000416": {
+		"cfgId": 70004,
+		"level": 16,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				115
+			]
+		],
+		"desc": "",
+		"icon": "icon_71180",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000417": {
+		"cfgId": 70004,
+		"level": 17,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				116
+			]
+		],
+		"desc": "",
+		"icon": "icon_71181",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000418": {
+		"cfgId": 70004,
+		"level": 18,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				117
+			]
+		],
+		"desc": "",
+		"icon": "icon_71182",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000419": {
+		"cfgId": 70004,
+		"level": 19,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				118
+			]
+		],
+		"desc": "",
+		"icon": "icon_71183",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	},
+	"7000420": {
+		"cfgId": 70004,
+		"level": 20,
+		"getWay": [],
+		"levelUpNeedItem": [
+			[
+				100001,
+				119
+			]
+		],
+		"desc": "",
+		"icon": "icon_71184",
+		"quality": 2,
+		"name": "",
+		"cost": 5000,
+		"soldierJob": [
+			[
+				0
+			]
+		],
+		"targetType": 1,
+		"range": 2500,
+		"skillCfgId": 7000101
+	}
+}

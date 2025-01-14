@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Anim1Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a13d82f667f09fb4ea91d57ea1a0dd72, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 1f1f6444db22b594f88472c42898acb4: 21300000
+    - e7f7ff846c939c14284cb9207ae69152: 21300000
+    - ed0c0cd432445394f93490e63ec17449: 21300000
+    - 5ff40ae4248c25f4394e0f07b753bc2c: 21300000
+    - 683ccba695b349c419821f41fd0e4850: 21300000
+    - 93cc9c570040c0240ac87894638b9ecf: 21300000
+    - 58ca86a75eeaf7642a954de904fbb048: 21300000
+    - b5e60aa9d45d08c42b8255cf24b5fc8e: 21300000
+    - ca762d9b154651b46890ea87e22f269d: 21300000
+    - 81bf49fd67bf2bb41b305883f75981b2: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1f1f6444db22b594f88472c42898acb4, type: 3}
+  - {fileID: 21300000, guid: e7f7ff846c939c14284cb9207ae69152, type: 3}
+  - {fileID: 21300000, guid: ed0c0cd432445394f93490e63ec17449, type: 3}
+  - {fileID: 21300000, guid: 5ff40ae4248c25f4394e0f07b753bc2c, type: 3}
+  - {fileID: 21300000, guid: 683ccba695b349c419821f41fd0e4850, type: 3}
+  - {fileID: 21300000, guid: 93cc9c570040c0240ac87894638b9ecf, type: 3}
+  - {fileID: 21300000, guid: 58ca86a75eeaf7642a954de904fbb048, type: 3}
+  - {fileID: 21300000, guid: b5e60aa9d45d08c42b8255cf24b5fc8e, type: 3}
+  - {fileID: 21300000, guid: ca762d9b154651b46890ea87e22f269d, type: 3}
+  - {fileID: 21300000, guid: 81bf49fd67bf2bb41b305883f75981b2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - xuanzhong__00001_00008
+  - xuanzhong__00001_00009
+  - xuanzhong__00001_00004
+  - xuanzhong__00001_00007
+  - xuanzhong__00001_00005
+  - xuanzhong__00001_00001
+  - xuanzhong__00001_00010
+  - xuanzhong__00001_00003
+  - xuanzhong__00001_00002
+  - xuanzhong__00001_00006
+  m_RenderDataMap: {}
+  m_Tag: Anim1Atlas
+  m_IsVariant: 0

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SetUpAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a396e158b52c23449bb955e51257f4cd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 473d0811dcf590842bd01602da372ba8: 21300000
+    - 3908b7857b7c75b4090b43d2f8579857: 21300000
+    - ccf0021608ba2164b96725e7291e1a9f: 21300000
+    - ebee83589a8301d4ea972782c738f858: 21300000
+    - 7005d0c8b38b00b41b9c85fbba298f58: 21300000
+    - 7875048af3973634196695269203e15d: 21300000
+    - 5dcc4edcea73f3f4583b03832205b715: 21300000
+    - 03c5f4ff5572bbc4c951de86f397d653: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 473d0811dcf590842bd01602da372ba8, type: 3}
+  - {fileID: 21300000, guid: 3908b7857b7c75b4090b43d2f8579857, type: 3}
+  - {fileID: 21300000, guid: ccf0021608ba2164b96725e7291e1a9f, type: 3}
+  - {fileID: 21300000, guid: ebee83589a8301d4ea972782c738f858, type: 3}
+  - {fileID: 21300000, guid: 7005d0c8b38b00b41b9c85fbba298f58, type: 3}
+  - {fileID: 21300000, guid: 7875048af3973634196695269203e15d, type: 3}
+  - {fileID: 21300000, guid: 5dcc4edcea73f3f4583b03832205b715, type: 3}
+  - {fileID: 21300000, guid: 03c5f4ff5572bbc4c951de86f397d653, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ui_english_anniu
+  - UI_button_icon
+  - UI_blood_icon
+  - UI_music_icon
+  - UI_on_icon
+  - UI_off_icon
+  - UI_sound_icon
+  - UI_open_icon
+  m_RenderDataMap: {}
+  m_Tag: SetUpAtlas
+  m_IsVariant: 0
